@@ -11,8 +11,8 @@
 # https://mmistakes.github.io/minimal-mistakes/docs/quick-start-guide/#installing-the-theme
 
 # theme                  : "minimal-mistakes-jekyll"
-# remote_theme           : "mmistakes/minimal-mistakes"
-minimal_mistakes_skin    : "default" # "air", "aqua", "contrast", "dark", "dirt", "neon", "mint", "plum", "sunrise"
+remote_theme           : "mmistakes/minimal-mistakes@4.24.0"
+minimal_mistakes_skin    : "air" # "default", "air", "aqua", "contrast", "dark", "dirt", "neon", "mint", "plum", "sunrise"
 
 # Site Settings
 locale                   : "en-US"
@@ -102,21 +102,15 @@ analytics:
 
 # Site Author
 author:
-  name             : "William Sciaroni"
+  name             : "Fr. Charles Merrill"
   avatar           : # path of avatar image, e.g. "/assets/images/bio-photo.jpg"
-  bio              : "Feel free to reach out if you have any issues."
+  bio              : "Pastor"
   location         : "Somewhere"
-  email            : "wsciaroni+annunlord@protonmail.com"
+  email            : "pastor@annunlord.com"
   links:
     - label: "Email"
       icon: "fas fa-fw fa-envelope-square"
-      # url: "mailto:wsciaroni+annunlord@protonmail.com"
-    - label: "Website"
-      icon: "fas fa-fw fa-link"
-      # url: "https://your-website.com"
-    - label: "GitHub"
-      icon: "fab fa-fw fa-github"
-      # url: "https://github.com/wsciaroni"
+      url: "mailto:pastor@annunlord.com"
 
 # Site Footer
 footer:
@@ -265,7 +259,7 @@ defaults:
       type: posts
     values:
       layout: single
-      author_profile: true
+      author_profile: false
       read_time: true
       comments: # true
       share: true
