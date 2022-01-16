@@ -1,16 +1,14 @@
 # main links
 main:
   - title: "Mass Times"
-    url: /mass_times/
+    url: /information/mass_times/
   - title: "Information"
     url: /information/
+  - title: "News"
+    url: /news/
+  - title: "Ministries"
+    url: /ministries/
   - title: "Sacraments"
     url: /sacraments/
   - title: "Faith Formation"
     url: /faith_formation/
-  - title: "Ministries"
-    url: /ministries/
-  - title: "Resources"
-    url: /resources/
-  - title: "Bulletin"
-    url: /bulletin

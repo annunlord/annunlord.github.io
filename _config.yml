@@ -10,8 +10,8 @@
 # Review documentation to determine if you should use `theme` or `remote_theme`
 # https://mmistakes.github.io/minimal-mistakes/docs/quick-start-guide/#installing-the-theme
 
-# theme                  : "minimal-mistakes-jekyll"
-remote_theme           : "mmistakes/minimal-mistakes@4.24.0"
+theme                  : "minimal-mistakes-jekyll"
+# remote_theme           : "mmistakes/minimal-mistakes@4.24.0"
 minimal_mistakes_skin    : "air" # "default", "air", "aqua", "contrast", "dark", "dirt", "neon", "mint", "plum", "sunrise"
 
 # Site Settings
@@ -27,7 +27,7 @@ repository               : "annunlord/annunlord.github.io"  # GitHub username/re
 teaser                   : # path of fallback teaser image, e.g. "/assets/images/500x300.png"
 logo                     : # path of logo image to display in the masthead, e.g. "/assets/images/88x88.png"
 masthead_title           : # overrides the website title displayed in the masthead, use " " for no title
-# breadcrumbs            : false # true, false (default)
+breadcrumbs              : true # true, false (default)
 words_per_minute         : 200
 comments:
   provider               : # false (default), "disqus", "discourse", "facebook", "staticman", "staticman_v2", "utterances", "giscus", "custom"
@@ -107,10 +107,6 @@ author:
   bio              : "Pastor"
   location         : "Somewhere"
   email            : "pastor@annunlord.com"
-  links:
-    - label: "Email"
-      icon: "fas fa-fw fa-envelope-square"
-      url: "mailto:pastor@annunlord.com"
 
 # Site Footer
 footer:
@@ -130,6 +126,9 @@ footer:
 include:
   - .htaccess
   - _pages
+  - _posts
+  - _information
+  - _sacraments
 exclude:
   - "*.sublime-project"
   - "*.sublime-workspace"
@@ -262,5 +261,52 @@ defaults:
       author_profile: false
       read_time: true
       comments: # true
-      share: true
+      share: false
       related: true
+  # _pages
+  - scope:
+      path: ""
+      type: pages
+    values:
+      layout: single
+      author_profile: false
+    # _portfolio
+  - scope:
+      path: ""
+      type: portfolio
+    values:
+      layout: single
+      author_profile: false
+      share: true
+  # Catchall
+  - scope:
+      path: ""
+      type: information
+    values:
+      layout: single
+      author_profile: false
+      share: false
+  - scope:
+      path: ""
+      type: sacraments
+    values:
+      layout: single
+      author_profile: false
+      share: false
+
+# Collections
+collections:
+  information:
+    output: true
+    permalink: /:collection/:path/
+  sacraments:
+    output: true
+    permalink: /:collection/:path/
+    order:
+      - _sacraments/baptism.md
+      - _sacraments/holy_communion.md
+      - _sacraments/reconciliation.md
+      - _sacraments/confirmation.md
+      - _sacraments/holy_matrimony.md
+      - _sacraments/holy_orders.md
+      - _sacraments/annointing_of_the_sick.md
