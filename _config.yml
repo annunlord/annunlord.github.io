@@ -290,14 +290,3 @@ collections:
   information:
     output: true
     permalink: /:collection/:path/
-  sacraments:
-    output: true
-    permalink: /:collection/:path/
-    order:
-      - _sacraments/baptism.md
-      - _sacraments/holy_communion.md
-      - _sacraments/reconciliation.md
-      - _sacraments/confirmation.md
-      - _sacraments/holy_matrimony.md
-      - _sacraments/holy_orders.md
-      - _sacraments/annointing_of_the_sick.md
