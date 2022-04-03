@@ -1,6 +1,7 @@
 ---
 title: "Contact Us"
 excerpt: "Foo Bar design system including logo mark, website design, and branding applications."
+toc: true
 header:
   overlay_image: /assets/images/blurred_bulletin.jpg
   teaser: /assets/images/blurred_bulletin.jpg
