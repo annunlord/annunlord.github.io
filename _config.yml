@@ -128,7 +128,6 @@ include:
   - _pages
   - _posts
   - _information
-  - _sacraments
 exclude:
   - "*.sublime-project"
   - "*.sublime-workspace"
