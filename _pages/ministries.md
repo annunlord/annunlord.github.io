@@ -1,4 +1,0 @@
----
-title: "Ministries"
-permalink: /:basename/
----
