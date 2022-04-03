@@ -6,9 +6,7 @@ main:
     url: /information/
   - title: "News"
     url: /news/
-  - title: "Ministries"
-    url: /ministries/
-  - title: "Sacraments"
-    url: /sacraments/
-  - title: "Faith Formation"
-    url: /faith_formation/
+  - title: "Contact Us"
+    url: /information/contact_us/
+  - title: "Donate"
+    url: /information/donate/
