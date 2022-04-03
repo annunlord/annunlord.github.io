@@ -2,8 +2,8 @@
 title: "Contact Us"
 excerpt: "Foo Bar design system including logo mark, website design, and branding applications."
 header:
-  image: /assets/images/foo-bar-identity.jpg
-  teaser: /assets/images/foo-bar-identity-th.jpg
+  overlay_image: /assets/images/blurred_bulletin.jpg
+  teaser: /assets/images/blurred_bulletin.jpg
 sidebar:
   - title: "Role"
     image: http://placehold.it/350x250
@@ -11,20 +11,111 @@ sidebar:
     text: "Designer, Front-End Developer"
   - title: "Responsibilities"
     text: "Reuters try PR stupid commenters should isn't a business model"
-gallery:
-  - url: /assets/images/unsplash-gallery-image-1.jpg
-    image_path: assets/images/unsplash-gallery-image-1-th.jpg
-    alt: "placeholder image 1"
-  - url: /assets/images/unsplash-gallery-image-2.jpg
-    image_path: assets/images/unsplash-gallery-image-2-th.jpg
-    alt: "placeholder image 2"
-  - url: /assets/images/unsplash-gallery-image-3.jpg
-    image_path: assets/images/unsplash-gallery-image-3-th.jpg
-    alt: "placeholder image 3"
 ---
 
-Pictures of Goats section West Seattle Blog dingbat newspaper rubber cement Google+ newsroom cafe news.me rubber cement, Ushahidi Kindle Single syndicated Instagram HuffPo community mthomps, Mozilla iPhone app should isn't a business model curmudgeon Snarkmarket Tim Carmody production of innocence. Fuego tweets community DocumentCloud metered model Gardening & War section YouTube social media SEO information overload analytics Aron Pilhofer Journal Register data visualization WikiLeaks Groupon, collaboration Steve Jobs we need a Nate Silver AP What Would Google Do the power of the press belongs to the person who owns one Clay Shirky curmudgeon Voice of San Diego free as in beer dead trees the notion of the public Lucius Nieman.
 
-{% include gallery caption="This is a sample gallery to go along with this case study." %}
+# Contact Us
 
-hackgate copyright Lucius Nieman CNN leaves it there right-sizing a giant stack of newspapers that you'll never read net neutrality algorithms RT algorithms TechCrunch 5% corruption, horse-race coverage Gardening & War section CTR try PR CPC David Cohn shoot a photo algorithms content is king Android Snarkmarket crowdfunding, Fuego Twitter topples dictators YouTube abundance WordPress Reuters try PR stupid commenters should isn't a business model bringing a tote bag to a knife fight.
+ANNUNCIATION OF THE LORD CATHOLIC CHURCH
+3910 Spring Avenue SW
+Decatur, AL 35603
+
+## Church Office
+
+- Office Phone
+  - `(256) 353-2667`
+- Office Fax
+  - `(256) 353-8994`
+- Emergencies
+  - `(256) 306-9811`
+- Email
+  - `parish@annunlord.com`
+
+OFFICE HOURS:
+
+- Monday – Thursday
+  - 8:00 AM – 4:00 PM;
+- Friday
+  - 8:00 AM – Noon
+
+## PARISH STAFF
+
+### PASTOR - Father Charles Merrill
+
+- Office Hours
+  - Tuesdays & Thursdays 2:00-6:00 PM
+- Office Phone
+  - `(256) 353-2667 x 101`
+- Email
+  - `pastor@annunlord.com`
+
+### CHURCH SECRETARY - Anne Palmer
+
+- Office Phone
+  - `(256) 353-2667 x 101`
+- Email
+  - `parish@annunlord.com`
+
+### COORDINATOR OF HISPANIC MINISTRY - Alma Uriostegui
+
+- Office Phone
+  - `(256) 353-2667 x 107`
+- Email
+  - `hispanicoffice@annunlord.com`
+
+### DIRECTOR OF RELIGIOUS EDUCATION - Patrice Lappert
+
+- Office Phone
+  - `(256) 353-2667 x 108`
+- Email
+  - `religion@saintanndecatur.org`
+
+### OPERATIONS COORDINATOR - Jan Gile
+
+- Office Phone
+  - `(256) 353-2667 x 103`
+- Email
+  - `jgile@annunlord.com`
+
+### MUSIC DIRECTOR - Debbie Bailie
+
+- Email
+  - `music@saintanndecatur.org`
+
+### WEDDING COORDINATOR - Kris Staudt
+
+- Phone
+  - `(256) 509-1442`
+
+### FACILITIES MANAGER - Arvel Childers
+
+- Office Phone
+  - `(256) 353-2667 x 109`
+- Email
+  - `facilitiesmgr@annunlord.com`
+
+### FINANCE MANAGER - Nancy Carlisle
+
+- Office Phone
+  - `(256) 353-2667 x 121`
+- Email
+  - `financemgr@annunlord.com`
+
+### ADMINISTRATIVE / FINANCIAL ASSISTANT - Annette Monahan
+
+- Office Phone
+  - `(256) 353-2667 x 148`
+- Email
+  - `bookkeeper@annunlord.com`
+
+### CUSTODIAN - Lupita Gonzalez
+
+## DEACONS
+
+- Deacon Javier Ramirez h: `(256) 351-0826`
+- Deacon Patrick Lappert h: `(256) 351-7061`
+- Deacon Lou Sciaroni h: `(256) 355-3363`
+- Deacon Bob Catanach h: `(256) 604-6865`
+- Deacon Rick Chenault c: `(256) 476-0134` – Resurrection Chapel
+
+
