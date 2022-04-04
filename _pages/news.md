@@ -1,5 +1,5 @@
 ---
-title: "News Posts"
+title: "Parish News"
 layout: posts
 permalink: /:basename/
 ---
