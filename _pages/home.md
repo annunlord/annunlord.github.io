@@ -4,33 +4,33 @@ layout: splash
 hidden: true
 header:
   overlay_color: "#5e616c"
-  overlay_image: /assets/images/mm-home-page-feature.jpg
+  overlay_image: /assets/images/reconciliation-1.png
   actions:
-    - label: "<i class='fas fa-download'></i> Install now"
-      url: "/docs/quick-start-guide/"
+    - label: "See Mass Times"
+      url: "/information/mass_times/"
 excerpt: >
-  A flexible two-column Jekyll theme. Perfect for building personal sites, blogs, and portfolios.<br />
+  To know and love God and be Christ to one another.<br />
   <small><a href="https://github.com/mmistakes/minimal-mistakes/releases/tag/4.24.0">Latest release v4.24.0</a></small>
 feature_row:
   - image_path: /assets/images/mm-customizable-feature.png
-    alt: "customizable"
-    title: "Super customizable"
-    excerpt: "Everything from the menus, sidebars, comments, and more can be configured or set with YAML Front Matter."
-    url: "/docs/configuration/"
+    alt: "Saint Ann Catholic School"
+    title: "Saint Ann Catholic School"
+    excerpt: "Cultivating truth, goodness, and beauty"
+    url: "https://saintanndecatur.org/"
     btn_class: "btn--primary"
     btn_label: "Learn more"
   - image_path: /assets/images/mm-responsive-feature.png
-    alt: "fully responsive"
-    title: "Responsive layouts"
-    excerpt: "Built with HTML5 + CSS3. All layouts are fully responsive with helpers to augment your content."
-    url: "/docs/layouts/"
+    alt: "Weekly Bulletin"
+    title: "Weekly Bulletin"
+    excerpt: "Get your fix of the weekly news!"
+    url: "/information/bulletins/"
     btn_class: "btn--primary"
     btn_label: "Learn more"
   - image_path: /assets/images/mm-free-feature.png
-    alt: "100% free"
-    title: "100% free"
-    excerpt: "Free to use however you want under the MIT License. Clone it, fork it, customize it... whatever!"
-    url: "/docs/license/"
+    alt: "Parish Calendar"
+    title: "Parish Calendar"
+    excerpt: "Stay in the \"know.\" Check out the calendar!"
+    url: "/information/calendar/"
     btn_class: "btn--primary"
     btn_label: "Learn more"      
 ---

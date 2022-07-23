@@ -1,5 +1,6 @@
 ---
 title: "Bulletins"
+permalink: /information/bulletins/
 excerpt: "Weekly Bulletin"
 header:
   overlay_image: /assets/images/blurred_bulletin.jpg

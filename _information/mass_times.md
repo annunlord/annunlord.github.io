@@ -1,5 +1,6 @@
 ---
 title: "Mass Times"
+permalink: /information/mass_times/
 excerpt: "Mass and Reconciliation Schedule"
 header:
   image:  /assets/images/foo-bar-identity.jpg
