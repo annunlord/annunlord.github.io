@@ -120,3 +120,21 @@ OFFICE HOURS:
 - Deacon Rick Chenault c: `(256) 476-0134` – Resurrection Chapel
 
 
+## Our Diocese
+
+Diocese of Birmingham in Alabama
+2121 3rd Avenue North (35203)
+P. O. Box 12047
+Birmingham, AL 35202-2047
+(205) 838-8322
+
+[www.bhmdiocese.org](www.bhmdiocese.org)
+
+## United States Conference of Catholic Bishops
+
+United States Conference of Catholic Bishops
+3211 Fourth Street NE
+Washington DC 20017
+(202) 541-3000
+
+[www.usccb.org](www.usccb.org)
