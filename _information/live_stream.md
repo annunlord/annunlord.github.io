@@ -7,4 +7,4 @@ header:
 layout: single
 ---
 
-<iframe src="https://www.youtube.com/channel/UCqUETOxUnOafzP6qrBzcCxQ" title="description"></iframe>
+<iframe width="600" height="340" src="https://www.youtube.com/embed?max-results=1&controls=0&showinfo=0&rel=0&listType=user_uploads&list=UCqUETOxUnOafzP6qrBzcCxQ" frameborder="0" allowfullscreen></iframe>
