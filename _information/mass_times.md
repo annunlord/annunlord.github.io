@@ -47,7 +47,7 @@ layout: single
 
 ## Reconciliation/Reconciliación
 
-* See [Bulletin for up to date times](bulletins.md)
+* See [Bulletin for up to date times](../bulletins/bulletins.md)
 
 ## Eucharistic Adoration/Adoración
 
