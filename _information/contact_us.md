@@ -131,3 +131,11 @@ Washington DC 20017
 (202) 541-3000
 
 [www.usccb.org](www.usccb.org)
+
+## Problem with the website?
+
+Contact Will Sciaroni
+
+[wsciaroni+annunlord@protonmail.com](mailto:wsciaroni+annunlord@protonmail.com)
+
+Or leave an issue on the [GitHub here.](https://github.com/annunlord/annunlord.github.io/issues)
