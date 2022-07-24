@@ -23,7 +23,7 @@ Decatur, AL 35603
 - Emergencies
   - `(256) 306-9811`
 - Email
-  - `parish@annunlord.com`
+  - [parish@annunlord.com](mailto:parish@annunlord.com)
 
 OFFICE HOURS:
 
@@ -41,40 +41,40 @@ OFFICE HOURS:
 - Office Phone
   - `(256) 353-2667 x 101`
 - Email
-  - `pastor@annunlord.com`
+  - [pastor@annunlord.com](mailto:pastor@annunlord.com)
 
 ### CHURCH SECRETARY - Anne Palmer
 
 - Office Phone
   - `(256) 353-2667 x 101`
 - Email
-  - `parish@annunlord.com`
+  - [parish@annunlord.com](mailto:parish@annunlord.com)
 
 ### COORDINATOR OF HISPANIC MINISTRY - Alma Uriostegui
 
 - Office Phone
   - `(256) 353-2667 x 107`
 - Email
-  - `hispanicoffice@annunlord.com`
+  - [hispanicoffice@annunlord.com](mailto:hispanicoffice@annunlord.com)
 
 ### DIRECTOR OF RELIGIOUS EDUCATION - Patrice Lappert
 
 - Office Phone
   - `(256) 353-2667 x 108`
 - Email
-  - `religion@saintanndecatur.org`
+  - [religion@saintanndecatur.org](mailto:religion@saintanndecatur.org)
 
 ### OPERATIONS COORDINATOR - Jan Gile
 
 - Office Phone
   - `(256) 353-2667 x 103`
 - Email
-  - `jgile@annunlord.com`
+  - [jgile@annunlord.com](mailto:jgile@annunlord.com)
 
 ### MUSIC DIRECTOR - Debbie Bailie
 
 - Email
-  - `music@saintanndecatur.org`
+  - [music@saintanndecatur.org](mailto:music@saintanndecatur.org)
 
 ### WEDDING COORDINATOR - Kris Staudt
 
@@ -86,21 +86,21 @@ OFFICE HOURS:
 - Office Phone
   - `(256) 353-2667 x 109`
 - Email
-  - `facilitiesmgr@annunlord.com`
+  - [facilitiesmgr@annunlord.com](mailto:facilitiesmgr@annunlord.com)
 
 ### FINANCE MANAGER - Nancy Carlisle
 
 - Office Phone
   - `(256) 353-2667 x 121`
 - Email
-  - `financemgr@annunlord.com`
+  - [financemgr@annunlord.com](mailto:financemgr@annunlord.com)
 
 ### ADMINISTRATIVE / FINANCIAL ASSISTANT - Annette Monahan
 
 - Office Phone
   - `(256) 353-2667 x 148`
 - Email
-  - `bookkeeper@annunlord.com`
+  - [bookkeeper@annunlord.com](mailto:bookkeeper@annunlord.com)
 
 ### CUSTODIAN - Lupita Gonzalez
 
