@@ -10,7 +10,7 @@ header:
       url: "/information/mass_times/"
 excerpt: >
   To know and love God and be Christ to one another.<br />
-  <small><a href="https://github.com/mmistakes/minimal-mistakes/releases/tag/4.24.0">Latest release v4.24.0</a></small>
+  <small><a href="https://www.catholic.com/magazine/print-edition/christian-yesbut-why-catholic">Why Catholic?</a></small>
 feature_row:
   - title: "Saint Ann Catholic School"
     excerpt: "Cultivating truth, goodness, and beauty"
