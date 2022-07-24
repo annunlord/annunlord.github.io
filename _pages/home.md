@@ -14,6 +14,8 @@ excerpt: >
 feature_row:
   - image_path: /assets/images/School-logo.bmp
     alt: "Saint Ann Catholic School"
+    width: 100px;
+    height: auto;
     title: "Saint Ann Catholic School"
     excerpt: "Cultivating truth, goodness, and beauty"
     url: "https://saintanndecatur.org/"
@@ -21,6 +23,8 @@ feature_row:
     btn_label: "Learn more"
   - image_path: /assets/images/bulletin-image.jpg
     alt: "Weekly Bulletin"
+    width: 100px;
+    height: auto;
     title: "Weekly Bulletin"
     excerpt: "Get your fix of the weekly news!"
     url: "/information/bulletins/"
@@ -28,6 +32,8 @@ feature_row:
     btn_label: "Learn more"
   - image_path: /assets/images/vector-calendar-icon-symbol-sign.jpg
     alt: "Parish Calendar"
+    width: 100px;
+    height: auto;
     title: "Parish Calendar"
     excerpt: "Stay in the \"know.\" Check out the calendar!"
     url: "/information/calendar/"
