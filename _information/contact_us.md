@@ -39,11 +39,20 @@ OFFICE HOURS:
 - Office Hours
   - Tuesdays & Thursdays 2:00-6:00 PM
 - Office Phone
-  - [(256) 353-2667 x 101](tel:+12563532667p101)
+  - [(256) 353-2667 x 120](tel:+12563532667p120)
 - Email
   - [pastor@annunlord.com](mailto:pastor@annunlord.com)
 
-### CHURCH SECRETARY - Anne Palmer
+### Parochial Vicar - Father Charles Deering
+
+- Office Hours
+  - Monday & Wednesday 1:00-5:00 PM
+- Office Phone
+  - [(256) 353-2667 x 131](tel:+12563532667p131)
+- Email
+  - [padre@annunlord.com](mailto:padre@annunlord.com)
+  - 
+### CHURCH SECRETARY - Anne Palmer (mornings), Carolina Chambers(afternoons)
 
 - Office Phone
   - [(256) 353-2667 x 101](tel:+12563532667p101)
@@ -57,7 +66,7 @@ OFFICE HOURS:
 - Email
   - [hispanicoffice@annunlord.com](mailto:hispanicoffice@annunlord.com)
 
-### DIRECTOR OF RELIGIOUS EDUCATION - Patrice Lappert
+### DIRECTOR OF RELIGIOUS EDUCATION - Beth 
 
 - Office Phone
   - [(256) 353-2667 x 108](tel:+12563532667p108)
@@ -67,11 +76,11 @@ OFFICE HOURS:
 ### OPERATIONS COORDINATOR - Jan Gile
 
 - Office Phone
-  - [(256) 353-2667 x 103](tel:+12563532667p103)
+  - [(256) 353-2667 x 148](tel:+12563532667p148)
 - Email
   - [jgile@annunlord.com](mailto:jgile@annunlord.com)
 
-### MUSIC DIRECTOR - Debbie Bailie
+### MUSIC DIRECTOR - Ashleigh Russell
 
 - Email
   - [music@saintanndecatur.org](mailto:music@saintanndecatur.org)
@@ -95,23 +104,20 @@ OFFICE HOURS:
 - Email
   - [financemgr@annunlord.com](mailto:financemgr@annunlord.com)
 
-### ADMINISTRATIVE / FINANCIAL ASSISTANT - Annette Monahan
+### FINANCIAL ASSISTANT / Youth Minister - Carolina Chambers
 
 - Office Phone
-  - [(256) 353-2667 x 148](tel:+12563532667p148)
+  - [(256) 353-2667 x 103](tel:+12563532667p103)
 - Email
   - [bookkeeper@annunlord.com](mailto:bookkeeper@annunlord.com)
 
-### CUSTODIAN - Lupita Gonzalez
+### CUSTODIAN - Maria Gonzalez
 
 ## DEACONS
 
-- Deacon Javier Ramirez h: [(256) 351-0826](tel:+12563510826)
-- Deacon Patrick Lappert h: [(256) 351-7061](tel:+12563517061)
-- Deacon Lou Sciaroni h: [(256) 355-3363](tel:+12563553363)
-- Deacon Bob Catanach h: [(256) 604-6865](tel:+12566046865)
-- Deacon Rick Chenault c: [(256) 476-0134](tel:+12564760134) – Resurrection Chapel
-
+- Deacon Patrick Lappert [(256) 221-8844](tel:+12562218844)
+- Deacon Lou Sciaroni [(256) 355-3363](tel:+12563553363)
+- Deacon Bob Catanach [(256) 604-6865](tel:+12566046865)
 
 ## Our Diocese
 
@@ -133,6 +139,33 @@ Washington DC 20017
 [(202) 541-3000](tel:+12025413000)
 
 [www.usccb.org](www.usccb.org)
+
+# Who To Contact
+
+## Baptism
+
+Pre-Baptism classes in English are held on the 2nd Saturday of the month from 8:30-9:30 AM. Pre-registration is required.
+Contact the Parish Office.
+
+## Marriage
+
+Arrangements must be made 6 months in advance.
+Call Parish Office.
+
+## Annointing of the Sick or Sick Calls
+
+To schedule, please call the Parish Office including
+if a family member is in the hospital.
+
+## Funerals
+
+Please contact the Parish Office before making
+funeral home arrangements.
+
+## OCIA (Formerly RCIA)
+
+Thursdays, 6:30-7:30 PM September - April.
+Please contact the Parish Office.
 
 ## Problem with the website?
 
