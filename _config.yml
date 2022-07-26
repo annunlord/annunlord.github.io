@@ -122,6 +122,12 @@ footer:
     - label: "GitHub"
       icon: "fab fa-fw fa-github"
       url: "https://github.com/annunlord"
+    - label: "Terms"
+      icon: "fas fa-link"
+      url: "/terms/#terms-and-conditions"
+    - label: "Privacy Policy"
+      icon: "fas fa-link"
+      url: "/terms/#privacy-policy"
 
 
 # Reading Files

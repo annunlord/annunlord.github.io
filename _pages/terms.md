@@ -8,7 +8,7 @@ header:
 layout: single
 ---
 
-# Terms of Conditions
+# Terms and Conditions
 
 By using the app, these terms will automatically apply to you – you should make sure therefore that you read them carefully before using the app. You’re not allowed to copy or modify the app, any part of the app, or our trademarks in any way. The app itself, and all the trademarks, copyright, database rights, and other intellectual property rights related to it, still belong to Annunciation Of The Lord.
 
