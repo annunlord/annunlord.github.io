@@ -8,6 +8,10 @@
     https://player.vimeo.com/video/{{ video_id }}?dnt=true
   {% when "youtube" %}
     https://www.youtube-nocookie.com/embed/{{ video_id }}
+  {% when "youtube-live" %}
+    https://www.youtube.com/embed/live_stream?channel={{ video_id }}
+  {% when "youtube-playlist" %}
+  https://www.youtube.com/embed/videoseries?list={{ video_id }}
   {% when "google-drive" %}
     https://drive.google.com/file/d/{{ video_id }}/preview
   {% when "bilibili" %}
