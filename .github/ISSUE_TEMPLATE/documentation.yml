@@ -1,17 +1,17 @@
-name: Documentation
-description: Found a typo or something that needs clarification?
+name: Suggestion
+description: Found a typo or something that needs updating?
 body:
   - type: markdown
     attributes:
       value: |
-        Thanks for taking the time to open an issue and help make the docs better.
+        Thanks for taking the time to open an issue and help make the site better.
 
   - type: textarea
     id: motivation
     attributes:
       label: Motivation
       description: |
-        Why should we update our docs?
+        Why should we update the page?
     validations:
       required: true
 
