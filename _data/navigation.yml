@@ -10,3 +10,21 @@ main:
     url: /information/contact_us/
   - title: "Donate"
     url: https://giving.parishsoft.com/App/Giving/annunlord
+
+information:
+  - title: "Mass Times"
+    url: /information/mass_times/
+  - title: "Bulletins"
+    url: /information/bulletins/
+  - title: "Contact Us"
+    url: /information/contact_us/
+  - title: "Calendar"
+    url: /information/calendar/
+  - title: "Directions"
+    url: /information/directions/
+  - title: "Email List"
+    url: /information/email_list/
+  - title: "Links"
+    url: /information/links/
+  - title: "Live Stream"
+    url: /information/live_stream/

@@ -52,9 +52,11 @@ layout: single
 
 ## Eucharistic Adoration/Adoración
 
-- Monday/lunes 10:00 AM
-- Wednesday/miércoles 6:00 PM
+From Monday 10:00 AM through Wednesday 6:00 PM.
   
 Will be in Adoration Chapel until 1 PM Wednesday then will move into church until 6:00 PM
+
+Desde el lunes 10:00 a. m. hasta el miércoles 6:00 p. m.
+
 Estará en la Capilla de Adoración hasta la 1 p.m del miércoles y luego se trasladará a la iglesia hasta las 6:00 p.m.
 
