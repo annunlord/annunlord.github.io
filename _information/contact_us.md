@@ -144,8 +144,7 @@ Washington DC 20017
 
 ## Baptism
 
-Pre-Baptism classes in English are held on the 2nd Saturday of the month from 8:30-9:30 AM. Pre-registration is required.
-Contact the Parish Office.
+Pre-Baptism classes in English are usually held on the 2nd Saturday of the month from 8:30-9:30 AM. Pre-registration is required. Contact the Parish Office to register and to verify the date and time of the class.
 
 ## Marriage
 
