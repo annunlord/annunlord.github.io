@@ -4,7 +4,7 @@ layout: splash
 hidden: true
 header:
   overlay_color: "#5e616c"
-  overlay_image: /assets/images/reconciliation-1.png
+  overlay_image: /assets/images/20200302_204320-cropped-blur-dark2.jpg
   actions:
     - label: "See Mass Times"
       url: "/information/mass_times/"
