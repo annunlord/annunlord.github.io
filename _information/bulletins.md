@@ -8,10 +8,11 @@ header:
 layout: single
 ---
 
-<iframe src="https://drive.google.com/embeddedfolderview?id=1XZ65VedDzhbFHsxZMbXO0KQ1w3jDuheU#list" style="width:100%; height:600px; border:0;"></iframe>
+<!-- Switch to dropbox from Google Drive-->
+<!-- <iframe src="https://drive.google.com/embeddedfolderview?id=1XZ65VedDzhbFHsxZMbXO0KQ1w3jDuheU#list" style="width:100%; height:600px; border:0;"></iframe> -->
 
-<!--iframe src="https://drive.google.com/embeddedfolderview?id=1XZ65VedDzhbFHsxZMbXO0KQ1w3jDuheU#grid" style="width:100%; height:600px; border:0;"></iframe-->
+<!-- https://www.dropbox.com/sh/ejrpjuuysbnityj/AACtjF8sb3rhDZRHESCOFtAKa?dl=0 -->
 
-<!--
-https://drive.google.com/drive/folders/1XZ65VedDzhbFHsxZMbXO0KQ1w3jDuheU?usp=sharing
--->
+<script type="text/javascript" src="https://www.dropbox.com/static/api/2/dropins.js" id="dropboxjs" data-app-key="sswhidu6e2yb836"></script>
+
+<a href="https://www.dropbox.com/sh/ejrpjuuysbnityj/AACtjF8sb3rhDZRHESCOFtAKa?dl=0" class="dropbox-embed" data-height="600px" data-width="100%"></a>
