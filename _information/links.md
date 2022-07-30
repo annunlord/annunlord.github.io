@@ -14,10 +14,10 @@ layout: single
 # Diocesan Links
 
 - [One Voice](https://onevoicebhm.org/)
-- [www.bhmdiocese.org](www.bhmdiocese.org)
+- [www.bhmdiocese.org](https://www.bhmdiocese.org)
 
 # Other Links
 
-- [www.usccb.org](www.usccb.org)
+- [www.usccb.org](https://www.usccb.org)
 - [Vatican](https://www.vatican.va/content/vatican/en.html)
 - [Suggest an eddit to this website](https://github.com/annunlord/annunlord.github.io/issues)
