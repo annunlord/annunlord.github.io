@@ -12,11 +12,6 @@ excerpt: >
   To know and love God and be Christ to one another.<br />
   <small><a href="https://www.catholic.com/magazine/print-edition/christian-yesbut-why-catholic">Why Catholic?</a></small>
 feature_row:
-  - title: "Saint Ann Catholic School"
-    excerpt: "Cultivating truth, goodness, and beauty"
-    url: "https://saintanndecatur.org/"
-    btn_class: "btn--primary"
-    btn_label: "Learn more"
   - title: "Weekly Bulletin"
     excerpt: "Get your fix of the weekly news!"
     url: "/information/bulletins/"
@@ -26,7 +21,12 @@ feature_row:
     excerpt: "Stay in the \"know.\" Check out the calendar!"
     url: "/information/calendar/"
     btn_class: "btn--primary"
-    btn_label: "Learn more"      
+    btn_label: "Learn more"    
+  - title: "Saint Ann Catholic School"
+    excerpt: "Cultivating truth, goodness, and beauty"
+    url: "https://saintanndecatur.org/"
+    btn_class: "btn--primary"
+    btn_label: "Learn more"  
 ---
 
 {% include feature_row %}
