@@ -1,5 +1,8 @@
 name: Suggestion
 description: Found a typo or something that needs updating?
+title: "[Suggestion] - PLEASE PUT A TITLE HERE"
+labels: suggestion
+assignees: ''
 body:
   - type: markdown
     attributes:

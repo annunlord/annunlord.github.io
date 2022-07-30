@@ -1,5 +1,7 @@
 name: Bug Report
 description: There is something broken with the website
+labels: bug
+title: "[BUG] - PLEASE PUT A TITLE HERE"
 body:
   - type: markdown
     attributes:

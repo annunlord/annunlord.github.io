@@ -1,7 +1,8 @@
 name: News Post Request
 description: Request a post be created in the News area
-title: "[News Post] "
+title: "[News Post] - PLEASE PUT A TITLE HERE"
 labels: NewPost
+assignees: ''
 body:
   - type: markdown
     attributes:

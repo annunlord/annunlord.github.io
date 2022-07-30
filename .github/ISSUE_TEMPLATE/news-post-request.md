@@ -1,7 +1,7 @@
 ---
 name: News Post Request
 about: Request a post be created in the News area
-title: "[News Post] "
+title: "[News Post] - PLEASE PUT A TITLE HERE"
 labels: NewPost
 assignees: ''
 
