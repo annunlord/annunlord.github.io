@@ -1,4 +1,4 @@
-name: Pull Request Template
+name: New Post Request
 description: Request a post be created in the News area
 title: "[News Post] "
 labels: NewPost
