@@ -1,0 +1,27 @@
+name: Pull Request Template
+description: Request a post be created in the News area
+title: "[News Post] "
+labels: NewPost
+body:
+  - type: markdown
+    attributes:
+      value: |
+        Thanks for taking the time to write a post. Please leave as much information as possible so I can get this post created.
+
+  - type: textarea
+    id: information
+    attributes:
+      label: Information
+      description: |
+        Who is the author of this post? (Please put their email here so I can get more information if needed). What is the date of this post?
+    validations:
+      required: true
+
+  - type: textarea
+    id: postcontent
+    attributes:
+      label: Contents
+      description: |
+        What is the body of this post?
+    validations:
+      required: true
