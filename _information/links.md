@@ -8,16 +8,24 @@ layout: single
 # Parish Organizations
 
 - [Knights of Columbus](https://council3986.weebly.com/)
-- [Gift Shop Facebook Page]()
-- [St. Ann Facebook Page]()
+- [Gift Shop Facebook Page](https://m.facebook.com/107110834006354/)
+- [St. Ann Facebook Page](https://m.facebook.com/159565961055772/)
 
 # Diocesan Links
 
 - [One Voice](https://onevoicebhm.org/)
 - [www.bhmdiocese.org](https://www.bhmdiocese.org)
 
-# Other Links
+# Catholic Links
 
 - [www.usccb.org](https://www.usccb.org)
 - [Vatican](https://www.vatican.va/content/vatican/en.html)
+- [Catholic Answers](https://www.catholic.com/)
+
+- [The Bible in a Year](https://ascensionpress.com/pages/biy-registration)
+- [What We Believe (The Catechism of the Catholic Church)](https://www.usccb.org/sites/default/files/flipbooks/catechism/)
+- [The Daily Reedings](https://bible.usccb.org/)
+- [The Bible](https://bible.usccb.org/bible)
+
+# Other Links
 - [Suggest an eddit to this website](https://github.com/annunlord/annunlord.github.io/issues)
