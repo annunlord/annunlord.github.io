@@ -1,6 +1,6 @@
 ---
 author_profile: true
-author: William Sciaroni
+author: Lou Sciaroni
 gallery:
   - url: /assets/images/2022-07-26/20220618_093352.jpg
     image_path: /assets/images/2022-07-26/20220618_093352.jpg

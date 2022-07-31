@@ -2,8 +2,8 @@
 
 Fr Charles Merrill:
   name        : "Fr. Charles Merrill"
-  bio         : "What do you want, jewels? I am a very extravagant man."
-  avatar      : "/assets/images/bio-photo-2.jpg"
+  bio         : "Pastor"
+  avatar      : "/assets/images/bio-photo-2.png"
   links:
     - label: "Email"
       icon: "fas fa-fw fa-envelope-square"
@@ -11,7 +11,7 @@ Fr Charles Merrill:
 
 William Sciaroni:
   name        : "William Sciaroni"
-
+  bio         : "Web master"
   avatar      : https://en.gravatar.com/userimage/183988754/f4091beb5113f81daf97ea2c048a8476.jpeg
   links:
     - label: "Email"
@@ -20,6 +20,7 @@ William Sciaroni:
 
 Abby Sciaroni:
   name        : "Abby Sciaroni"
+  avatar      : "/assets/images/bio-photo-2.png"
   links:
     - label: "Email"
       icon: "fas fa-fw fa-envelope-square"
@@ -27,7 +28,13 @@ Abby Sciaroni:
 
 Jan Gile:
   name        : "Jan Gile"
+  avatar      : "/assets/images/bio-photo-2.png"
   links:
     - label: "Email"
       icon: "fas fa-fw fa-envelope-square"
       url: "mailto:jgile@annunlord.com"
+
+Lou Sciaroni:
+  name        : "Dcn Lou Sciaroni"
+  avatar      : "/assets/images/bio-photo-2.png"
+  bio         : "Permanent Deacon"
