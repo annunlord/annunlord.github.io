@@ -1,9 +1,10 @@
 ---
 author_profile: true
 author: William Sciaroni
+categories:
+  - Updates
 tags:
   - website
-  - updates
 ---
 
 # Welcome
