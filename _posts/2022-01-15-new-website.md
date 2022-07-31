@@ -1,3 +1,12 @@
+---
+author_profile: true
+author: William Sciaroni
+categories:
+  - Updates
+tags:
+  - website
+---
+
 # Welcome
 
 Hellow everyone, I wanted to help improve our parish's website... So, here we are. I hope you like it.

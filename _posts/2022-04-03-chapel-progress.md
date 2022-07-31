@@ -3,6 +3,10 @@ author_profile: true
 author: William Sciaroni
 header:
   overlay_image: /assets/images/2022-04-03/outside_chapel.jpg
+categories:
+  - Updates
+tags:
+  - Chapel
 ---
 
 # Construction Update
