@@ -22,10 +22,9 @@ gallery:
     image_path: /assets/images/2022-07-26/20220523_141445.jpg
     alt: "placeholder image 5"
     title: "Image 1 title caption"
-categories:
-  - Updates
 tags:
   - Chapel
+  - updates
 ---
 
 {% include gallery caption="A few images from the Chapel" %}
