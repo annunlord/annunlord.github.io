@@ -21,7 +21,8 @@ Decatur, AL 35603
 - Office Fax
   - `(256) 353-8994`
 - Emergencies
-  - [(256) 306-9811](tel:+12563069811)
+  - [(256) 306-9811 - bilingual](tel:+12563069811)
+  - [(256) 686-0096 English](tel:+12566860096)
 - Email
   - [parish@annunlord.com](mailto:parish@annunlord.com)
 
