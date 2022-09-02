@@ -10,3 +10,4 @@ header:
 
 <div class='mailmunch-forms-widget-1095004'></div>
 
+This page is still under construction, please email the parish office to be added to the email list.
