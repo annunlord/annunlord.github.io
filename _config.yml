@@ -21,7 +21,7 @@ title_separator          : "-"
 subtitle                 : # Decatur, Alabama # site tagline that appears below site title in masthead
 name                     : "Annunciation of the Lord Catholic Church"
 description              : "A Catholic Parish in Decatur, AL"
-url                      : "https://next.annunlord.com" # the base hostname & protocol for your site e.g. "https://mmistakes.github.io"
+url                      : "https://annunlord.com" # the base hostname & protocol for your site e.g. "https://mmistakes.github.io"
 baseurl                  : # the subpath of your site, e.g. "/blog"
 repository               : "annunlord/annunlord.github.io"  # GitHub username/repo-name e.g. "mmistakes/minimal-mistakes"
 teaser                   : # path of fallback teaser image, e.g. "/assets/images/500x300.png"
