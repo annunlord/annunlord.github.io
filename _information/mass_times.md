@@ -39,7 +39,7 @@ layout: single
 | Friday/viernes                | 9:00 am   | English         |
 | Friday/viernes                | 6:00 pm*  | Español         |
 
-*El primer viernes del mes a las 7:00 P.M. / On the first Friday of the month at 7:00 PM
+*El primer viernes del mes a las 7:00 P.M. / On the first Friday of the month at 7:00 PM (Latin)
 
 ## Special Masses/Misas Especiales
 
