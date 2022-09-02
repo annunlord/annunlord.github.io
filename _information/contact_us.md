@@ -52,7 +52,7 @@ OFFICE HOURS:
   - [(256) 353-2667 x 131](tel:+12563532667p131)
 - Email
   - [padre@annunlord.com](mailto:padre@annunlord.com)
-  - 
+
 ### CHURCH SECRETARY - Anne Palmer (mornings), Carolina Chambers(afternoons)
 
 - Office Phone
@@ -67,7 +67,7 @@ OFFICE HOURS:
 - Email
   - [hispanicoffice@annunlord.com](mailto:hispanicoffice@annunlord.com)
 
-### DIRECTOR OF RELIGIOUS EDUCATION - Beth 
+### DIRECTOR OF RELIGIOUS EDUCATION - Liz
 
 - Office Phone
   - [(256) 353-2667 x 108](tel:+12563532667p108)
