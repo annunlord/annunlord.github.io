@@ -6,9 +6,7 @@ header:
   teaser: /assets/images/foo-bar-identity-th.jpg
 ---
 
-<head>
-<!-- Paste this code right before the </head> tag on every page of your site.-->
-<script src="//app.mailmunch.com/app/v1/site.js" id="mailmunch-script" data-mailmunch-site-id="263465" async="async"></script>
-</head>
+<!-- The script code can be found in head.html which is clued in by the page title being Email List ! If you change that, it will break the script include. -->
+
 <div class='mailmunch-forms-widget-1095004'></div>
 
