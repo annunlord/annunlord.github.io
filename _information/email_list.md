@@ -1,9 +1,6 @@
 ---
 title: "Email List"
 excerpt: "Join our email list"
-header:
-  image: /assets/images/foo-bar-identity.jpg
-  teaser: /assets/images/foo-bar-identity-th.jpg
 ---
 
 <!-- Begin Mailchimp Signup Form -->

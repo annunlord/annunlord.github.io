@@ -2,9 +2,6 @@
 title: "Terms and Privacy Policy"
 permalink: /terms/
 excerpt: "Terms and Privacy Policy"
-header:
-  image:  /assets/images/foo-bar-identity.jpg
-  teaser: /assets/images/foo-bar-identity-th.jpg
 layout: single
 ---
 
