@@ -4,8 +4,6 @@ main:
     url: /information/mass_times/
   - title: "Information"
     url: /information/
-  - title: "News"
-    url: /news/
   - title: "Contact Us"
     url: /information/contact_us/
   - title: "Donate"
