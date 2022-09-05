@@ -2,6 +2,8 @@
 title: "Directions"
 excerpt: "Directions to Our Parish"
 layout: single
+date: 2022-04-02
+last_modified_at: 2022-07-25
 ---
 
 ## Address

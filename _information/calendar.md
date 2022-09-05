@@ -2,6 +2,8 @@
 title: "Calendar"
 excerpt: "Calendar of Church Events"
 layout: single
+date: 2022-04-03
+last_modified_at: 2022-07-26
 ---
 
 <!-- <div class="responsive-video-container"> -->

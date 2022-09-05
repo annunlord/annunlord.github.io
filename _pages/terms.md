@@ -3,6 +3,8 @@ title: "Terms and Privacy Policy"
 permalink: /terms/
 excerpt: "Terms and Privacy Policy"
 layout: single
+date: 2022-07-25
+last_modified_at: 2022-07-25
 ---
 
 # Terms and Conditions

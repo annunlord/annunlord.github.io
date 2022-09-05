@@ -6,6 +6,8 @@ header:
   overlay_image: /assets/images/blurred_bulletin.jpg
   teaser: /assets/images/blurred_bulletin.jpg
 layout: single
+date: 2022-04-03
+last_modified_at: 2022-09-02
 ---
 
 <!-- Switch to dropbox from Google Drive-->

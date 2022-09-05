@@ -1,6 +1,8 @@
 ---
 title: "Email List"
 excerpt: "Join our email list"
+date: 2022-01-15
+last_modified_at: 2022-09-02
 ---
 
 <!-- Begin Mailchimp Signup Form -->
