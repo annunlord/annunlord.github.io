@@ -9,23 +9,6 @@ Fr Charles Merrill:
       icon: "fas fa-fw fa-envelope-square"
       url: "mailto:pastor@annunlord.com"
 
-William Sciaroni:
-  name        : "William Sciaroni"
-  bio         : "Web master"
-  avatar      : https://en.gravatar.com/userimage/183988754/f4091beb5113f81daf97ea2c048a8476.jpeg
-  links:
-    - label: "Email"
-      icon: "fas fa-fw fa-envelope-square"
-      url: "mailto:wsciaroni+annunlord@protonmail.com"
-
-Abby Sciaroni:
-  name        : "Abby Sciaroni"
-  avatar      : "/assets/images/bio-photo-2.png"
-  links:
-    - label: "Email"
-      icon: "fas fa-fw fa-envelope-square"
-      url: "mailto:asciaroni+annunlord@protonmail.com"
-
 Jan Gile:
   name        : "Jan Gile"
   avatar      : "/assets/images/bio-photo-2.png"
