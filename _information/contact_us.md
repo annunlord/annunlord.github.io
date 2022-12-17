@@ -169,6 +169,8 @@ funeral home arrangements.
 Thursdays, 6:30-7:30 PM September - April.
 Please contact the Parish Office.
 
+For more information on what OCIA is, check out [this link](https://www.usccb.org/beliefs-and-teachings/who-we-teach/christian-initiation-of-adults) from the USCCB.
+
 ## Problem with the website?
 
 Please leave an issue on the [GitHub, here.](https://github.com/annunlord/annunlord.github.io/issues)
