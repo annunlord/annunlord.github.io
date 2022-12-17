@@ -4,7 +4,7 @@ permalink: /information/links/
 excerpt: "Useful links"
 layout: single
 date: 2022-07-25
-last_modified_at: 2022-09-02
+last_modified_at: 2022-12-17
 ---
 
 # Parish Organizations
@@ -23,7 +23,7 @@ last_modified_at: 2022-09-02
 - [Resurrection Chapel in Moulton, AL](https://www.moultoncatholics.org)
 - [St. Bernard Abbey in Cullman, AL](http://www.stbernardabbey.com/)
 - [Ave Maria Grotto in Cullman, AL](http://www.avemariagrotto.com/)
-- [Benedictine Sisters of Sacred Heart Monastery in Cullman AL](http://www.shmon.org/oblates.html)
+- [Benedictine Sisters of Sacred Heart Monastery in Cullman, AL](http://www.shmon.org/oblates.html)
 
 # Local Catholic Schools
 
