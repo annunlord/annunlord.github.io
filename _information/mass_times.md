@@ -4,21 +4,35 @@ permalink: /information/mass_times/
 excerpt: "Mass and Reconciliation Schedule"
 layout: single
 date: 2022-01-15
-last_modified_at: 2022-12-24
+last_modified_at: 2022-12-25
 ---
 
-# Christmas Schedule
+# Holiday Schedule
 
-## Saturday, December 24th
+## Monday, December 26th
 
--  3:00 PM Confessions
--  4:00 PM Family Mass (bilingual)
--  5:00 PM Confessions
--  6:00 PM Mass (English)
--  10:00 PM Mass (bilingual)
-- 11:30 PM **Church Closed**
+-  8:30 AM Confessions
+-  9:00 AM Mass (English)
+- 10:00 AM **Church Closed**
+- **No Adoration**
+- **No evening Mass**
 
-## Sunday, December 25th
+## Friday, December 30th
+
+-  8:30 AM Confessions
+-  9:00 AM Mass (English)
+- 10:00 AM **Church Closed**
+- **No evening Mass**
+
+## Saturday, December 31st - Solemnity of Mary (Vigil)
+
+- 4:00 PM Confessions
+- 5:00 PM Mass (English)
+- 6:00 PM Confessions
+- 7:00 PM Mass (español)
+- 8:30 PM **Church Closed**
+
+## Sunday, January 1st - Solemnity of Mary
 
 -  7:30 AM Mass (English)
 -  9:00 AM Mass (español)
@@ -27,6 +41,14 @@ last_modified_at: 2022-12-24
 - 12:30 PM Confessions
 -  1:30 PM Mass (español)
 -  3:00 PM **Church Closed**
+
+## Monday, January 2nd
+
+-  8:30 AM Confessions
+-  9:00 AM Mass (English)
+- 10:00 AM **Church Closed**
+- **No Adoration**
+- **No evening Mass**
 
 # Weekend
 ## Saturday/Sábado
