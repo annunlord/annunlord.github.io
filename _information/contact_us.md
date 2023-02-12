@@ -6,7 +6,7 @@ header:
   overlay_image: /assets/images/blurred_bulletin.jpg
   teaser: /assets/images/blurred_bulletin.jpg
 date: 2022-01-15
-last_modified_at: 2022-09-02
+last_modified_at: 2022-12-17
 ---
 
 
@@ -169,10 +169,10 @@ funeral home arrangements.
 Thursdays, 6:30-7:30 PM September - April.
 Please contact the Parish Office.
 
+For more information on what OCIA is, check out [this link](https://www.usccb.org/beliefs-and-teachings/who-we-teach/christian-initiation-of-adults) from the USCCB.
+
 ## Problem with the website?
 
-Contact Will Sciaroni
+Please leave an issue on the [GitHub, here.](https://github.com/annunlord/annunlord.github.io/issues)
 
-[wsciaroni+annunlord@protonmail.com](mailto:wsciaroni+annunlord@protonmail.com)
-
-Or leave an issue on the [GitHub here.](https://github.com/annunlord/annunlord.github.io/issues)
+Or, by email [wsciaroni+annunlord@protonmail.com](mailto:wsciaroni+annunlord@protonmail.com).

@@ -4,7 +4,7 @@ permalink: /information/mass_times/
 excerpt: "Mass and Reconciliation Schedule"
 layout: single
 date: 2022-01-15
-last_modified_at: 2022-09-02
+last_modified_at: 2023-01-03
 ---
 
 # Weekend

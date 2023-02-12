@@ -4,7 +4,7 @@ permalink: /information/links/
 excerpt: "Useful links"
 layout: single
 date: 2022-07-25
-last_modified_at: 2022-09-02
+last_modified_at: 2022-12-17
 ---
 
 # Parish Organizations
@@ -17,6 +17,19 @@ last_modified_at: 2022-09-02
 
 - [One Voice](https://onevoicebhm.org/)
 - [www.bhmdiocese.org](https://www.bhmdiocese.org)
+
+# Local Catholic Community
+
+- [Resurrection Chapel in Moulton, AL](https://www.moultoncatholics.org)
+- [St. Bernard Abbey in Cullman, AL](http://www.stbernardabbey.com/)
+- [Ave Maria Grotto in Cullman, AL](http://www.avemariagrotto.com/)
+- [Benedictine Sisters of Sacred Heart Monastery in Cullman, AL](http://www.shmon.org/oblates.html)
+
+# Local Catholic Schools
+
+- [St. Ann School : Grades K3-8](https://saintanndecatur.org/)
+- [St. Bernard Prep. School : Grades 7-12](https://stbernardprep.com/)
+- [St. John Paul II Catholic High School](https://www.jp2catholic.org/)
 
 # Youth Protection
 
@@ -35,4 +48,4 @@ last_modified_at: 2022-09-02
 - [The Bible](https://bible.usccb.org/bible)
 
 # Other Links
-- [Suggest an eddit to this website](https://github.com/annunlord/annunlord.github.io/issues)
+- [Suggest an edit to this website](https://github.com/annunlord/annunlord.github.io/issues)
