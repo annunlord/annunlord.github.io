@@ -139,6 +139,28 @@ For financial help or for assistance with food Please call
 [(256) 353-2667 x 502](tel:+1-256-353-2667,,502){: .btn .btn--inverse}
 {: .notice--success}
 
+## Pastoral Council
+
+- Deacon Lou Sciaroni – President
+- Nathan Claus
+- Maggie Gonzalez
+- Chris Harvey
+- Joan Rivers
+- Terri Tipler
+- Alma Uriostegui
+- Alex White
+
+## Finance Council
+
+- Mark Maloney - Chairman
+- Dave Birchmeier
+- Scott Brown
+- Jimmy Cai
+- Byron De La Cruz
+- Joe Podlesny
+- Sonia Ramirez
+- Jim Tipler
+
 ## Our Diocese
 
 <address>
