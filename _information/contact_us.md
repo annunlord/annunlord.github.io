@@ -122,6 +122,28 @@ OFFICE HOURS:
 - Deacon Lou Sciaroni [(256) 355-3363](tel:+12563553363)
 - Deacon Bob Catanach [(256) 604-6865](tel:+12566046865)
 
+## Pastoral Council
+
+- Deacon Lou Sciaroni – President
+- Nathan Claus
+- Maggie Gonzalez
+- Chris Harvey
+- Joan Rivers
+- Terri Tipler
+- Alma Uriostegui
+- Alex White
+
+## Finance Council
+
+- Mark Maloney - Chairman
+- Dave Birchmeier
+- Scott Brown
+- Jimmy Cai
+- Byron De La Cruz
+- Joe Podlesny
+- Sonia Ramirez
+- Jim Tipler
+
 ## Our Diocese
 
 Diocese of Birmingham in Alabama
