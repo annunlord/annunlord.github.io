@@ -6,7 +6,7 @@ header:
   overlay_image: /assets/images/blurred_bulletin.jpg
   teaser: /assets/images/blurred_bulletin.jpg
 date: 2022-01-15
-last_modified_at: 2022-12-17
+last_modified_at: 2023-04-22
 ---
 
 
@@ -121,6 +121,28 @@ OFFICE HOURS:
 - Deacon Patrick Lappert [(256) 221-8844](tel:+12562218844)
 - Deacon Lou Sciaroni [(256) 355-3363](tel:+12563553363)
 - Deacon Bob Catanach [(256) 604-6865](tel:+12566046865)
+
+## Pastoral Council
+
+- Deacon Lou Sciaroni – President
+- Nathan Claus
+- Maggie Gonzalez
+- Chris Harvey
+- Joan Rivers
+- Terri Tipler
+- Alma Uriostegui
+- Alex White
+
+## Finance Council
+
+- Mark Maloney - Chairman
+- Dave Birchmeier
+- Scott Brown
+- Jimmy Cai
+- Byron De La Cruz
+- Joe Podlesny
+- Sonia Ramirez
+- Jim Tipler
 
 ## Our Diocese
 
