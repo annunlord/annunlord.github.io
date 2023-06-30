@@ -69,7 +69,7 @@ OFFICE HOURS:
 - Email
   - [hispanicoffice@annunlord.com](mailto:hispanicoffice@annunlord.com)
 
-### DIRECTOR OF RELIGIOUS EDUCATION - Liz
+### DIRECTOR OF RELIGIOUS EDUCATION - Liz Shroer
 
 - Office Phone
   - [(256) 353-2667 x 108](tel:+12563532667p108)
