@@ -49,13 +49,8 @@ last_modified_at: 2023-01-03
 
 * See [Bulletin for up to date times](../bulletins/)
 
-## Eucharistic Adoration/Adoración
+## Perpetual Eucharistic Adoration/Adoración Eucarística perpetua
 
-From Monday 10:00 AM through Wednesday 6:00 PM.
-  
-Will be in Adoration Chapel until 1 PM Wednesday then will move into church until 6:00 PM
+Perpetual adoration is available in our St. Joseph's Chapel. Open access is available between 8AM and 9PM daily.
 
-Desde el lunes 10:00 a. m. hasta el miércoles 6:00 p. m.
-
-Estará en la Capilla de Adoración hasta la 1 p.m del miércoles y luego se trasladará a la iglesia hasta las 6:00 p.m.
-
+La adoración perpetua está disponible en nuestra Capilla de San José. El acceso abierto está disponible entre las 8 a. m. y las 9 p. m. todos los días.
