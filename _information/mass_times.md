@@ -29,7 +29,7 @@ last_modified_at: 2023-01-03
 | Day/Día                       | Time/Hora | Language/Idioma |
 | ----------------------------- | --------- | --------------- |
 | Monday/lunes                  | 9:00 am   | English         |
-| Monday/lunes                  | 6:00 pm   | Español         |
+| Monday/lunes                  | 6:00 pm   | English         |
 | Tuesdays/martes               | 9:00 am   | English         |
 | Tuesdays/martes               | 12:00 pm  | Español         |
 | Wednesday/miércoles           | 9:00 am   | English         |
