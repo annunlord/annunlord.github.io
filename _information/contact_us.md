@@ -22,7 +22,7 @@ Decatur, AL 35603
   - [(256) 353-2667](tel:+12563532667)
 - Office Fax
   - `(256) 353-8994`
-- Emergencies
+- Spiritual Emergencies
   - [(256) 306-9811 - bilingual](tel:+12563069811)
   - [(256) 686-0096 English](tel:+12566860096)
 - Email
