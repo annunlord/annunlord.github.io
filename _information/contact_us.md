@@ -6,7 +6,7 @@ header:
   overlay_image: /assets/images/blurred_bulletin.jpg
   teaser: /assets/images/blurred_bulletin.jpg
 date: 2022-01-15
-last_modified_at: 2022-12-17
+last_modified_at: 2023-06-30
 ---
 
 
