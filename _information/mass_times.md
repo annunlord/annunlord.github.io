@@ -4,7 +4,7 @@ permalink: /information/mass_times/
 excerpt: "Mass and Reconciliation Schedule"
 layout: single
 date: 2022-01-15
-last_modified_at: 2023-06-30
+last_modified_at: 2023-07-18
 ---
 
 # Weekend
@@ -48,9 +48,3 @@ last_modified_at: 2023-06-30
 ## Reconciliation/Reconciliación
 
 * See [Bulletin for up to date times](../bulletins/)
-
-## Perpetual Eucharistic Adoration/Adoración Eucarística perpetua
-
-Perpetual adoration is available in our St. Joseph's Chapel. Open access is available between 8AM and 9PM daily.
-
-La adoración perpetua está disponible en nuestra Capilla de San José. El acceso abierto está disponible entre las 8 a. m. y las 9 p. m. todos los días.
