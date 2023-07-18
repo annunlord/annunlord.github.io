@@ -62,4 +62,4 @@ last_modified_at: 2022-12-17
 [The Bible](https://bible.usccb.org/bible){: .btn .btn--info}
 
 # Other Links
-[Suggest an edit to this website](https://github.com/annunlord/annunlord.github.io/issues){: .btn .btn--success}
+[Suggest an edit to this website](https://github.com/annunlord/annunlord.github.io/issues/new/choose){: .btn .btn--success}
