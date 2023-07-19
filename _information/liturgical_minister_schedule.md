@@ -3,8 +3,8 @@ title: "Liturgical Minister Schedule"
 permalink: /information/liturgical_minister_schedule/
 excerpt: "Schedule for Liturgical Ministers"
 header:
-  overlay_image: /assets/images/blurred_bulletin.jpg
-  teaser: /assets/images/blurred_bulletin.jpg
+  overlay_image: /assets/images/blurred_bulletin.webp
+  teaser: /assets/images/blurred_bulletin.webp
 layout: single
 date: 2023-07-18
 last_modified_at: 2023-07-18
