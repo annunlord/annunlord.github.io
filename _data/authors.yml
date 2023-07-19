@@ -3,7 +3,7 @@
 Fr Charles Merrill:
   name        : "Fr. Charles Merrill"
   bio         : "Pastor"
-  avatar      : "/assets/images/bio-photo-2.png"
+  avatar      : "/assets/images/bio-photo-2.webp"
   links:
     - label: "Email"
       icon: "fas fa-fw fa-envelope-square"
@@ -11,7 +11,7 @@ Fr Charles Merrill:
 
 Jan Gile:
   name        : "Jan Gile"
-  avatar      : "/assets/images/bio-photo-2.png"
+  avatar      : "/assets/images/bio-photo-2.webp"
   links:
     - label: "Email"
       icon: "fas fa-fw fa-envelope-square"
@@ -19,5 +19,5 @@ Jan Gile:
 
 Lou Sciaroni:
   name        : "Dcn Lou Sciaroni"
-  avatar      : "/assets/images/bio-photo-2.png"
+  avatar      : "/assets/images/bio-photo-2.webp"
   bio         : "Permanent Deacon"

@@ -6,7 +6,7 @@ date: 2022-01-15
 last_modified_at: 2022-07-23
 header:
   overlay_color: "#5e616c"
-  overlay_image: /assets/images/20200302_204320-cropped-blur-dark2.jpg
+  overlay_image: /assets/images/20200302_204320-cropped-blur-dark2.webp
   actions:
     - label: "See Mass Times"
       url: "/information/mass_times/"

@@ -3,8 +3,8 @@ title: "Adoration"
 permalink: /information/adoration/
 excerpt: "Adoration Information"
 header:
-  overlay_image: /assets/images/20230206_095454-blur.jpg
-  teaser: /assets/images/20230206_095454-blur.jpg
+  overlay_image: /assets/images/20230206_095454-blur.webp
+  teaser: /assets/images/20230206_095454-blur.webp
 layout: single
 date: 2023-07-18
 last_modified_at: 2023-07-18
