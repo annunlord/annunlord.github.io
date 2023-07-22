@@ -124,6 +124,11 @@ OFFICE HOURS:
 - Deacon Lou Sciaroni [(256) 355-3363](tel:+12563553363)
 - Deacon Bob Catanach [(256) 604-6865](tel:+12566046865)
 
+## St. Vincent DePaul
+
+For financial help or assitance with Food, Please call
+- [(256) 353-2667 x 502](tel:+12563532667p502)
+
 ## Our Diocese
 
 Diocese of Birmingham in Alabama
