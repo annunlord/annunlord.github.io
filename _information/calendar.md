@@ -6,10 +6,9 @@ date: 2022-04-03
 last_modified_at: 2022-07-26
 ---
 
-<!-- <div class="responsive-video-container"> -->
-<iframe src="https://calendar.google.com/calendar/embed?height=800&wkst=1&bgcolor=%23ffffff&ctz=America%2FChicago&showTitle=0&showNav=1&mode=WEEK&showTz=0&showCalendars=1&showPrint=0&showDate=0&showTabs=0&src=Y19sdXA3ZmFxdW9xczhjc3RnMWIycDc3NmMzZ0Bncm91cC5jYWxlbmRhci5nb29nbGUuY29t&src=Y19nOGdnOGtlNHMxaWdpazlwbDEybGQ1dDgzY0Bncm91cC5jYWxlbmRhci5nb29nbGUuY29t&color=%23E4C441&color=%23AD1457" style="border-width:0" width="100%" height="800" frameborder="0" scrolling="no"></iframe>
-
-<!-- </div> -->
+<div class="responsive-video-container">
+<iframe src="https://calendar.google.com/calendar/embed?height=800&wkst=1&bgcolor=%23ffffff&ctz=America%2FChicago&showTitle=0&showNav=1&mode=WEEK&showTz=0&showCalendars=1&showPrint=0&showDate=0&showTabs=0&src=Y19sdXA3ZmFxdW9xczhjc3RnMWIycDc3NmMzZ0Bncm91cC5jYWxlbmRhci5nb29nbGUuY29t&src=Y19nOGdnOGtlNHMxaWdpazlwbDEybGQ1dDgzY0Bncm91cC5jYWxlbmRhci5nb29nbGUuY29t&color=%23E4C441&color=%23AD1457" style="border-width:0" frameborder="0" scrolling="no"></iframe>
+</div>
 
 ## Add These Calendars to your Calendar App
 
