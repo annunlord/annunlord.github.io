@@ -6,11 +6,17 @@ header:
   overlay_image: /assets/images/blurred_bulletin.webp
   teaser: /assets/images/blurred_bulletin.webp
 date: 2022-01-15
-last_modified_at: 2023-06-30
+last_modified_at: 2023-07-22
 ---
 
-
 # Contact Us
+
+**Child and Victim Assistance**:
+To report an incident of sexual abuse or misconduct call
+[(205) 597-9058](tel:+12055979058){: .btn .btn--inverse}
+{: .notice--danger}
+
+# Directory
 
 ## Mailing Address
 
@@ -20,111 +26,109 @@ last_modified_at: 2023-06-30
 
 ## Church Office
 
-- To Hear Phone Options
-[(256) 353-2667](tel:+12563532667){: .btn .btn--inverse}
+**Spiritual Emergencies**:
+If you have a **spiritual emergency** please contact
+[(256) 306-9811 - bilingual](tel:+12563069811){: .btn .btn--inverse}
+[(256) 686-0096 English](tel:+12566860096){: .btn .btn--inverse}
+{: .notice--warning}
 
-- Office Phone
-[(256) 353-2667 x 101](tel:+12563532667p101){: .btn .btn--success}
-
-- Office Fax
-`(256) 353-8994`
-
-- Spiritual Emergencies
-[(256) 306-9811 - bilingual](tel:+12563069811){: .btn .btn--warning}
-[(256) 686-0096 English](tel:+12566860096){: .btn .btn--warning}
-
-- Email
+[For Options: (256) 353-2667](tel:+12563532667){: .btn .btn--inverse}
+[Secretary: (256) 353-2667 x 101](tel:+12563532667p101){: .btn .btn--success}
 [parish@annunlord.com](mailto:parish@annunlord.com){: .btn .btn--inverse}
 
-OFFICE HOURS:
+Fax Number: `(256) 353-8994`
 
-- Monday – Thursday
-  - 8:00 AM – 4:00 PM;
-- Friday
-  - 8:00 AM – Noon
+### Church Office Hours
 
-## PARISH STAFF
+| Day       | Office Hours      |
+| --------- | ----------------- |
+| Monday    | 8:00 AM – 4:00 PM |
+| Tuesday   | 8:00 AM – 4:00 PM |
+| Wednesday | 8:00 AM – 4:00 PM |
+| Thursday  | 8:00 AM – 4:00 PM |
+| Friday    | 8:00 AM – Noon    |
 
-### PASTOR - Father Charles Merrill
+## Parish Staff
 
-- Office Hours
-  - Tuesdays & Thursdays 2:00-6:00 PM
-- Office Phone
-  - [(256) 353-2667 x 120](tel:+12563532667p120){: .btn .btn--success}
-- Email
-  - [pastor@annunlord.com](mailto:pastor@annunlord.com){: .btn .btn--success}
+### PASTOR
 
-### Parochial Vicar - Father Charles Deering
+Father Charles Merrill
 
-- Office Hours
-  - Monday & Wednesday 1:00-5:00 PM
-- Office Phone
-  - [(256) 353-2667 x 131](tel:+12563532667p131){: .btn .btn--inverse}
-- Email
-  - [padre@annunlord.com](mailto:padre@annunlord.com){: .btn .btn--inverse}
+| Day      | Office Hours |
+| -------- | ------------ |
+| Tuesday  | 2:00-6:00 PM |
+| Thursday | 2:00-6:00 PM |
 
-### CHURCH SECRETARY - Anne Palmer (mornings), Carolina Chambers(afternoons)
+[(256) 353-2667 x 120](tel:+12563532667p120){: .btn .btn--success}
+[pastor@annunlord.com](mailto:pastor@annunlord.com){: .btn .btn--success}
 
-- Office Phone
-  - [(256) 353-2667 x 101](tel:+12563532667p101){: .btn .btn--success}
-- Email
-  - [parish@annunlord.com](mailto:parish@annunlord.com){: .btn .btn--success}
+### Parochial Vicar
 
-### COORDINATOR OF HISPANIC MINISTRY - Alma Uriostegui
+Father Charles Deering
 
-- Office Phone
-  - [(256) 353-2667 x 107](tel:+12563532667p107){: .btn .btn--inverse}
-- Email
-  - [hispanicoffice@annunlord.com](mailto:hispanicoffice@annunlord.com){: .btn .btn--inverse}
+| Day       | Office Hours |
+| --------- | ------------ |
+| Monday    | 1:00-5:00 PM |
+| Wednesday | 1:00-5:00 PM |
 
-### DIRECTOR OF RELIGIOUS EDUCATION - Liz Shroer
+[(256) 353-2667 x 131](tel:+12563532667p131){: .btn .btn--inverse}
+[padre@annunlord.com](mailto:padre@annunlord.com){: .btn .btn--inverse}
 
-- Office Phone
-  - [(256) 353-2667 x 108](tel:+12563532667p108){: .btn .btn--inverse}
-- Email
-  - [religion@saintanndecatur.org](mailto:religion@saintanndecatur.org){: .btn .btn--inverse}
+### Secretary
 
-### OPERATIONS COORDINATOR - Jan Gile
+Anne Palmer (mornings) / Carolina Chambers (afternoons)
 
-- Office Phone
-  - [(256) 353-2667 x 148](tel:+12563532667p148){: .btn .btn--inverse}
-- Email
-  - [jgile@annunlord.com](mailto:jgile@annunlord.com){: .btn .btn--inverse}
+[(256) 353-2667 x 101](tel:+12563532667p101){: .btn .btn--success}
+[parish@annunlord.com](mailto:parish@annunlord.com){: .btn .btn--success}
 
-### MUSIC DIRECTOR - Ashleigh Russell
+### Coordinator of Hispanic Ministry
 
-- Email
-  - [music@saintanndecatur.org](mailto:music@saintanndecatur.org){: .btn .btn--inverse}
+Alma Uriostegui
+[(256) 353-2667 x 107](tel:+12563532667p107){: .btn .btn--inverse}
+[hispanicoffice@annunlord.com](mailto:hispanicoffice@annunlord.com){: .btn .btn--inverse}
 
-### WEDDING COORDINATOR - Kris Staudt
+### Director of Religious Education
 
-- Phone
-  - [(256) 509-1442](tel:+12565091442){: .btn .btn--inverse}
+Liz Shroer
+[(256) 353-2667 x 108](tel:+12563532667p108){: .btn .btn--inverse}
+[religion@saintanndecatur.org](mailto:religion@saintanndecatur.org){: .btn .btn--inverse}
 
-### FACILITIES MANAGER - Arvel Childers
+### Operatorions Coordinator
 
-- Office Phone
-  - [(256) 353-2667 x 109](tel:+12563532667p109){: .btn .btn--inverse}
-- Email
-  - [facilitiesmgr@annunlord.com](mailto:facilitiesmgr@annunlord.com){: .btn .btn--inverse}
+Jan Gile
+[(256) 353-2667 x 148](tel:+12563532667p148){: .btn .btn--inverse}
+[jgile@annunlord.com](mailto:jgile@annunlord.com){: .btn .btn--inverse}
 
-### FINANCE MANAGER - Nancy Carlisle
+### Music Director
 
-- Office Phone
-  - [(256) 353-2667 x 121](tel:+12563532667p121){: .btn .btn--inverse}
-- Email
-  - [financemgr@annunlord.com](mailto:financemgr@annunlord.com){: .btn .btn--inverse}
+Ashleigh Russell
+[music@saintanndecatur.org](mailto:music@saintanndecatur.org){: .btn .btn--inverse}
 
-### FINANCIAL ASSISTANT / Youth Minister - Carolina Chambers
+### Wedding Coordinator
 
-- Office Phone
-  - [(256) 353-2667 x 103](tel:+12563532667p103){: .btn .btn--inverse}
-- Email
-  - [bookkeeper@annunlord.com](mailto:bookkeeper@annunlord.com){: .btn .btn--inverse}
+Kris Staudt
+[(256) 509-1442](tel:+12565091442){: .btn .btn--inverse}
 
-### CUSTODIAN - Maria Gonzalez
+### Facilities Manager
 
-## DEACONS
+Arvel Childers
+
+[(256) 353-2667 x 109](tel:+12563532667p109){: .btn .btn--inverse}
+[facilitiesmgr@annunlord.com](mailto:facilitiesmgr@annunlord.com){: .btn .btn--inverse}
+
+### Finance Manager
+
+Nancy Carlisle
+[(256) 353-2667 x 121](tel:+12563532667p121){: .btn .btn--inverse}
+[financemgr@annunlord.com](mailto:financemgr@annunlord.com){: .btn .btn--inverse}
+
+### Financial Assitant / Youth Minister
+
+Carolina Chambers
+[(256) 353-2667 x 103](tel:+12563532667p103){: .btn .btn--inverse}
+[bookkeeper@annunlord.com](mailto:bookkeeper@annunlord.com){: .btn .btn--inverse}
+
+## Deacons
 
 - Deacon Patrick Lappert [(256) 221-8844](tel:+12562218844){: .btn .btn--inverse}
 - Deacon Lou Sciaroni [(256) 355-3363](tel:+12563553363){: .btn .btn--inverse}
@@ -132,29 +136,33 @@ OFFICE HOURS:
 
 ## St. Vincent DePaul
 
-For financial help or assitance with Food, Please call
-
-- [(256) 353-2667 x 502](tel:+12563532667p502){: .btn .btn--inverse}
+For financial help or for assistance with food Please call
+[(256) 353-2667 x 502](tel:+12563532667p502){: .btn .btn--inverse}
+{: .notice--success}
 
 ## Our Diocese
 
-Diocese of Birmingham in Alabama
-2121 3rd Avenue North (35203)
-P. O. Box 12047
-Birmingham, AL 35202-2047
+<address>
+Diocese of Birmingham in Alabama<br/>
+2121 3rd Avenue North (35203)<br/>
+P. O. Box 12047<br/>
+Birmingham, AL 35202-2047<br/>
+United States
+</address>
 
 [(205) 838-8322](tel:+12058388322){: .btn .btn--inverse}
-
 [www.bhmdiocese.org](https://www.bhmdiocese.org){: .btn .btn--inverse}
 
 ## United States Conference of Catholic Bishops
 
-United States Conference of Catholic Bishops
-3211 Fourth Street NE
-Washington DC 20017
+<address>
+United States Conference of Catholic Bishops<br/>
+3211 Fourth Street NE<br/>
+Washington DC 20017<br/>
+United States
+</address>
 
 [(202) 541-3000](tel:+12025413000){: .btn .btn--inverse}
-
 [www.usccb.org](https://www.usccb.org){: .btn .btn--inverse}
 
 # Who To Contact
@@ -183,10 +191,8 @@ funeral home arrangements.
 Thursdays, 6:30-7:30 PM September - April.
 Please contact the Parish Office.
 
-For more information on what OCIA is, check out [this link](https://www.usccb.org/beliefs-and-teachings/who-we-teach/christian-initiation-of-adults){: .btn .btn--inverse} from the USCCB.
+[More Information on OCIA from USCCB](https://www.usccb.org/beliefs-and-teachings/who-we-teach/christian-initiation-of-adults){: .btn .btn--inverse}
 
 ## Problem with the website?
 
-Please leave an issue on the [GitHub Issues.](https://github.com/annunlord/annunlord.github.io/issues){: .btn .btn--inverse}
-
-Or, by email [wsciaroni+annunlord@protonmail.com](mailto:wsciaroni+annunlord@protonmail.com){: .btn .btn--inverse}.
+Please leave an issue on the [GitHub Issues.](https://github.com/annunlord/annunlord.github.io/issues){: .btn .btn--danger}
