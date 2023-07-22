@@ -133,7 +133,7 @@ Birmingham, AL 35202-2047
 
 [(205) 838-8322](tel:+12058388322)
 
-[www.bhmdiocese.org](www.bhmdiocese.org)
+[www.bhmdiocese.org](https://www.bhmdiocese.org)
 
 ## United States Conference of Catholic Bishops
 
@@ -143,7 +143,7 @@ Washington DC 20017
 
 [(202) 541-3000](tel:+12025413000)
 
-[www.usccb.org](www.usccb.org)
+[www.usccb.org](https://www.usccb.org)
 
 # Who To Contact
 
