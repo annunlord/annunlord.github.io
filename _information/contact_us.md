@@ -18,8 +18,10 @@ Decatur, AL 35603
 
 ## Church Office
 
-- Office Phone
+- Phone Menu
   - [(256) 353-2667](tel:+12563532667)
+- Office Phone
+  - [(256) 353-2667 x 101](tel:+12563532667p101)
 - Office Fax
   - `(256) 353-8994`
 - Spiritual Emergencies
