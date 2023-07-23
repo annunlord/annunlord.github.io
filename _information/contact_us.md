@@ -33,7 +33,7 @@ If you have a **spiritual emergency** please contact
 {: .notice--warning}
 
 [For Options: (256) 353-2667](tel:+1-256-353-2667){: .btn .btn--inverse}
-[Secretary: (256) 353-2667 x 101](tel:+1-256-353-2667;ext=101){: .btn .btn--success}
+[Secretary: (256) 353-2667 x 101](tel:+1-256-353-2667;101){: .btn .btn--success}
 [parish@annunlord.com](mailto:parish@annunlord.com){: .btn .btn--inverse}
 
 Fax Number: `(256) 353-8994`
@@ -59,7 +59,7 @@ Father Charles Merrill
 | Tuesday  | 2:00-6:00 PM |
 | Thursday | 2:00-6:00 PM |
 
-[(256) 353-2667 x 120](tel:+1-256-353-2667;ext=120){: .btn .btn--success}
+[(256) 353-2667 x 120](tel:+1-256-353-2667;120){: .btn .btn--success}
 [pastor@annunlord.com](mailto:pastor@annunlord.com){: .btn .btn--success}
 
 ### Parochial Vicar
@@ -71,32 +71,32 @@ Father Charles Deering
 | Monday    | 1:00-5:00 PM |
 | Wednesday | 1:00-5:00 PM |
 
-[(256) 353-2667 x 131](tel:+1-256-353-2667;ext=131){: .btn .btn--inverse}
+[(256) 353-2667 x 131](tel:+1-256-353-2667;131){: .btn .btn--inverse}
 [padre@annunlord.com](mailto:padre@annunlord.com){: .btn .btn--inverse}
 
 ### Secretary
 
 Anne Palmer (mornings) / Carolina Chambers (afternoons)
 
-[(256) 353-2667 x 101](tel:+1-256-353-2667;ext=101){: .btn .btn--success}
+[(256) 353-2667 x 101](tel:+1-256-353-2667;101){: .btn .btn--success}
 [parish@annunlord.com](mailto:parish@annunlord.com){: .btn .btn--success}
 
 ### Coordinator of Hispanic Ministry
 
 Alma Uriostegui
-[(256) 353-2667 x 107](tel:+1-256-353-2667;ext=107){: .btn .btn--inverse}
+[(256) 353-2667 x 107](tel:+1-256-353-2667;107){: .btn .btn--inverse}
 [hispanicoffice@annunlord.com](mailto:hispanicoffice@annunlord.com){: .btn .btn--inverse}
 
 ### Director of Religious Education
 
 Liz Shroer
-[(256) 353-2667 x 108](tel:+1-256-353-2667;ext=108){: .btn .btn--inverse}
+[(256) 353-2667 x 108](tel:+1-256-353-2667;108){: .btn .btn--inverse}
 [religion@saintanndecatur.org](mailto:religion@saintanndecatur.org){: .btn .btn--inverse}
 
 ### Operatorions Coordinator
 
 Jan Gile
-[(256) 353-2667 x 148](tel:+1-256-353-2667;ext=148){: .btn .btn--inverse}
+[(256) 353-2667 x 148](tel:+1-256-353-2667;148){: .btn .btn--inverse}
 [jgile@annunlord.com](mailto:jgile@annunlord.com){: .btn .btn--inverse}
 
 ### Music Director
@@ -113,19 +113,19 @@ Kris Staudt
 
 Arvel Childers
 
-[(256) 353-2667 x 109](tel:+1-256-353-2667;ext=109){: .btn .btn--inverse}
+[(256) 353-2667 x 109](tel:+1-256-353-2667;109){: .btn .btn--inverse}
 [facilitiesmgr@annunlord.com](mailto:facilitiesmgr@annunlord.com){: .btn .btn--inverse}
 
 ### Finance Manager
 
 Nancy Carlisle
-[(256) 353-2667 x 121](tel:+1-256-353-2667;ext=121){: .btn .btn--inverse}
+[(256) 353-2667 x 121](tel:+1-256-353-2667;121){: .btn .btn--inverse}
 [financemgr@annunlord.com](mailto:financemgr@annunlord.com){: .btn .btn--inverse}
 
 ### Financial Assitant / Youth Minister
 
 Carolina Chambers
-[(256) 353-2667 x 103](tel:+1-256-353-2667;ext=103){: .btn .btn--inverse}
+[(256) 353-2667 x 103](tel:+1-256-353-2667;103){: .btn .btn--inverse}
 [bookkeeper@annunlord.com](mailto:bookkeeper@annunlord.com){: .btn .btn--inverse}
 
 ## Deacons
@@ -137,7 +137,7 @@ Carolina Chambers
 ## St. Vincent DePaul
 
 For financial help or for assistance with food Please call
-[(256) 353-2667 x 502](tel:+1-256-353-2667;ext=502){: .btn .btn--inverse}
+[(256) 353-2667 x 502](tel:+1-256-353-2667;502){: .btn .btn--inverse}
 {: .notice--success}
 
 ## Our Diocese
