@@ -13,7 +13,7 @@ last_modified_at: 2023-07-22
 
 **Child and Victim Assistance**:
 To report an incident of sexual abuse or misconduct call
-[(205) 597-9058](tel:+12055979058){: .btn .btn--inverse}
+[(205) 597-9058](tel:+1-205-597-9058){: .btn .btn--inverse}
 {: .notice--danger}
 
 # Directory
@@ -28,11 +28,11 @@ To report an incident of sexual abuse or misconduct call
 
 **Spiritual Emergencies**:
 If you have a **spiritual emergency** please contact
-[(256) 306-9811 - bilingual](tel:+12563069811){: .btn .btn--inverse}
-[(256) 686-0096 English](tel:+12566860096){: .btn .btn--inverse}
+[(256) 306-9811 - bilingual](tel:+1-256-306-9811){: .btn .btn--inverse}
+[(256) 686-0096 English](tel:+1-256-686-0096){: .btn .btn--inverse}
 {: .notice--warning}
 
-[For Options: (256) 353-2667](tel:+12563532667){: .btn .btn--inverse}
+[For Options: (256) 353-2667](tel:+1-256-353-2667){: .btn .btn--inverse}
 [Secretary: (256) 353-2667 x 101](tel:+1-256-353-2667;ext=101){: .btn .btn--success}
 [parish@annunlord.com](mailto:parish@annunlord.com){: .btn .btn--inverse}
 
@@ -107,7 +107,7 @@ Ashleigh Russell
 ### Wedding Coordinator
 
 Kris Staudt
-[(256) 509-1442](tel:+12565091442){: .btn .btn--inverse}
+[(256) 509-1442](tel:+1-256-509-1442){: .btn .btn--inverse}
 
 ### Facilities Manager
 
@@ -130,9 +130,9 @@ Carolina Chambers
 
 ## Deacons
 
-- Deacon Patrick Lappert [(256) 221-8844](tel:+12562218844){: .btn .btn--inverse}
-- Deacon Lou Sciaroni [(256) 355-3363](tel:+12563553363){: .btn .btn--inverse}
-- Deacon Bob Catanach [(256) 604-6865](tel:+12566046865){: .btn .btn--inverse}
+- Deacon Patrick Lappert [(256) 221-8844](tel:+1-256-221-8844){: .btn .btn--inverse}
+- Deacon Lou Sciaroni [(256) 355-3363](tel:+1-256-355-3363){: .btn .btn--inverse}
+- Deacon Bob Catanach [(256) 604-6865](tel:+1-256-604-6865){: .btn .btn--inverse}
 
 ## St. Vincent DePaul
 
@@ -150,7 +150,7 @@ Birmingham, AL 35202-2047<br/>
 United States
 </address>
 
-[(205) 838-8322](tel:+12058388322){: .btn .btn--inverse}
+[(205) 838-8322](tel:+1-205-838-8322){: .btn .btn--inverse}
 [www.bhmdiocese.org](https://www.bhmdiocese.org){: .btn .btn--inverse}
 
 ## United States Conference of Catholic Bishops
@@ -162,7 +162,7 @@ Washington DC 20017<br/>
 United States
 </address>
 
-[(202) 541-3000](tel:+12025413000){: .btn .btn--inverse}
+[(202) 541-3000](tel:+1-202-541-3000){: .btn .btn--inverse}
 [www.usccb.org](https://www.usccb.org){: .btn .btn--inverse}
 
 # Who To Contact
