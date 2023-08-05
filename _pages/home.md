@@ -18,17 +18,17 @@ feature_row:
     excerpt: "Get your fix of the weekly news!"
     url: "/information/bulletins/"
     btn_class: "btn--primary"
-    btn_label: "Learn more"
-  - title: "Parish Calendar"
-    excerpt: "Stay in the \"know.\" Check out the calendar!"
-    url: "/information/calendar/"
+    btn_label: "Bulletins"
+  - title: "Information"
+    excerpt: "For a list of information resources, check out"
+    url: "/information/"
     btn_class: "btn--primary"
-    btn_label: "Learn more"    
+    btn_label: "More Information"
   - title: "Saint Ann Catholic School"
     excerpt: "Cultivating truth, goodness, and beauty"
     url: "https://saintanndecatur.org/"
     btn_class: "btn--primary"
-    btn_label: "Learn more"  
+    btn_label: "St. Ann's Website"
 ---
 
 {% include feature_row %}
