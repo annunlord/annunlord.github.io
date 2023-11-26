@@ -9,7 +9,7 @@ last_modified_at: 2023-11-26
 <!-- This embedded HTML snippet is used to dynamically size the Embedded Calendar -->
 <head>
 <style>
-.responsiveCal { position: relative; padding-bottom: 75%; height: 0; overflow: hidden; }
+.responsiveCal { position: relative; padding-bottom: 175%; height: 0; overflow: hidden; }
 .responsiveCal iframe { position: absolute; top:0; left: 0; width: 100%; height: 100%; }
 </style>
 </head>
