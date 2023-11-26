@@ -3,16 +3,27 @@ title: "Calendar"
 excerpt: "Calendar of Church Events"
 layout: single
 date: 2022-04-03
-last_modified_at: 2022-07-26
+last_modified_at: 2023-11-26
 ---
 
-<div class="responsive-video-container">
-<iframe src="https://calendar.google.com/calendar/embed?height=800&wkst=1&bgcolor=%23ffffff&ctz=America%2FChicago&showTitle=0&showNav=1&mode=WEEK&showTz=0&showCalendars=1&showPrint=0&showDate=0&showTabs=0&src=Y19sdXA3ZmFxdW9xczhjc3RnMWIycDc3NmMzZ0Bncm91cC5jYWxlbmRhci5nb29nbGUuY29t&src=Y19nOGdnOGtlNHMxaWdpazlwbDEybGQ1dDgzY0Bncm91cC5jYWxlbmRhci5nb29nbGUuY29t&color=%23E4C441&color=%23AD1457" style="border-width:0" frameborder="0" scrolling="no"></iframe>
+<!-- This embedded HTML snippet is used to dynamically size the Embedded Calendar -->
+<head>
+<style>
+.responsiveCal { position: relative; padding-bottom: 75%; height: 0; overflow: hidden; }
+.responsiveCal iframe { position: absolute; top:0; left: 0; width: 100%; height: 100%; }
+</style>
+</head>
+<div class="responsiveCal">
+<iframe
+    src="https://calendar.google.com/calendar/embed?height=600&wkst=1&bgcolor=%23ffffff&ctz=America%2FChicago&mode=AGENDA&src=ZDllNGZlNGQxMzRiNjI4MWM0ZTcyZjQxODcwZmZlMzEyMmRlMTI5MTliMmI0MjI4NjgyMDE0MTMyZjBhYTFhN0Bncm91cC5jYWxlbmRhci5nb29nbGUuY29t&color=%230B8043"
+    style="border:solid 1px #777"
+    width="800"
+    height="600"
+    frameborder="0"
+    scrolling="no"
+></iframe>
 </div>
 
 ## Add These Calendars to your Calendar App
 
-[Public Sacraments Calendar ics](https://calendar.google.com/calendar/ical/c_g8gg8ke4s1igik9pl12ld5t83c%40group.calendar.google.com/public/basic.ics)
-
-[Puclic Events Calendar ics](https://calendar.google.com/calendar/ical/c_lup7faquoqs8cstg1b2p776c3g%40group.calendar.google.com/public/basic.ics)
-
+[Public Sacraments Calendar ics](https://calendar.google.com/calendar/ical/d9e4fe4d134b6281c4e72f41870ffe3122de12919b2b4228682014132f0aa1a7%40group.calendar.google.com/public/basic.ics)
