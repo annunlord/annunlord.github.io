@@ -76,14 +76,13 @@ Father Charles Deering
 
 ### Secretary
 
-Anne Palmer (mornings) / Carolina Chambers (afternoons)
-
+Anne Palmer
 [(256) 353-2667 x 101](tel:+1-256-353-2667,,101){: .btn .btn--success}
 [parish@annunlord.com](mailto:parish@annunlord.com){: .btn .btn--success}
 
 ### Coordinator of Hispanic Ministry
 
-Alma Uriostegui
+Elvira Esparza
 [(256) 353-2667 x 107](tel:+1-256-353-2667,,107){: .btn .btn--inverse}
 [hispanicoffice@annunlord.com](mailto:hispanicoffice@annunlord.com){: .btn .btn--inverse}
 
@@ -104,15 +103,9 @@ Jan Gile
 Ashleigh Russell
 [music@saintanndecatur.org](mailto:music@saintanndecatur.org){: .btn .btn--inverse}
 
-### Wedding Coordinator
-
-Kris Staudt
-[(256) 509-1442](tel:+1-256-509-1442){: .btn .btn--inverse}
-
 ### Facilities Manager
 
-Arvel Childers
-
+Alex Harvill
 [(256) 353-2667 x 109](tel:+1-256-353-2667,,109){: .btn .btn--inverse}
 [facilitiesmgr@annunlord.com](mailto:facilitiesmgr@annunlord.com){: .btn .btn--inverse}
 
@@ -122,17 +115,23 @@ Nancy Carlisle
 [(256) 353-2667 x 121](tel:+1-256-353-2667,,121){: .btn .btn--inverse}
 [financemgr@annunlord.com](mailto:financemgr@annunlord.com){: .btn .btn--inverse}
 
-### Financial Assitant / Youth Minister
+### Financial Assistant
 
 Carolina Chambers
 [(256) 353-2667 x 103](tel:+1-256-353-2667,,103){: .btn .btn--inverse}
 [bookkeeper@annunlord.com](mailto:bookkeeper@annunlord.com){: .btn .btn--inverse}
+
+### Youth Minister
+
+Alma Uriostegui
+[youthminister@annunlord.com](youthminister@annunlord.com){: .btn .btn--inverse}
 
 ## Deacons
 
 - Deacon Patrick Lappert [(256) 221-8844](tel:+1-256-221-8844){: .btn .btn--inverse}
 - Deacon Lou Sciaroni [(256) 355-3363](tel:+1-256-355-3363){: .btn .btn--inverse}
 - Deacon Bob Catanach [(256) 604-6865](tel:+1-256-604-6865){: .btn .btn--inverse}
+- Deacon Javier Ramirez [(256) 345-1721](tel:+1-256-345-1721){: .btn .btn--inverse}
 
 ## St. Vincent DePaul
 
