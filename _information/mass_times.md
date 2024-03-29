@@ -7,36 +7,6 @@ date: 2022-01-15
 last_modified_at: 2023-07-18
 ---
 
-----------------
-
-# Holy Week 2024
-
-## Friday, March 29
-
-| Time/Hora |                                   |
-| --------- | --------------------------------- |
-| 11:00 am  | Via Crucis                        |
-| 3:00 pm   | Stations of the Cross             |
-| 6:00 pm   | Passion & Veneration of the Cross |
-| 8:30 pm   | La Pasión del Señor               |
-
-## Saturday, March 30
-
-| Time/Hora |                   |
-| --------- | ----------------- |
-| 8:00 pm   | Easter Vigil Mass |
-
-## Sunday, March 31
-
-| Time/Hora | Language/Idioma |
-| --------- | --------------- |
-| 7:30 am   | English         |
-| 9:00 am   | Español         |
-| 11:30 am  | English         |
-| 1:30 pm   | Español         |
-
-----------------
-
 # Weekend
 ## Saturday/Sábado
 
