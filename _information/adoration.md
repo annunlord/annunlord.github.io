@@ -7,7 +7,7 @@ header:
   teaser: /assets/images/20230206_095454-blur.webp
 layout: single
 date: 2023-07-18
-last_modified_at: 2023-07-18
+last_modified_at: 2024-06-18
 ---
 
 ## Schedule
