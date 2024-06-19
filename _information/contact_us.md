@@ -6,7 +6,7 @@ header:
   overlay_image: /assets/images/blurred_bulletin.webp
   teaser: /assets/images/blurred_bulletin.webp
 date: 2022-01-15
-last_modified_at: 2023-07-22
+last_modified_at: 2024-06-18
 ---
 
 # Contact Us
@@ -38,7 +38,7 @@ If you have a **spiritual emergency** please contact
 
 Fax Number: `(256) 353-8994`
 
-### Church Office Hours
+### Parish Office Hours
 
 | Day       | Office Hours      |
 | --------- | ----------------- |
@@ -60,7 +60,6 @@ Father Charles Merrill
 | Thursday | 2:00-6:00 PM |
 
 [(256) 353-2667 x 120](tel:+1-256-353-2667,,120){: .btn .btn--success}
-[pastor@annunlord.com](mailto:pastor@annunlord.com){: .btn .btn--success}
 
 ### Parochial Vicar
 
@@ -76,7 +75,7 @@ Father Charles Deering
 
 ### Secretary
 
-Anne Palmer
+Laura Horton
 [(256) 353-2667 x 101](tel:+1-256-353-2667,,101){: .btn .btn--success}
 [parish@annunlord.com](mailto:parish@annunlord.com){: .btn .btn--success}
 
@@ -88,11 +87,11 @@ Elvira Esparza
 
 ### Director of Religious Education
 
-Liz Shroer
+Liz Schroer
 [(256) 353-2667 x 108](tel:+1-256-353-2667,,108){: .btn .btn--inverse}
-[religion@saintanndecatur.org](mailto:religion@saintanndecatur.org){: .btn .btn--inverse}
+[DRE@annunlord.com](mailto:DRE@annunlord.com){: .btn .btn--inverse}
 
-### Operatorions Coordinator
+### Operations Coordinator
 
 Jan Gile
 [(256) 353-2667 x 148](tel:+1-256-353-2667,,148){: .btn .btn--inverse}
@@ -106,7 +105,7 @@ Ashleigh Russell
 ### Facilities Manager
 
 Alex Harvill
-[(256) 353-2667 x 109](tel:+1-256-353-2667,,109){: .btn .btn--inverse}
+[(256) 353-2667](tel:+1-256-353-2667){: .btn .btn--inverse}
 [facilitiesmgr@annunlord.com](mailto:facilitiesmgr@annunlord.com){: .btn .btn--inverse}
 
 ### Finance Manager

@@ -4,7 +4,7 @@ permalink: /information/mass_times/
 excerpt: "Mass and Reconciliation Schedule"
 layout: single
 date: 2022-01-15
-last_modified_at: 2023-07-18
+last_modified_at: 2024-06-18
 ---
 
 # Weekend
@@ -26,23 +26,24 @@ last_modified_at: 2023-07-18
 
 ## Weekday Masses/Misas durante la Semana
 
-| Day/Día                       | Time/Hora | Language/Idioma |
-| ----------------------------- | --------- | --------------- |
-| Monday/lunes                  | 9:00 am   | English         |
-| Monday/lunes                  | 6:00 pm   | English         |
-| Tuesdays/martes               | 9:00 am   | English         |
-| Tuesdays/martes               | 12:00 pm  | Español         |
-| Wednesday/miércoles           | 9:00 am   | English         |
-| Wednesday/miércoles           | 7:00 pm   | Español         |
-| Thursday/jueves               | 9:00 am   | Latin           |
-| Friday/viernes                | 9:00 am   | English         |
-| Friday/viernes                | 6:00 pm*  | Español         |
+| Day/Día                       | Time/Hora | Language/Idioma       |
+| ----------------------------- | --------- | --------------------- |
+| Monday/lunes                  | 9:00 am   | English               |
+| Monday/lunes                  | 6:00 pm   | English               |
+| Tuesdays/martes               | 9:00 am   | English               |
+| Tuesdays/martes               | 12:00 pm  | Español               |
+| Wednesday/miércoles           | 6:00 am   | English/Latin/Español |
+| Wednesday/miércoles           | 9:00 am   | English               |
+| Wednesday/miércoles           | 7:00 pm   | Español               |
+| Thursday/jueves               | 9:00 am   | Latin                 |
+| Friday/viernes                | 9:00 am   | English               |
+| Friday/viernes                | 6:00 pm*  | Español               |
 
-*El primer viernes del mes a las 7:00 P.M. / On the first Friday of the month at 7:00 PM (Latin)
+*El primer viernes del mes a las 7:00 P.M. / On the first Friday of the month at 7:00 PM (Bilingual - English/Español)
 
 ## Special Masses/Misas Especiales
 
-- First Friday/Primer viernes: 7:00 PM & midnight/medianoche [ Alliance of the Two Hearts Devotion / Alianza de la Devoción de los Dos Corazones ]
+- First Friday/Primer viernes: 7:00 PM [ Alliance of the Two Hearts Devotion / Alianza de la Devoción de los Dos Corazones ]
 - First Saturday/Primer sábado: 8:00 AM
 
 ## Reconciliation/Reconciliación
