@@ -16,8 +16,8 @@ Perpetual Eucharistic adoration is available in our St. Joseph's Chapel. Open ac
 
 La adoración perpetua está disponible en nuestra Capilla de San José. El acceso abierto está disponible entre las 8 a. m. y las 9 p. m. todos los días.
 
-## Adoration Pro
+## Becoming a Committed Adorer
 
-Annunciation of the Lord uses AdorationPro to manage committed adorers as well as Adoration sign-ins.
+Leave a message for Alma at [(256) 288-2691](tel:+1-256-288-2691){: .btn .btn--inverse} if you’d like to sign up for a specific hour, are available to substitute, or if you already are an adorer and need a substitute or assistance with anything.
 
-[Annunciation of the Lord - AdorationPro](https://www.adorationpro.org/annunciationdecatur){: .btn .btn--info}
+Deja un mensaje a Alma al [(256) 288-2691](tel:+1-256-288-2691){: .btn .btn--inverse} si quieres apuntarte a una hora específica, estar disponible para sustituir, o si ya eres adorador y necesitas un sustituto o ayuda con algo
