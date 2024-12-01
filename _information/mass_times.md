@@ -4,8 +4,11 @@ permalink: /information/mass_times/
 excerpt: "Mass and Reconciliation Schedule"
 layout: single
 date: 2022-01-15
-last_modified_at: 2024-06-18
+last_modified_at: 2024-12-01
 ---
+
+See the Seasonal Mass schedule [below](#seasonal-masses).
+{: .notice--info}
 
 # Weekend
 ## Saturday/Sábado
@@ -49,3 +52,38 @@ last_modified_at: 2024-06-18
 ## Reconciliation/Reconciliación
 
 * See [Bulletin for up to date times](../bulletins/)
+
+# Seasonal Masses
+
+## Advent Special Celebrations / Celebraciones especiales de adviento
+
+### Saturday/Sábado Dec. 7
+
+
+* **6:00 AM** Mañanitas
+* **7:00 AM** Rosary
+* **8:00 AM** Mass
+* **9:00 AM** Presentations
+* **9:00 AM** Breakfast
+* **11:30 AM** Cleanup
+
+### Immaculate Conception/La Inmaculada Concepción
+#### Holy Day of Obligation / Día de obligación
+##### Monday/Lunes Dec. 9
+
+* **9:00 AM**
+* **6:00 PM**
+
+#### Christmas/Natividad
+
+* **Tuesday**/Martes Dec. 24 **4:00 PM** (English)
+* **Tuesday**/Martes Dec. 24 **6:00 PM** (English) - _Prelude music at 5:30 PM_
+* **Tuesday**/Martes Dec. 24 **10:00 PM** (español)
+* **Wednesday**/Miércoles Dec. 25 **10:00 AM** (English)
+* **Wednesday**/Miércoles Dec. 25 **12:00 PM** (español)
+
+#### Mary, Mother of God/Santa María Madre de Dios
+* **Tuesday**/Martes Dec. 31 **6:00 PM** (English)
+* **Wednesday**/Miércoles Jan. 1 **6:00 AM** (English/Latin/español)
+* **Wednesday**/Miércoles Jan. 1 **9:00 AM** (English)
+* **Wednesday**/Miércoles Jan. 1 **6:00 PM** (español)
