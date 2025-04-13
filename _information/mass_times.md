@@ -7,45 +7,45 @@ date: 2022-01-15
 last_modified_at: 2024-06-18
 ---
 
-# Weekend
-## Saturday/Sábado
+# {{ site.data.ui-text[site.locale].weekend_masses | default: "Weekend Masses" }}
+## {{ site.data.ui-text[site.locale].saturday | default: "Saturday" }}
 
-| Time/Hora | Language/Idioma |
+| {{ site.data.ui-text[site.locale].time | default: "Time" }} | {{ site.data.ui-text[site.locale].language | default: "Language" }} |
 | --------- | --------------- |
-| 5:00 pm   | English         |
-| 7:00 pm   | Español         |
+| 5:00 pm   | {{ site.data.ui-text[site.locale].english | default: "English" }}         |
+| 7:00 pm   | {{ site.data.ui-text[site.locale].spanish | default: "Spanish" }}         |
 
-## Sunday/Domingo
+## {{ site.data.ui-text[site.locale].sunday | default: "Sunday" }}
 
-| Time/Hora | Language/Idioma |
+| {{ site.data.ui-text[site.locale].time | default: "Time" }} | {{ site.data.ui-text[site.locale].language | default: "Language" }} |
 | --------- | --------------- |
-| 7:30 am   | English         |
-| 9:00 am   | Español         |
-| 11:30 am  | English         |
-| 1:30 pm   | Español         |
+| 7:30 am   | {{ site.data.ui-text[site.locale].english | default: "English" }}         |
+| 9:00 am   | {{ site.data.ui-text[site.locale].spanish | default: "Spanish" }}         |
+| 11:30 am  | {{ site.data.ui-text[site.locale].english | default: "English" }}         |
+| 1:30 pm   | {{ site.data.ui-text[site.locale].spanish | default: "Spanish" }}         |
 
-## Weekday Masses/Misas durante la Semana
+## {{ site.data.ui-text[site.locale].weekday_masses | default: "Weekday Masses" }}
 
-| Day/Día                       | Time/Hora | Language/Idioma       |
+| Day/Día                       | {{ site.data.ui-text[site.locale].time | default: "Time" }} | {{ site.data.ui-text[site.locale].language | default: "Language" }}       |
 | ----------------------------- | --------- | --------------------- |
-| Monday/lunes                  | 9:00 am   | English               |
-| Monday/lunes                  | 6:00 pm   | English               |
-| Tuesdays/martes               | 9:00 am   | English               |
-| Tuesdays/martes               | 12:00 pm  | Español               |
-| Wednesday/miércoles           | 6:00 am   | English/Latin/Español |
-| Wednesday/miércoles           | 9:00 am   | English               |
-| Wednesday/miércoles           | 7:00 pm   | Español               |
-| Thursday/jueves               | 9:00 am   | Latin                 |
-| Friday/viernes                | 9:00 am   | English               |
-| Friday/viernes                | 6:00 pm*  | Español               |
+| {{ site.data.ui-text[site.locale].monday | default: "Monday" }}                  | 9:00 am   | {{ site.data.ui-text[site.locale].english | default: "English" }}               |
+| {{ site.data.ui-text[site.locale].monday | default: "Monday" }}                  | 6:00 pm   | {{ site.data.ui-text[site.locale].english | default: "English" }}               |
+| {{ site.data.ui-text[site.locale].tuesday | default: "Tuesday" }}               | 9:00 am   | {{ site.data.ui-text[site.locale].english | default: "English" }}               |
+| {{ site.data.ui-text[site.locale].tuesday | default: "Tuesday" }}               | 12:00 pm  | {{ site.data.ui-text[site.locale].spanish | default: "Spanish" }}               |
+| {{ site.data.ui-text[site.locale].wednesday | default: "Wednesday" }}           | 6:00 am   | {{ site.data.ui-text[site.locale].english | default: "English" }}/Latin/{{ site.data.ui-text[site.locale].spanish | default: "Spanish" }} |
+| {{ site.data.ui-text[site.locale].wednesday | default: "Wednesday" }}           | 9:00 am   | {{ site.data.ui-text[site.locale].english | default: "English" }}               |
+| {{ site.data.ui-text[site.locale].wednesday | default: "Wednesday" }}           | 7:00 pm   | {{ site.data.ui-text[site.locale].spanish | default: "Spanish" }}               |
+| {{ site.data.ui-text[site.locale].thursday | default: "Thursday" }}               | 9:00 am   | Latin                 |
+| {{ site.data.ui-text[site.locale].friday | default: "Friday" }}                | 9:00 am   | {{ site.data.ui-text[site.locale].english | default: "English" }}               |
+| {{ site.data.ui-text[site.locale].friday | default: "Friday" }}                | 6:00 pm*  | {{ site.data.ui-text[site.locale].spanish | default: "Spanish" }}               |
 
-*El primer viernes del mes a las 7:00 P.M. / On the first Friday of the month at 7:00 PM (Bilingual - English/Español)
+*El primer viernes del mes a las 7:00 P.M. / On the first Friday of the month at 7:00 PM (Bilingual - {{ site.data.ui-text[site.locale].english | default: "English" }}/{{ site.data.ui-text[site.locale].spanish | default: "Spanish" }})
 
-## Special Masses/Misas Especiales
+## {{ site.data.ui-text[site.locale].special_masses | default: "Special Masses" }}
 
 - First Friday/Primer viernes: 7:00 PM [ Alliance of the Two Hearts Devotion / Alianza de la Devoción de los Dos Corazones ]
 - First Saturday/Primer sábado: 8:00 AM
 
-## Reconciliation/Reconciliación
+## {{ site.data.ui-text[site.locale].reconciliation | default: "Reconciliation" }}
 
 * See [Bulletin for up to date times](../bulletins/)
