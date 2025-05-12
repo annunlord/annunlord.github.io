@@ -123,7 +123,7 @@ Carolina Chambers
 ### Youth Minister
 
 Alma Uriostegui
-[youthminister@annunlord.com](youthminister@annunlord.com){: .btn .btn--inverse}
+[youthminister@annunlord.com](mailto:youthminister@annunlord.com){: .btn .btn--inverse}
 
 ## Deacons
 
