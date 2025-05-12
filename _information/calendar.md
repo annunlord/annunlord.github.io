@@ -17,4 +17,4 @@ last_modified_at: 2025-04-13
 
 [Public Sacraments Calendar ics](https://calendar.google.com/calendar/ical/c_g8gg8ke4s1igik9pl12ld5t83c%40group.calendar.google.com/public/basic.ics)
 
-[Puclic Events Calendar ics](https://calendar.google.com/calendar/ical/c_lup7faquoqs8cstg1b2p776c3g%40group.calendar.google.com/public/basic.ics)
+[Public Events Calendar ics](https://calendar.google.com/calendar/ical/c_lup7faquoqs8cstg1b2p776c3g%40group.calendar.google.com/public/basic.ics)

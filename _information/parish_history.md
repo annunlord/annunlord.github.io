@@ -25,7 +25,7 @@ This building was completed in 1906. Later in the century, a mission church was 
 This community quickly grew and was able to build a parish hall and classrooms in 1993.
 
 In 1998, Bishop Foley decided to combine these two parishes to better server Catholics in Morgan County and formed Annunciation of the Lord parish.
-The land on which our current campus is built was purchased in 2000, and the first mass was offered in the current space in 2003.
+The land on which our current campus is built was purchased in 2000, and the first Mass was offered in the current space in 2003.
 
 At every stage of the changes in buildings and locations, faithful Catholic families have stepped up, made sacrifices, and provided for the needs for their generation as well as generations to come.
 We owe these families a debt of great gratitude.
@@ -36,7 +36,7 @@ The multipurpose room was set up so that we could hold Mass temporarily until th
 Although the room is not designed for this purpose, the planners did their best to make the space as suitable as possible for the noble and eternal work that takes place in this space - the Holy Sacrifice of the Mass.
 We are able to hold Mass, conduct the work of running a parish, educate our children in St. Ann's School and in religious education classes because of the hard work, effort, and sacrifice of many people - some we may never know this side of heaven.
 
-In 2020 a group of parishoners wished to create a suitable space to house the Lord and offer prayer to him in eucharistic adoration.
+In 2020 a group of parishioners wished to create a suitable space to house the Lord and offer prayer to him in eucharistic adoration.
 The St. Joseph Chapel was built with monetary donations, efforts from the Gran Kermes fundraisers, and with donated labor from skilled parishioners.
 This building was completely paid for through these efforts.
 It is a testament that there is something important housed in this small but beautiful chapel.
