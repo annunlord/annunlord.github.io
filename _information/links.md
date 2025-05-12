@@ -57,7 +57,7 @@ last_modified_at: 2023-09-23
 
 [What We Believe (The Catechism of the Catholic Church)](https://www.usccb.org/sites/default/files/flipbooks/catechism/){: .btn .btn--info}
 
-[The Daily Reedings](https://bible.usccb.org/){: .btn .btn--info}
+[The Daily Readings](https://bible.usccb.org/){: .btn .btn--info}
 
 [The Bible](https://bible.usccb.org/bible){: .btn .btn--info}
 
