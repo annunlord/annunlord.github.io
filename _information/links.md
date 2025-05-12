@@ -42,7 +42,7 @@ last_modified_at: 2023-09-23
 # Youth Protection
 
 [Register for Youth Protection (VirtusOnline)](https://virtusonline.org/virtus/){: .btn .btn--info}
-[About Youth Protection in the Diocese of Birmingham](https://www.catholicyouthbhm.net/youth-protection.html){: .btn .btn--info}
+[About Youth Protection in the Diocese of Birmingham](https://www.catholicyouthbhm.net/youth-protection-training.html){: .btn .btn--info}
 
 # Catholic Links
 
