@@ -26,3 +26,101 @@
     <script src="{{ script | relative_url }}"></script>
   {% endfor %}
 {% endif %}
+
+<script>
+  function setCalendarView() {
+    const iframe = document.getElementById('google-calendar-iframe');
+    if (!iframe) return; // Exit if iframe not found
+
+    const screenWidth = window.innerWidth;
+
+    // --- Define Breakpoints ---
+    // Up to this width is considered "phone" (Agenda view)
+    const mobileBreakpoint = 768;
+    // Up to this width is considered "tablet" (Week view)
+    // Screens wider than this are considered "desktop" (Month view)
+    const tabletBreakpoint = 1024;
+    // You can adjust these pixel values (768, 1024) if needed
+
+    // --- Determine Target Mode ---
+    let targetMode;
+    if (screenWidth < mobileBreakpoint) {
+      targetMode = 'AGENDA'; // Phone: Agenda View
+    } else if (screenWidth < tabletBreakpoint) {
+      targetMode = 'WEEK';   // Tablet: Week View
+    } else {
+      targetMode = 'MONTH';  // Desktop: Month View
+    }
+    // --- End Mode Determination ---
+
+
+    // Base URL parts and parameters (ensure these are correct)
+    const baseSrc = "https://calendar.google.com/calendar/embed";
+    const params = {
+      height: 800,
+      wkst: 1,
+      bgcolor: '#ffffff',
+      ctz: 'America/Chicago', // <<< VERIFY YOUR TIMEZONE IS CORRECT
+      showTitle: 0,
+      showNav: 1,             // Keep navigation visible to switch manually if needed
+      showTz: 0,
+      showCalendars: 1,
+      showPrint: 0,
+      showDate: 0,
+      showTabs: 0,             // Keep tabs hidden as we are controlling the view
+      src: [ // <<< VERIFY YOUR CALENDAR IDs ARE CORRECT
+        'c_lup7faquoqs8cstg1b2p776c3g@group.calendar.google.com',
+        'c_g8gg8ke4s1igik9pl12ld5t83c@group.calendar.google.com'
+      ],
+      color: [ // <<< VERIFY YOUR COLORS ARE CORRECT (match order of src)
+        '#E4C441',
+        '#AD1457'
+      ]
+    };
+
+    // Construct the new URL with the dynamically determined 'mode'
+    let newUrl = `${baseSrc}?mode=${targetMode}`; // Start with base URL and determined mode
+    // Add other static parameters from the params object
+    for (const key in params) {
+      // Add parameters EXCEPT src, color, and mode (which we've already set)
+      if (key !== 'src' && key !== 'color' && key !== 'mode') {
+         newUrl += `&${encodeURIComponent(key)}=${encodeURIComponent(params[key])}`;
+      }
+    }
+    // Add the src parameters (handles multiple calendars)
+    params.src.forEach(srcVal => {
+        newUrl += `&src=${encodeURIComponent(srcVal)}`;
+    });
+    // Add the color parameters (handles multiple calendars)
+    params.color.forEach(colorVal => {
+        // encodeURIComponent handles the '#' correctly -> '%23'
+        newUrl += `&color=${encodeURIComponent(colorVal)}`;
+    });
+
+
+    // --- Update iframe src only if the mode needs to change ---
+    const currentSrc = iframe.getAttribute('src');
+    // A simple check: does the current URL already contain the correct 'mode=' parameter?
+    // This prevents unnecessary reloads if the mode is already correct.
+    const needsUpdate = !currentSrc || !currentSrc.includes(`mode=${targetMode}`);
+
+    if (needsUpdate) {
+      // Log for debugging which mode is being set based on width
+      console.log(`Screen Width: ${screenWidth}px -> Setting calendar mode to: ${targetMode}`);
+      iframe.setAttribute('src', newUrl);
+    }
+     // --- End iframe update ---
+  }
+
+  // Run the function when the page finishes loading
+  document.addEventListener('DOMContentLoaded', setCalendarView);
+
+  // Run the function when the window is resized (with debounce)
+  let resizeTimer;
+  window.addEventListener('resize', () => {
+    // Clear the previous timer to avoid running the function too often
+    clearTimeout(resizeTimer);
+    // Set a new timer to run the function after a short delay (e.g., 250ms)
+    resizeTimer = setTimeout(setCalendarView, 250);
+  });
+</script>
