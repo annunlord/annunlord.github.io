@@ -4,7 +4,7 @@ permalink: /information/mass_times/
 excerpt: "Mass and Reconciliation Schedule"
 layout: single
 date: 2022-01-15
-last_modified_at: 2024-06-18
+last_modified_at: 2025-07-02
 ---
 
 # Weekend
@@ -32,10 +32,10 @@ last_modified_at: 2024-06-18
 | Monday/lunes                  | 6:00 pm   | English               |
 | Tuesdays/martes               | 9:00 am   | English               |
 | Tuesdays/martes               | 12:00 pm  | Español               |
-| Wednesday/miércoles           | 6:00 am   | English/Latin/Español |
+| Wednesday/miércoles           | 6:00 am   | English/Español       |
 | Wednesday/miércoles           | 9:00 am   | English               |
-| Wednesday/miércoles           | 7:00 pm   | Español               |
-| Thursday/jueves               | 9:00 am   | Latin                 |
+| Wednesday/miércoles           | 6:00 pm   | Español               |
+| Thursday/jueves               | 9:00 am   | English               |
 | Friday/viernes                | 9:00 am   | English               |
 | Friday/viernes                | 6:00 pm*  | Español               |
 
