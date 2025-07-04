@@ -52,23 +52,13 @@ Fax Number: `(256) 353-8994`
 
 ### PASTOR
 
-Father Charles Merrill
-
-| Day      | Office Hours |
-| -------- | ------------ |
-| Tuesday  | 2:00-6:00 PM |
-| Thursday | 2:00-6:00 PM |
+Father Tom Ackerman
 
 [(256) 353-2667 x 120](tel:+1-256-353-2667,,120){: .btn .btn--success}
 
 ### Parochial Vicar
 
-Father Charles Deering
-
-| Day       | Office Hours |
-| --------- | ------------ |
-| Monday    | 1:00-5:00 PM |
-| Wednesday | 1:00-5:00 PM |
+Father Max Gallegos
 
 [(256) 353-2667 x 131](tel:+1-256-353-2667,,131){: .btn .btn--inverse}
 [padre@annunlord.com](mailto:padre@annunlord.com){: .btn .btn--inverse}
