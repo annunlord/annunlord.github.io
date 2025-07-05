@@ -28,8 +28,8 @@ To report an incident of sexual abuse or misconduct call
 
 **Spiritual Emergencies**:
 If you have a **spiritual emergency** please contact
-[(256) 306-9811 - bilingual](tel:+1-256-306-9811){: .btn .btn--inverse}
-[(256) 686-0096 English](tel:+1-256-686-0096){: .btn .btn--inverse}
+[(256) 558-4246 - bilingual](tel:+1-256-558-4246){: .btn .btn--inverse}
+[(256) 686-0096 - bilingual](tel:+1-256-686-0096){: .btn .btn--inverse}
 {: .notice--warning}
 
 [For Options: (256) 353-2667](tel:+1-256-353-2667){: .btn .btn--inverse}
@@ -52,23 +52,13 @@ Fax Number: `(256) 353-8994`
 
 ### PASTOR
 
-Father Charles Merrill
-
-| Day      | Office Hours |
-| -------- | ------------ |
-| Tuesday  | 2:00-6:00 PM |
-| Thursday | 2:00-6:00 PM |
+Father Tom Ackerman
 
 [(256) 353-2667 x 120](tel:+1-256-353-2667,,120){: .btn .btn--success}
 
 ### Parochial Vicar
 
-Father Charles Deering
-
-| Day       | Office Hours |
-| --------- | ------------ |
-| Monday    | 1:00-5:00 PM |
-| Wednesday | 1:00-5:00 PM |
+Father Max Gallegos
 
 [(256) 353-2667 x 131](tel:+1-256-353-2667,,131){: .btn .btn--inverse}
 [padre@annunlord.com](mailto:padre@annunlord.com){: .btn .btn--inverse}
