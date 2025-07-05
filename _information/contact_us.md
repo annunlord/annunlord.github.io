@@ -28,8 +28,8 @@ To report an incident of sexual abuse or misconduct call
 
 **Spiritual Emergencies**:
 If you have a **spiritual emergency** please contact
-[(256) 306-9811 - bilingual](tel:+1-256-306-9811){: .btn .btn--inverse}
-[(256) 686-0096 English](tel:+1-256-686-0096){: .btn .btn--inverse}
+[(256) 558-4246 - bilingual](tel:+1-256-558-4246){: .btn .btn--inverse}
+[(256) 686-0096 - bilingual](tel:+1-256-686-0096){: .btn .btn--inverse}
 {: .notice--warning}
 
 [For Options: (256) 353-2667](tel:+1-256-353-2667){: .btn .btn--inverse}
