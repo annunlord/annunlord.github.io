@@ -48,4 +48,4 @@ last_modified_at: 2025-07-02
 
 ## Reconciliation/Reconciliación
 
-* See [Bulletin for up to date times](../bulletins/)
+Reconciliation is available for 30 minutes, beginning 45 minutes before each Mass, except for the 6:00 AM Wednesday Mass and all Sunday Masses.
