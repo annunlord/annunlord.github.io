@@ -5,11 +5,11 @@ main:
   - title: "Sacraments"
     url: /sacraments/
   - title: "Formation"
-    url: /information/formation/
+    url: /formation/
   - title: "Parish Life"
-    url: /information/parish_life/
+    url: /parish_life/
   - title: "School"
-    url: /information/school/
+    url: /school/
   - title: "Donate"
     url: https://giving.parishsoft.com/App/Giving/annunlord
 
