@@ -1,0 +1,8 @@
+/* Center feature_row items on mobile */
+@media screen and (max-width: $small) {
+  .feature__wrapper {
+    justify-content: center;
+    padding-left: 1rem;   /* Adds space on the left */
+    padding-right: 1rem;  /* Adds space on the right */
+  }
+}

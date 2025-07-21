@@ -112,6 +112,7 @@ author:
 
 # Site Footer
 footer:
+  since: 2021 # year the site was created
   links:
     - label: "Facebook"
       icon: "fab fa-fw fa-facebook-square"
@@ -131,6 +132,10 @@ footer:
 include:
   - .htaccess
   - _pages
+  - _about
+  - _sacraments
+  - _formation
+  - _parish_life
 exclude:
   - "*.sublime-project"
   - "*.sublime-workspace"
@@ -274,19 +279,49 @@ defaults:
     values:
       layout: single
       author_profile: false
-  # Catchall
+  # All pages in the `_about` collection
   - scope:
       path: ""
-      type: information
+      type: "about"
     values:
-      layout: single
-      author_profile: false
-      share: false
+      layout: "single"
       sidebar:
-        nav: "information"
+        nav: "about" # Use the "about" sidebar menu
+  # All pages in the `_sacraments` collection
+  - scope:
+      path: ""
+      type: "sacraments"
+    values:
+      layout: "single"
+      sidebar:
+        nav: "sacraments" # Use the "sacraments" sidebar menu
+  # ... and so on for formation and parish_life
+  - scope:
+      path: ""
+      type: "formation"
+    values:
+      layout: "single"
+      sidebar:
+        nav: "formation"
+  - scope:
+      path: ""
+      type: "parish_life"
+    values:
+      layout: "single"
+      sidebar:
+        nav: "parish_life"
 
 # Collections
 collections:
-  information:
+  about:
     output: true
-    permalink: /:collection/:path/
+    permalink: /about/:path/
+  sacraments:
+    output: true
+    permalink: /sacraments/:path/
+  formation:
+    output: true
+    permalink: /formation/:path/
+  parish_life:
+    output: true
+    permalink: /parish_life/:path/
