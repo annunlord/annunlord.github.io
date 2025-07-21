@@ -1,31 +1,100 @@
 ---
-permalink: /
+# This is your home page, using the splash layout for a big impact.
 layout: splash
-hidden: true
-date: 2022-01-15
-last_modified_at: 2022-07-23
+
+# The title for the browser tab.
+title: "Welcome to Annunciation of the Lord Catholic Church"
+
+# The permanent URL for the home page.
+permalink: /
+
+# The main header section.
 header:
-  overlay_color: "#5e616c"
   overlay_image: /assets/images/20200302_204320-cropped-blur-dark2.webp
-excerpt: >
-  To know and love God and be Christ to one another.<br />
-  <small><a href="https://www.catholic.com/magazine/print-edition/christian-yesbut-why-catholic">Why Catholic?</a></small>
+  overlay_filter: 0.5
+  caption: "Annunciation of the Lord Catholic Church, Decatur, AL"
+  actions:
+    - label: "View Full Mass Schedule"
+      url: "/parish_life/mass_times/"
+
+# This text appears over the main header image.
+excerpt: >-
+  A welcoming Catholic community called by God and centered in the Eucharist.
+  <br />
+  <strong>Join us for Mass this weekend!</strong>
+
+# UPDATED to a 6-item grid for a balanced layout.
 feature_row:
-  - title: "Weekly Bulletin"
-    excerpt: "Get your fix of the weekly news!"
-    url: "/information/bulletins/"
+  - image_path: /assets/images/favicons/android-chrome-192x192.png
+    alt: "About Our Parish"
+    title: "About Our Parish"
+    excerpt: "Learn our mission, meet our clergy and staff, and discover the history of our vibrant parish community."
+    url: "/about/"
+    btn_label: "Learn More"
     btn_class: "btn--primary"
-    btn_label: "Bulletins"
-  - title: "Mass TImes"
-    excerpt: "For a list of information resources, check out"
-    url: "/information/"
+  - image_path: /assets/images/favicons/android-chrome-192x192.png
+    alt: "The Sacraments"
+    title: "The Sacraments"
+    excerpt: "Discover how to receive the powerful signs of God's grace at our parish, from Baptism to Matrimony."
+    url: "/sacraments/"
+    btn_label: "Explore the Sacraments"
     btn_class: "btn--primary"
-    btn_label: "More Information"
-  - title: "Confession"
-    excerpt: "Cultivating truth, goodness, and beauty"
-    url: "https://saintanndecatur.org/"
+  - image_path: /assets/images/favicons/android-chrome-192x192.png
+    alt: "Faith Formation"
+    title: "Faith Formation"
+    excerpt: "Growing in faith is a lifelong journey. Find a parish group, learn about becoming Catholic, or register."
+    url: "/formation/"
+    btn_label: "Get Involved"
     btn_class: "btn--primary"
-    btn_label: "St. Ann's Website"
+  - image_path: /assets/images/favicons/android-chrome-192x192.png
+    alt: "Parish Life & News"
+    title: "Parish Life & News"
+    excerpt: "Stay connected with the day-to-day life of our parish. Find the latest bulletin, view the calendar, and more."
+    url: "/parish_life/"
+    btn_label: "See What's Happening"
+    btn_class: "btn--primary"
+  - image_path: /assets/images/favicons/android-chrome-192x192.png
+    alt: "St. Ann's School"
+    title: "St. Ann's School"
+    excerpt: "Learn more about our parish school, a vital ministry providing academic excellence rooted in the Catholic faith."
+    url: "/school/"
+    btn_label: "Visit the School Site"
+    btn_class: "btn--primary"
+  - image_path: /assets/images/favicons/android-chrome-192x192.png
+    alt: "Donate"
+    title: "Donate Online"
+    excerpt: "Support the mission and ministries of our parish through secure online giving. Your generosity is greatly appreciated."
+    url: "https://giving.parishsoft.com/App/Giving/annunlord"
+    btn_label: "Give Now"
+    btn_class: "btn--primary"
 ---
 
+<div style="margin-top: 2rem; margin-bottom: 2rem;">
+  <h2 style="text-align: center;">Join Us for Mass</h2>
+  <div class="grid__wrapper" style="display: flex; flex-wrap: wrap; justify-content: center; align-items: flex-start; text-align: left; gap: 2rem;">
+    <div class="grid__item">
+      <h3>Weekend Masses</h3>
+      <p style="margin-bottom: 0.5rem;"><strong>Saturday Vigil:</strong> 5:00 PM</p>
+      <p><strong>Sunday:</strong> 8:00 AM, 10:30 AM, 5:00 PM</p>
+    </div>
+    <div class="grid__item">
+      <h3>Confessions</h3>
+      <p style="margin-bottom: 0.5rem;"><strong>Saturday:</strong> 3:30 PM - 4:30 PM</p>
+      <p><em>Or by appointment by calling the parish office.</em></p>
+    </div>
+  </div>
+</div>
+
+<hr>
+
 {% include feature_row %}
+
+<hr>
+
+<div style="padding: 2rem 0;">
+  <img src="/assets/images/school-header.webp" alt="St. Ann's Catholic School" class="align-right" style="max-width: 300px; border-radius: 8px;">
+  <h2>A Ministry of Our Parish</h2>
+  <h3>St. Ann's Catholic School</h3>
+  <p class="lead">St. Ann's Catholic School has been providing academic excellence rooted in the Catholic faith for over 70 years. Serving students from Pre-K through 8th grade, St. Ann's forms minds and hearts to prepare students to be faith-filled leaders and lifelong learners.</p>
+  <p><a href="/school/" class="btn btn--large">Learn More About St. Ann's</a></p>
+</div>
