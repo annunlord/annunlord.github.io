@@ -7,47 +7,58 @@ header:
   alt: "The altar at Annunciation of the Lord"
 ---
 
-## Our Clergy
+## Clergy
 
-Our priests and deacons are dedicated to serving the spiritual needs of our parish family through the celebration of the sacraments, pastoral care, and spiritual guidance.
+### PASTOR
+**Father Tom Ackerman**
+[(256) 353-2667 x 120](tel:+1-256-353-2667,,120){: .btn .btn--success}
 
-### Rev. Michael Smith
-**Pastor**
-
-Fr. Michael was ordained in 2010 and has been the pastor of Annunciation of the Lord since 2019. He is passionate about sharing the beauty of the Catholic faith and building a vibrant parish community.
-* **Email:** `fr.michael@annunlord.org` (Example)
-* **Phone:** (256) 353-2667 x101
-
-### Rev. David Chen
-**Parochial Vicar**
-
-Fr. David joined our parish in 2023 after his ordination. He enjoys working with the youth of our parish and is the chaplain for our OCIA program.
-* **Email:** `fr.david@annunlord.org` (Example)
-* **Phone:** (256) 353-2667 x102
+### PAROCHIAL VICAR
+**Father Max Gallegos**
+[(256) 353-2667 x 131](tel:+1-256-353-2667,,131){: .btn .btn--inverse} [padre@annunlord.com](mailto:padre@annunlord.com){: .btn .btn--inverse}
 
 ---
+## Deacons
+* **Deacon Patrick Lappert** [(256) 221-8844](tel:+1-256-221-8844){: .btn .btn--inverse}
+* **Deacon Lou Sciaroni** [(256) 355-3363](tel:+1-256-355-3363){: .btn .btn--inverse}
+* **Deacon Bob Catanach** [(256) 604-6865](tel:+1-256-604-6865){: .btn .btn--inverse}
+* **Deacon Javier Ramirez** [(256) 345-1721](tel:+1-256-345-1721){: .btn .btn--inverse}
 
+---
 ## Parish Staff
 
-Our parish staff manages the day-to-day operations of the parish, supporting our ministries, and serving the needs of our parishioners.
+### SECRETARY
+**Laura Horton**
+[(256) 353-2667 x 101](tel:+1-256-353-2667,,101){: .btn .btn--success} [parish@annunlord.com](mailto:parish@annunlord.com){: .btn .btn--success}
 
-### Mrs. Susan Johnson
-**Director of Faith Formation**
+### COORDINATOR OF HISPANIC MINISTRY
+**Elvira Esparza**
+[(256) 353-2667 x 107](tel:+1-256-353-2667,,107){: .btn .btn--inverse} [hispanicoffice@annunlord.com](mailto:hispanicoffice@annunlord.com){: .btn .btn--inverse}
 
-Susan oversees all of our faith formation programs, from children's religious education to adult Bible studies and sacramental preparation.
-* **Email:** `s.johnson@annunlord.org` (Example)
-* **Phone:** (256) 353-2667 x104
+### DIRECTOR OF RELIGIOUS EDUCATION
+**Liz Schroer**
+[(256) 353-2667 x 108](tel:+1-256-353-2667,,108){: .btn .btn--inverse} [DRE@annunlord.com](mailto:DRE@annunlord.com){: .btn .btn--inverse}
 
-### Mr. Robert Davis
-**Business Manager**
+### OPERATIONS COORDINATOR
+**Jan Gile**
+[(256) 353-2667 x 148](tel:+1-256-353-2667,,148){: .btn .btn--inverse} [jgile@annunlord.com](mailto:jgile@annunlord.com){: .btn .btn--inverse}
 
-Robert manages the parish's finances, facilities, and administrative functions, ensuring we are good stewards of the resources God has given us.
-* **Email:** `r.davis@annunlord.org` (Example)
-* **Phone:** (256) 353-2667 x103
+### MUSIC DIRECTOR
+**Ashleigh Russell**
+[music@saintanndecatur.org](mailto:music@saintanndecatur.org){: .btn .btn--inverse}
 
-### Ms. Maria Garcia
-**Parish Secretary**
+### FACILITIES MANAGER
+**Alex Harvill**
+[(256) 353-2667](tel:+1-256-353-2667){: .btn .btn--inverse} [facilitiesmgr@annunlord.com](mailto:facilitiesmgr@annunlord.com){: .btn .btn--inverse}
 
-Maria is the welcoming face and voice of our parish office. She manages parish registration, scheduling, and can answer most questions you may have.
-* **Email:** `office@annunlord.org` (Example)
-* **Phone:** (256) 353-2667 x100
+### FINANCE MANAGER
+**Nancy Carlisle**
+[(256) 353-2667 x 121](tel:+1-256-353-2667,,121){: .btn .btn--inverse} [financemgr@annunlord.com](mailto:financemgr@annunlord.com){: .btn .btn--inverse}
+
+### FINANCIAL ASSISTANT
+**Carolina Chambers**
+[(256) 353-2667 x 103](tel:+1-256-353-2667,,103){: .btn .btn--inverse} [bookkeeper@annunlord.com](mailto:bookkeeper@annunlord.com){: .btn .btn--inverse}
+
+### YOUTH MINISTER
+**Alma Uriostegui**
+[youthminister@annunlord.com](mailto:youthminister@annunlord.com){: .btn .btn--inverse}

@@ -26,6 +26,9 @@ Dive deeper into Sacred Scripture with fellow parishioners. We offer different s
 
 ### St. Vincent de Paul Society
 A ministry dedicated to serving the poor and those in need within our local community through home visits, a food pantry, and financial assistance.
-* **Contact:** Call the parish office and ask for the SVDP hotline.
+
+For financial help or for assistance with food, please call our confidential helpline.
+{: .notice--success}
+[(256) 353-2667 x 502](tel:+1-256-353-2667,,502){: .btn .btn--inverse}
 
 *(More groups can be listed here...)*

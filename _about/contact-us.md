@@ -3,27 +3,42 @@ layout: single
 title: "Contact Us"
 permalink: /about/contact-us/
 header:
-  image: /assets/images/about-header-3.webp # A generic header for this section
+  image: /assets/images/about-header-3.webp
   alt: "The entrance to the parish office"
 ---
 
-We would love to hear from you. Whether you have a question, a prayer request, or need to speak with a member of our staff, please don't hesitate to get in touch.
+## Parish Office
 
-### Parish Office
+### Emergencies
 
-**Address**
-Annunciation of the Lord Catholic Church
-3910 Spring Ave SW
-Decatur, AL 35603
+### Spiritual Emergencies
 
-**Phone**
-(256) 353-2667
+If you have a **spiritual emergency** requiring the immediate attention of a priest (such as for Anointing of the Sick), please use these numbers.
+{: .notice--warning}
+[(256) 558-4246 - bilingual](tel:+1-256-558-4246){: .btn .btn--inverse}
+[(256) 686-0096 - bilingual](tel:+1-256-686-0096){: .btn .btn--inverse}
 
-**Email**
-`office@annunlord.org`
+### Child and Victim Assistance
+To report an incident of sexual abuse or misconduct, please call the confidential reporting line.
+{: .notice--warning}
+[(205) 597-9058](tel:+1-205-597-9058){: .btn .btn--inverse}
 
-**Office Hours**
-* Monday - Thursday: 8:30 AM - 4:30 PM
-* Friday: 8:30 AM - 12:00 PM
+## General Contact
+**Phone:** [(256) 353-2667](tel:+1-256-353-2667)
+**Email:** [parish@annunlord.com](mailto:parish@annunlord.com)
+**Fax:** `(256) 353-8994`
 
-For specific inquiries, you may also wish to visit our [Clergy & Staff page](/about/staff/).
+## Mailing Address
+<address>
+ANNUNCIATION OF THE LORD CATHOLIC CHURCH<br/> 3910 Spring Avenue SW<br/> Decatur, AL 35603<br/> United States
+</address>
+
+## Parish Office Hours
+
+| Day  | Office Hours |
+| :--- | :----------- |
+| Monday | 8:00 AM – 4:00 PM |
+| Tuesday | 8:00 AM – 4:00 PM |
+| Wednesday | 8:00 AM – 4:00 PM |
+| Thursday | 8:00 AM – 4:00 PM |
+| Friday | 8:00 AM – Noon |

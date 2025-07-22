@@ -126,7 +126,9 @@ footer:
     - label: "Privacy Policy"
       icon: "fas fa-link"
       url: "/terms/#privacy-policy"
-
+    - label: "Report a problem with this website"
+      icon: "fas fa-fw fa-bug"
+      url: "https://github.com/annunlord/annunlord.github.io/issues/new?assignees=&labels=bug&template=bug_report.yml"
 
 # Reading Files
 include:

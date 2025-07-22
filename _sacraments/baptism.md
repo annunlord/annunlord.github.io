@@ -22,4 +22,4 @@ Baptism is the first sacrament of Christian Initiation. It is the gateway to lif
 3.  **Schedule the Baptism:** Once the class is complete and all paperwork has been submitted, the Baptism can be scheduled. Baptisms are typically celebrated after the 10:30 AM Mass on Sundays.
 
 ## Contact Us
-For more information or to begin the process, please contact Mrs. Susan Johnson, Director of Faith Formation, at `(256) 353-2667 x104`.
+Pre-Baptism classes in English are usually held on the 2nd Saturday of the month from 8:30-9:30 AM. Pre-registration is required. Contact the Parish Office to register and to verify the date and time of the class.

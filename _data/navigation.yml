@@ -62,3 +62,5 @@ parish_life:
     url: /parish_life/email_list/
   - title: "Adoration"
     url: /parish_life/adoration/
+  - title: "Funerals"
+    url: /parish_life/funerals/
