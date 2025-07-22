@@ -1,7 +1,7 @@
 ---
 layout: single
 title: "Join Our Parish"
-permalink: /formation/parish-registration/
+permalink: /formation/parish_registration/
 header:
   image: /assets/images/formation-header-3.webp # A generic header for this section
   alt: "A pen and a registration form"
