@@ -11,9 +11,6 @@ Our weekly bulletin is the best source for current parish news, upcoming events,
 
 ### Recent Bulletins
 
-* [**July 27, 2025:** Sixteenth Sunday in Ordinary Time](/assets/files/bulletins/2025-07-27-Bulletin.pdf)
-* [**July 20, 2025:** Fifteenth Sunday in Ordinary Time](/assets/files/bulletins/2025-07-20-Bulletin.pdf)
-* [**July 13, 2025:** Fourteenth Sunday in Ordinary Time](/assets/files/bulletins/2025-07-13-Bulletin.pdf)
-* [**July 6, 2025:** Thirteenth Sunday in Ordinary Time](/assets/files/bulletins/2025-07-06-Bulletin.pdf)
+<iframe src="https://drive.google.com/embeddedfolderview?id=168uqAJvS1aWFGYY3H82BgoglTGn75mRO#list" style="width:100%; height:600px; border:0;"></iframe>
 
-To submit an announcement for the bulletin, please email your request to `office@annunlord.org` by noon on the Monday prior to the desired weekend. Submissions are subject to approval and space limitations.
+To submit an announcement for the bulletin, please email your request to `parish@annunlord.org` by noon on the Tuesday prior to the desired weekend. Submissions are subject to approval and space limitations.
