@@ -86,7 +86,7 @@ excerpt: "The sacraments are Christ’s own gifts that provide us with his grace
 </div>
 
 <div class="sacrament-banner" style="background-image: url('/assets/images/20200302_204320-cropped-blur-dark2.webp');">
-  <a href="/sacraments/anointing-of-the-sick/"><h2>Anointing of the Sick</h2></a>
+  <a href="/sacraments/anointing_of_the_sick/"><h2>Anointing of the Sick</h2></a>
 </div>
 
 <hr style="margin-top: 3rem;">
