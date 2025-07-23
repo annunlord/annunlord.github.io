@@ -40,7 +40,7 @@ feature_row:
     alt: "Contact Us"
     title: "Contact Us"
     excerpt: "Have questions? Need to get in touch with our office? Find all of our contact information here."
-    url: "/about/contact-us/"
+    url: "/about/contact_us/"
     btn_label: "Get In Touch"
     btn_class: "btn--inverse"
 ---

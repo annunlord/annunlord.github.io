@@ -1,7 +1,7 @@
 ---
 layout: single
 title: "Contact Us"
-permalink: /about/contact-us/
+permalink: /about/contact_us/
 header:
   image: /assets/images/about-header-3.webp
   alt: "The entrance to the parish office"

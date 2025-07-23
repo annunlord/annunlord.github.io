@@ -15,7 +15,7 @@ header:
   caption: "Annunciation of the Lord Catholic Church, Decatur, AL"
   actions:
     - label: "Contact the Parish Office"
-      url: "/about/contact-us/"
+      url: "/about/contact_us/"
 
 # This text will appear overlaid on the main splash image.
 excerpt: "The sacraments are Christ’s own gifts that provide us with his grace. They are the primary way in which we encounter the saving love of God in the Church. Explore each sacrament to learn more."
