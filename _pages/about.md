@@ -22,21 +22,21 @@ excerpt: "We, the Catholic community of Annunciation of the Lord, are called by 
 
 # UPDATED: This now has three feature rows.
 feature_row:
-  - image_path: /assets/images/favicons/android-chrome-192x192.png
+  - image_path: /assets/images/chrismation--1-.webp
     alt: "Parish Staff"
     title: "Meet Our Parish Staff"
     excerpt: "Our dedicated staff works behind the scenes to support our parish's mission and ministries."
     url: "/about/staff/"
     btn_label: "See Who's Who"
     btn_class: "btn--inverse"
-  - image_path: /assets/images/favicons/android-chrome-192x192.png
+  - image_path: /assets/images/Ascension.webp
     alt: "Parish History"
     title: "Our Parish History"
     excerpt: "Discover the deep roots of our parish and its journey of faith serving the Decatur area."
     url: "/about/history/"
     btn_label: "Read Our Story"
     btn_class: "btn--inverse"
-  - image_path: /assets/images/favicons/android-chrome-192x192.png
+  - image_path: /assets/images/hands-coffee-smartphone-technology.webp
     alt: "Contact Us"
     title: "Contact Us"
     excerpt: "Have questions? Need to get in touch with our office? Find all of our contact information here."

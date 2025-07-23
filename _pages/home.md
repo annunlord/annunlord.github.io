@@ -25,42 +25,42 @@ excerpt: >-
 
 # UPDATED to a 6-item grid for a balanced layout.
 feature_row:
-  - image_path: /assets/images/favicons/android-chrome-192x192.png
+  - image_path: /assets/images/news.webp
     alt: "About Our Parish"
     title: "About Our Parish"
     excerpt: "Learn our mission, meet our clergy and staff, and discover the history of our vibrant parish community."
     url: "/about/"
     btn_label: "Learn More"
     btn_class: "btn--primary"
-  - image_path: /assets/images/favicons/android-chrome-192x192.png
+  - image_path: /assets/images/chrismation--1-.webp
     alt: "The Sacraments"
     title: "The Sacraments"
     excerpt: "Discover how to receive the powerful signs of God's grace at our parish, from Baptism to Matrimony."
     url: "/sacraments/"
     btn_label: "Explore the Sacraments"
     btn_class: "btn--primary"
-  - image_path: /assets/images/favicons/android-chrome-192x192.png
+  - image_path: /assets/images/laypeople-at-mass.webp
     alt: "Faith Formation"
     title: "Faith Formation"
     excerpt: "Growing in faith is a lifelong journey. Find a parish group, learn about becoming Catholic, or register."
     url: "/formation/"
     btn_label: "Get Involved"
     btn_class: "btn--primary"
-  - image_path: /assets/images/favicons/android-chrome-192x192.png
+  - image_path: /assets/images/hands-coffee-smartphone-technology.webp
     alt: "Parish Life & News"
     title: "Parish Life & News"
     excerpt: "Stay connected with the day-to-day life of our parish. Find the latest bulletin, view the calendar, and more."
     url: "/parish_life/"
     btn_label: "See What's Happening"
     btn_class: "btn--primary"
-  - image_path: /assets/images/favicons/android-chrome-192x192.png
+  - image_path: /assets/images/news.webp
     alt: "St. Ann's School"
     title: "St. Ann's School"
     excerpt: "Learn more about our parish school, a vital ministry providing academic excellence rooted in the Catholic faith."
     url: "/school/"
     btn_label: "Visit the School Site"
     btn_class: "btn--primary"
-  - image_path: /assets/images/favicons/android-chrome-192x192.png
+  - image_path: /assets/images/missal.webp
     alt: "Donate"
     title: "Donate Online"
     excerpt: "Support the mission and ministries of our parish through secure online giving. Your generosity is greatly appreciated."
