@@ -64,15 +64,15 @@ excerpt: "The sacraments are Christ’s own gifts that provide us with his grace
   <h2>Sacraments of Initiation</h2>
 </div>
 
-<div class="sacrament-banner" style="background-image: url('/assets/images/20200302_204320-cropped-blur-dark2.webp');">
+<div class="sacrament-banner" style="background-image: url('/assets/images/baptismal-font.webp');">
   <a href="/sacraments/baptism/"><h2>Baptism</h2></a>
 </div>
 
-<div class="sacrament-banner" style="background-image: url('/assets/images/20200302_204320-cropped-blur-dark2.webp');">
+<div class="sacrament-banner" style="background-image: url('/assets/images/missal.webp');">
   <a href="/sacraments/confirmation/"><h2>Confirmation</h2></a>
 </div>
 
-<div class="sacrament-banner" style="background-image: url('/assets/images/20200302_204320-cropped-blur-dark2.webp');">
+<div class="sacrament-banner" style="background-image: url('/assets/images/hand-celebration-finger-religion-darkness-church-546650-pxhere.com.webp');">
   <a href="/sacraments/eucharist/"><h2>Eucharist</h2></a>
 </div>
 
@@ -81,11 +81,11 @@ excerpt: "The sacraments are Christ’s own gifts that provide us with his grace
   <h2>Sacraments of Healing</h2>
 </div>
 
-<div class="sacrament-banner" style="background-image: url('/assets/images/20200302_204320-cropped-blur-dark2.webp');">
+<div class="sacrament-banner" style="background-image: url('/assets/images/laypeople-at-mass.webp');">
   <a href="/sacraments/reconciliation/"><h2>Reconciliation</h2></a>
 </div>
 
-<div class="sacrament-banner" style="background-image: url('/assets/images/20200302_204320-cropped-blur-dark2.webp');">
+<div class="sacrament-banner" style="background-image: url('/assets/images/chrismation--1-.webp');">
   <a href="/sacraments/anointing_of_the_sick/"><h2>Anointing of the Sick</h2></a>
 </div>
 
@@ -94,10 +94,10 @@ excerpt: "The sacraments are Christ’s own gifts that provide us with his grace
   <h2>Sacraments of Service</h2>
 </div>
 
-<div class="sacrament-banner" style="background-image: url('/assets/images/20200302_204320-cropped-blur-dark2.webp');">
+<div class="sacrament-banner" style="background-image: url('/assets/images/TLM_pro_sponsis.webp');">
   <a href="/sacraments/matrimony/"><h2>Matrimony</h2></a>
 </div>
 
-<div class="sacrament-banner" style="background-image: url('/assets/images/20200302_204320-cropped-blur-dark2.webp');">
+<div class="sacrament-banner" style="background-image: url('/assets/images/Ordination-To-Priesthood.webp');">
   <a href="/sacraments/holy-orders/"><h2>Holy Orders</h2></a>
 </div>
