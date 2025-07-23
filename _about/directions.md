@@ -2,9 +2,6 @@
 layout: single
 title: "Directions to Our Parish"
 permalink: /about/directions/
-header:
-  image: /assets/images/about-header-4.webp # A generic header for this section
-  alt: "A map showing the location of the church"
 ---
 
 We look forward to welcoming you to Annunciation of the Lord Catholic Church. Our parish is located in southwest Decatur.
