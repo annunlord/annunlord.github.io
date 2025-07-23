@@ -6,3 +6,13 @@
     padding-right: 1rem;  /* Adds space on the right */
   }
 }
+
+/*
+// Enforce a 16:9 aspect ratio on all feature_row images
+*/
+.feature__item img {
+  width: 100%;             // Ensures the image fills the width of its column
+  aspect-ratio: 16 / 9;    // Sets the shape to a 16:9 rectangle
+  object-fit: cover;       // Makes the image cover the area without stretching/distorting
+  border-radius: 8px;      // Optional: Adds a subtle rounded corner for a modern look
+}
