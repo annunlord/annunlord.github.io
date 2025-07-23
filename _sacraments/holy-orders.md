@@ -1,7 +1,7 @@
 ---
 layout: single
 title: "Sacrament of Holy Orders"
-permalink: /sacraments/holy-orders/
+permalink: /sacraments/holy_orders/
 header:
   image: /assets/images/Ordination-To-Priesthood.webp # A generic header for this section
   alt: "A priest's vestments"

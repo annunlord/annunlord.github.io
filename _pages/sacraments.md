@@ -99,5 +99,5 @@ excerpt: "The sacraments are Christ’s own gifts that provide us with his grace
 </div>
 
 <div class="sacrament-banner" style="background-image: url('/assets/images/Ordination-To-Priesthood.webp');">
-  <a href="/sacraments/holy-orders/"><h2>Holy Orders</h2></a>
+  <a href="/sacraments/holy_orders/"><h2>Holy Orders</h2></a>
 </div>
