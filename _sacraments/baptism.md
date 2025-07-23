@@ -3,7 +3,7 @@ layout: single
 title: "Sacrament of Baptism"
 permalink: /sacraments/baptism/
 header:
-  image: /assets/images/sacrament-header-1.webp # A generic header for this section
+  image: /assets/images/baptismal-font.webp # A generic header for this section
   alt: "Water being poured from a baptismal font"
 ---
 

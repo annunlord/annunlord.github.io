@@ -3,7 +3,7 @@ layout: single
 title: "Sacrament of the Eucharist"
 permalink: /sacraments/eucharist/
 header:
-  image: /assets/images/sacrament-header-3.webp # A generic header for this section
+  image: /assets/images/hand-celebration-finger-religion-darkness-church-546650-pxhere.com.webp # A generic header for this section
   alt: "A chalice and host on an altar"
 ---
 

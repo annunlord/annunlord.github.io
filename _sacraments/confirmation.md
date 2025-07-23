@@ -3,7 +3,7 @@ layout: single
 title: "Sacrament of Confirmation"
 permalink: /sacraments/confirmation/
 header:
-  image: /assets/images/sacrament-header-2.webp # A generic header for this section
+  image: /assets/images/missal.webp # A generic header for this section
   alt: "A bishop anointing a confirmand"
 ---
 

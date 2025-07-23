@@ -3,7 +3,7 @@ layout: single
 title: "Anointing of the Sick"
 permalink: /sacraments/anointing_of_the_sick/
 header:
-  image: /assets/images/sacrament-header-5.webp # A generic header for this section
+  image: /assets/images/chrismation--1-.webp # A generic header for this section
   alt: "A priest anointing the hands of a sick person"
 ---
 

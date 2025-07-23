@@ -3,7 +3,7 @@ layout: single
 title: "Sacrament of Matrimony"
 permalink: /sacraments/matrimony/
 header:
-  image: /assets/images/sacrament-header-6.webp # A generic header for this section
+  image: /assets/images/TLM_pro_sponsis.webp # A generic header for this section
   alt: "Wedding rings on a Bible"
 ---
 
