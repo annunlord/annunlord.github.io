@@ -74,27 +74,20 @@ feature_row:
   <div class="grid__wrapper" style="display: flex; flex-wrap: wrap; justify-content: center; align-items: flex-start; text-align: left; gap: 2rem;">
     <div class="grid__item">
       <h3>Weekend Masses</h3>
-      <p style="margin-bottom: 1rem;">
-        <strong>Saturday Vigil:</strong><br>
-        5:00 PM (English)<br>
-        7:00 PM (Spanish)
-      </p>
-      <p>
-        <strong>Sunday:</strong><br>
-        7:30 AM (English)<br>
-        9:00 AM (Spanish)<br>
-        11:30 AM (English)<br>
-        1:30 PM (Spanish)
-      </p>
+      {% for day in site.data.schedule.weekend %}
+        <p style="margin-bottom: 1rem;">
+          <strong>{{ day.day }}:</strong><br>
+          {% for item in day.times %}
+            {{ item.time }} ({{ item.language }})<br>
+          {% endfor %}
+        </p>
+      {% endfor %}
     </div>
     <div class="grid__item">
       <h3>Confessions</h3>
-      <p style="margin-bottom: 0.5rem;">
-        <strong>Saturday:</strong> 3:30 PM - 4:30 PM
-      </p>
-      <p>
-        <em>Or by appointment by calling the parish office.</em>
-      </p>
+      {% for item in site.data.schedule.confession %}
+        <p style="margin-bottom: 0.5rem;">{{ item.line }}</p>
+      {% endfor %}
     </div>
   </div>
 </div>
