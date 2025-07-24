@@ -18,36 +18,36 @@
 }
 
 /*
-// Responsive Header Aspect Ratios for ALL Page Layouts
-// This ensures the main header image has a consistent, controlled shape
-// on pages using either the 'splash' or 'single' layout.
+// ==========================================================================
+// CORRECTED: Responsive Header Aspect Ratios for ALL Pages
+// ==========================================================================
 */
 
-// --- Rule 1: Set the aspect ratio for both header types ---
+// --- Rule 1: Set the aspect ratio for BOTH header containers ---
+// This targets the container on `splash` pages AND `single` pages.
 .splash .page__hero--overlay,
-.page__hero--feature {
-  // --- Mobile First (Default) ---
-  // On phones, use a 4:3 ratio.
-  aspect-ratio: 4 / 3;
-  min-height: auto; // Override theme min-height to let aspect-ratio rule.
+.page__hero {
+  // Mobile First (Default)
+  aspect-ratio: 16 / 9;
+  min-height: auto;
+  height: auto; // Ensure auto-height
 
-  // --- Tablet and up ---
-  // On screens wider than 'small', switch to 16:9.
+  // Tablet and up
   @media screen and (min-width: $small) {
-    aspect-ratio: 16 / 9;
+    aspect-ratio: 3 / 1;
   }
 
-  // --- Desktop and up ---
-  // On screens wider than 'large', use a cinematic 21:9.
+  // Desktop and up
   @media screen and (min-width: $large) {
-    aspect-ratio: 21 / 9;
+    aspect-ratio: 4 / 1;
   }
 }
 
-// --- Rule 2: Ensure the image on 'single' pages fills the new shape ---
-// This rule is necessary for the 'single' layout header image.
-.page__hero--feature img {
+// --- Rule 2: Force the images inside the headers to fill the new shape ---
+// This targets the image on `single` pages using the correct class you provided.
+// The `background-image` on splash pages is handled by the theme already.
+.page__hero-image {
   width: 100%;
   height: 100%;
-  object-fit: cover; // Fill the container without stretching.
+  object-fit: cover; // Fill the container without stretching
 }
