@@ -14,8 +14,6 @@ main:
     url: https://giving.parishsoft.com/App/Giving/annunlord
 
 about:
-  - title: "Our Mission"
-    url: /about/our_mission/
   - title: "Clergy & Staff"
     url: /about/staff/
   - title: "Our History"
