@@ -106,7 +106,7 @@ feature_row:
 <hr>
 
 <div style="padding: 2rem 0;">
-  <img src="/assets/images/school-header.webp" alt="St. Ann's Catholic School" class="align-right" style="max-width: 300px; border-radius: 8px;">
+  <img src="/assets/images/St-Anne-Emblem-High-Quality-32.webp" alt="St. Ann's Catholic School" class="align-right" style="max-width: 300px; border-radius: 8px;">
   <h2>A Ministry of Our Parish</h2>
   <h3>St. Ann's Catholic School</h3>
   <p class="lead">St. Ann's Catholic School has been providing academic excellence rooted in the Catholic faith for over 70 years. Serving students from Pre-K through 8th grade, St. Ann's forms minds and hearts to prepare students to be faith-filled leaders and lifelong learners.</p>

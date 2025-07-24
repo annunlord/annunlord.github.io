@@ -50,14 +50,14 @@ feature_row:
 </div>
 <div class="grid__wrapper" style="display: flex; flex-wrap: wrap; justify-content: space-evenly; align-items: flex-start;">
   <div class="grid__item" style="max-width: 350px; margin-bottom: 2rem; text-align: center;">
-    <img src="/assets/images/bio-photo-2.webp" alt="Rev. Michael Smith" style="border-radius: 50%; width: 150px; height: 150px; object-fit: cover;">
-    <h3>Rev. Michael Smith</h3>
+    <img src="/assets/images/ackerman.webp" alt="Rev. Michael Smith" style="border-radius: 50%; width: 150px; height: 150px; object-fit: cover;">
+    <h3>Fr. Tom Ackerman</h3>
     <h4>Pastor</h4>
     <p>A warm welcome to you from all of us at Annunciation of the Lord! It is a blessing to serve this vibrant community. We hope you find a spiritual home here, rich in faith, fellowship, and service.</p>
   </div>
   <div class="grid__item" style="max-width: 350px; margin-bottom: 2rem; text-align: center;">
-    <img src="/assets/images/bio-photo-2.webp" alt="Rev. David Chen" style="border-radius: 50%; width: 150px; height: 150px; object-fit: cover;">
-    <h3>Rev. David Chen</h3>
+    <img src="/assets/images/gallegos.webp" alt="Rev. David Chen" style="border-radius: 50%; width: 150px; height: 150px; object-fit: cover;">
+    <h3>Fr. Max Gallegos</h3>
     <h4>Parochial Vicar</h4>
     <p>Peace be with you! I am delighted to be a part of this wonderful parish family. Whether you are a lifelong member or a first-time visitor, know that you are always welcome here.</p>
   </div>

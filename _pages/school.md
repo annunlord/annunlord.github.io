@@ -22,21 +22,21 @@ excerpt: "Forming minds and hearts in the Catholic tradition. St. Ann's Catholic
 
 # This feature row provides direct links to key sections of the school's website.
 feature_row:
-  - image_path: /assets/images/favicons/android-chrome-192x192.png
+  - image_path: /assets/images/kid-teaching.webp
     alt: "Admissions"
     title: "Admissions Information"
     excerpt: "Considering St. Ann's for your child? Learn about our admissions process, schedule a tour, and discover the value of a Catholic education."
     url: "https://saintanndecatur.org/admissions/" # <-- UPDATED LINK
     btn_label: "Learn About Admissions"
     btn_class: "btn--primary"
-  - image_path: /assets/images/favicons/android-chrome-192x192.png
+  - image_path: /assets/images/calendar.webp
     alt: "School Calendar"
     title: "School Calendar"
     excerpt: "Stay up-to-date with the academic year. Find key dates, holidays, early dismissals, and school events."
     url: "https://saintanndecatur.org/calendar/" # <-- UPDATED LINK
     btn_label: "View the Calendar"
     btn_class: "btn--primary"
-  - image_path: /assets/images/favicons/android-chrome-192x192.png
+  - image_path: /assets/images/books-support.webp
     alt: "Support St. Ann's"
     title: "Support Our School"
     excerpt: "Our school thrives on the generosity of our community. Learn how you can support our mission and make a difference for our students."
