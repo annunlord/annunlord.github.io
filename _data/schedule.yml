@@ -1,0 +1,60 @@
+# To update the schedule, simply edit the times and languages in this file.
+# You do not need to touch the main mass-times.md page.
+
+weekend:
+  - day: "Saturday"
+    times:
+      - time: "5:00 PM"
+        language: "English"
+      - time: "7:00 PM"
+        language: "Spanish"
+  - day: "Sunday"
+    times:
+      - time: "7:30 AM"
+        language: "English"
+      - time: "9:00 AM"
+        language: "Spanish"
+      - time: "11:30 AM"
+        language: "English"
+      - time: "1:30 PM"
+        language: "Spanish"
+
+weekday:
+  - day: "Monday"
+    times:
+      - time: "9:00 AM"
+        language: "English"
+      - time: "6:00 PM"
+        language: "English"
+  - day: "Tuesday"
+    times:
+      - time: "9:00 AM"
+        language: "English"
+      - time: "12:00 PM"
+        language: "Spanish"
+  - day: "Wednesday"
+    times:
+      - time: "6:00 AM"
+        language: "Bilingual"
+      - time: "9:00 AM"
+        language: "English"
+      - time: "6:00 PM"
+        language: "Spanish"
+  - day: "Thursday"
+    times:
+      - time: "9:00 AM"
+        language: "English"
+  - day: "Friday"
+    times:
+      - time: "9:00 AM"
+        language: "English"
+      - time: "6:00 PM"
+        language: "Spanish"
+        note: "*The Friday 6:00 PM Spanish Mass is followed by a Holy Hour."
+
+confession:
+  - line: "<strong>Saturday:</strong> 3:30 PM - 4:30 PM"
+  - line: "<em>Or by appointment by calling the parish office at `(256) 353-2667`.</em>"
+
+adoration:
+  - line: "Please see our <a href='/parish_life/adoration/'>Adoration Page</a> for the full schedule and details."
