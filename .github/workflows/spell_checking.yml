@@ -16,7 +16,7 @@ jobs:
           pip3 install codespell
           if [ -f requirements.txt ]; then pip3 install -r requirements.txt; fi
       - name: Check spelling with codespell
-        run: codespell --skip="./package-lock.json,./_sass/minimal-mistakes/_syntax.scss,./_data/ui-text.yml" --ignore-words=codespell.txt || exit 1
+        run: codespell --skip="./package-lock.json,./_sass/minimal-mistakes/_syntax.scss,./_data/ui-text.yml,./assets/js/main.min.js,./assets/js/lunr/lunr.js" --ignore-words=codespell.txt || exit 1
   misspell:
     name: Check spelling with misspell
     runs-on: ubuntu-latest
