@@ -164,7 +164,7 @@ Pre-Baptism classes in English are usually held on the 2nd Saturday of the month
 Arrangements must be made 6 months in advance.
 Call Parish Office.
 
-## Annointing of the Sick or Sick Calls
+## Anointing of the Sick or Sick Calls
 
 To schedule, please call the Parish Office including
 if a family member is in the hospital.

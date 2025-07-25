@@ -32,7 +32,7 @@
 /// ## Shorthand
 ///
 /// All functions draw on the same shorthand syntax in two parts,
-/// seperated by the word `of`.
+/// separated by the word `of`.
 ///
 /// ### Span Syntax: `<width>` [`<location>` `<spread>`]
 /// The first part describes the
@@ -211,7 +211,7 @@
 // ----------
 /// Working with asymmetrical grids (un-equal column widths)
 /// can be challenging – 
-/// expecially when they involve fluid/fractional elements.
+/// especially when they involve fluid/fractional elements.
 /// Describing a context `of (15em 6em 6em 6em 15em)` is a lot
 /// to put inside the span or gutter function shorthand.
 /// This slice function returns a sub-slice of asymmetrical columns to use
