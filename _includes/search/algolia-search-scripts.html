@@ -4,7 +4,7 @@
 <link rel="stylesheet" href="https://cdn.jsdelivr.net/npm/instantsearch.js@2.3.3/dist/instantsearch-theme-algolia.min.css">
 
 <script>
-// Instanciating InstantSearch.js with Algolia credentials
+// Instantiating InstantSearch.js with Algolia credentials
 const search = instantsearch({
   appId: '{{ site.algolia.application_id }}',
   apiKey: '{{ site.algolia.search_only_api_key }}',
@@ -19,9 +19,9 @@ const search = instantsearch({
 
 const hitTemplate = function(hit) {
   const url = hit.url;
-  const hightlight = hit._highlightResult;
-  const title = hightlight.title && hightlight.title.value  || "";
-  const content = hightlight.html && hightlight.html.value  || "";
+  const highlight = hit._highlightResult;
+  const title = highlight.title && highlight.title.value  || "";
+  const content = highlight.html && highlight.html.value  || "";
 
   return `
     <div class="list__item">

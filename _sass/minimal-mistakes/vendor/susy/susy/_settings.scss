@@ -84,7 +84,7 @@
 ///   to make all your units work together.
 ///
 ///   Use the `susy-repeat($count, $value)` function
-///   to more easily repetative columns,
+///   to more easily repetitive columns,
 ///   similar to the CSS-native `repeat()`.
 ///
 ///   - `susy-repeat(8)`:
@@ -179,7 +179,7 @@ $susy: () !default;
 // -----------
 /// Similar to the `repeat(<count>, <value>)` function
 /// that is available in native CSS Grid templates,
-/// the `susy-repeat()` function helps generate repetative layouts
+/// the `susy-repeat()` function helps generate repetitive layouts
 /// by repeating any value a given number of times.
 /// Where Susy previously allowed `8` as a column definition
 /// for 8 equal columns, you should now use `susy-repeat(8)`.
