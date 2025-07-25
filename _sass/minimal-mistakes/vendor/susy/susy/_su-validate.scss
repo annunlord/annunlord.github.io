@@ -132,7 +132,7 @@
 // Valid Spread
 // ------------
 /// Check that the `spread` argument is a valid
-/// intiger between `-1` and `1`
+/// integer between `-1` and `1`
 ///
 /// @group x-validation
 ///
@@ -175,7 +175,7 @@
 ///   List of available columns in the grid
 ///
 /// @return {integer} -
-///   Validated `$location` intiger
+///   Validated `$location` integer
 ///
 /// @throw
 ///   when location value is not a valid index,
@@ -195,7 +195,7 @@
         'su-valid-location');
     } @else if (round($location) != $location) {
       @return _susy-error(
-        'Location (`#{$location}`) must be a 1-indexed intiger position.',
+        'Location (`#{$location}`) must be a 1-indexed integer position.',
         'su-valid-location');
     } @else if ($location > $count) or ($location < 1) {
       @return _susy-error(
