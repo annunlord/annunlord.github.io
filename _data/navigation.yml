@@ -1,34 +1,64 @@
 # main links
 main:
-  - title: "Mass Times"
-    url: /information/mass_times/
-  - title: "Information"
-    url: /information/
-  - title: "Contact Us"
-    url: /information/contact_us/
+  - title: "About"
+    url: /about/
+  - title: "Sacraments"
+    url: /sacraments/
+  - title: "Formation"
+    url: /formation/
+  - title: "Parish Life"
+    url: /parish_life/
+  - title: "School"
+    url: /school/
   - title: "Donate"
     url: https://giving.parishsoft.com/App/Giving/annunlord
 
-information:
-  - title: "Mass Times"
-    url: /information/mass_times/
-  - title: "Adoration"
-    url: /information/adoration/
-  - title: "Bulletins"
-    url: /information/bulletins/
-  - title: "Liturgical Minister Schedule"
-    url: /information/liturgical_minister_schedule/
+about:
+  - title: "Clergy & Staff"
+    url: /about/staff/
+  - title: "Our History"
+    url: /about/history/
   - title: "Contact Us"
-    url: /information/contact_us/
-  - title: "Calendar"
-    url: /information/calendar/
+    url: /about/contact_us/
   - title: "Directions"
-    url: /information/directions/
+    url: /about/directions/
+
+sacraments:
+  - title: "Baptism"
+    url: /sacraments/baptism/
+  - title: "Reconciliation"
+    url: /sacraments/reconciliation/
+  - title: "Eucharist"
+    url: /sacraments/eucharist/
+  - title: "Confirmation"
+    url: /sacraments/confirmation/
+  - title: "Holy Orders"
+    url: /sacraments/holy_orders/
+  - title: "Matrimony"
+    url: /sacraments/matrimony/
+  - title: "Anointing of the Sick"
+    url: /sacraments/anointing_of_the_sick/
+
+formation:
+  - title: "Parish Groups"
+    url: /formation/parish_groups/
+  - title: "Becoming Catholic (OCIA)"
+    url: /formation/ocia/
+  - title: "Parish Registration"
+    url: /formation/parish_registration/
+
+parish_life:
+  - title: "Mass Times"
+    url: /parish_life/mass_times/
+  - title: "Bulletins"
+    url: /parish_life/bulletins/
+  - title: "Liturgical Minister Schedule"
+    url: /parish_life/liturgical_minister_schedule/
+  - title: "Calendar"
+    url: /parish_life/calendar/
   - title: "Email List"
-    url: /information/email_list/
-  - title: "Parish History"
-    url: /information/parish_history/
-  - title: "Policies"
-    url: /information/policies/
-  - title: "Links"
-    url: /information/links/
+    url: /parish_life/email_list/
+  - title: "Adoration"
+    url: /parish_life/adoration/
+  - title: "Funerals"
+    url: /parish_life/funerals/

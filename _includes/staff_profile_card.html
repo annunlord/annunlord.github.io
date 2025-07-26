@@ -1,0 +1,6 @@
+<div class="grid__item" style="max-width: {{ include.max_width | default: '350px' }}; margin-bottom: 2rem; text-align: center;">
+  <img src="{{ include.person.photo | relative_url }}" alt="{{ include.person.name }}" style="border-radius: 50%; width: 150px; height: 150px; object-fit: cover;">
+  <h3>{{ include.person.informal_name | default: include.person.name }}</h3>
+  <h4>{{ include.person.title }}</h4>
+  <p>{{ include.person.bio }}</p>
+</div>
