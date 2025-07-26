@@ -60,6 +60,13 @@ deacons:
       - value: "(256) 345-1721"
         link: "tel:+1-256-345-1721"
         style: "btn--inverse"
+  - title: "Deacon"
+    name: "Deacon Rick Chenault"
+    photo: "/assets/images/bio-photo-2.webp"
+    contact:
+      - value: "(256) 476-0134"
+        link: "tel:+1-256-476-0134"
+        style: "btn--inverse"
 
 parish_staff:
   - title: "Secretary"
