@@ -1,0 +1,148 @@
+# This is the master list for all clergy, deacons, and staff.
+# To update staff info, simply edit this file.
+# photo: Path to the image.
+# title: The person's job title (optional for deacons).
+# name: The person's full name.
+# contact: A list of buttons. Each needs a value (text), link (URL), and style (btn--success or btn--inverse).
+
+clergy:
+  - title: "Pastor"
+    name: "Father Tom Ackerman"
+    informal_name: "Fr. Tom Ackerman"
+    photo: "/assets/images/ackerman.webp"
+    bio: "A warm welcome to you from all of us at Annunciation of the Lord! It is a blessing to serve this vibrant community. We hope you find a spiritual home here, rich in faith, fellowship, and service." # <-- New field
+    contact:
+      - value: "(256) 353-2667 x 120"
+        link: "tel:+1-256-353-2667,,120"
+        style: "btn--success"
+      - value: "pastor@annunlord.com"
+        link: "mailto:pastor@annunlord.com"
+        style: "btn--success"
+  - title: "Parochial Vicar"
+    name: "Father Max Gallegos"
+    informal_name: "Fr. Max Gallegos"
+    photo: "/assets/images/gallegos.webp"
+    bio: "Peace be with you! I am delighted to be a part of this wonderful parish family. Whether you are a lifelong member or a first-time visitor, know that you are always welcome here." # <-- New field
+    contact:
+      - value: "(256) 353-2667 x 131"
+        link: "tel:+1-256-353-2667,,131"
+        style: "btn--inverse"
+      - value: "padre@annunlord.com"
+        link: "mailto:padre@annunlord.com"
+        style: "btn--inverse"
+
+deacons:
+  - title: "Deacon"
+    name: "Deacon Patrick Lappert"
+    photo: "/assets/images/bio-photo-2.webp"
+    contact:
+      - value: "(256) 221-8844"
+        link: "tel:+1-256-221-8844"
+        style: "btn--inverse"
+  - title: "Deacon"
+    name: "Deacon Lou Sciaroni"
+    photo: "/assets/images/bio-photo-2.webp"
+    contact:
+      - value: "(256) 355-3363"
+        link: "tel:+1-256-355-3363"
+        style: "btn--inverse"
+  - title: "Deacon"
+    name: "Deacon Bob Catanach"
+    photo: "/assets/images/bio-photo-2.webp"
+    contact:
+      - value: "(256) 604-6865"
+        link: "tel:+1-256-604-6865"
+        style: "btn--inverse"
+  - title: "Deacon"
+    name: "Deacon Javier Ramirez"
+    photo: "/assets/images/bio-photo-2.webp"
+    contact:
+      - value: "(256) 345-1721"
+        link: "tel:+1-256-345-1721"
+        style: "btn--inverse"
+
+parish_staff:
+  - title: "Secretary"
+    name: "Laura Horton"
+    photo: "/assets/images/bio-photo-2.webp"
+    contact:
+      - value: "(256) 353-2667 x 101"
+        link: "tel:+1-256-353-2667,,101"
+        style: "btn--success"
+      - value: "parish@annunlord.com"
+        link: "mailto:parish@annunlord.com"
+        style: "btn--success"
+  - title: "Coordinator of Hispanic Ministry"
+    name: "Elvira Esparza"
+    photo: "/assets/images/bio-photo-2.webp"
+    contact:
+      - value: "(256) 353-2667 x 107"
+        link: "tel:+1-256-353-2667,,107"
+        style: "btn--inverse"
+      - value: "hispanicoffice@annunlord.com"
+        link: "mailto:hispanicoffice@annunlord.com"
+        style: "btn--inverse"
+  - title: "Director of Religious Education"
+    name: "Liz Schroer"
+    photo: "/assets/images/bio-photo-2.webp"
+    contact:
+      - value: "(256) 353-2667 x 108"
+        link: "tel:+1-256-353-2667,,108"
+        style: "btn--inverse"
+      - value: "DRE@annunlord.com"
+        link: "mailto:DRE@annunlord.com"
+        style: "btn--inverse"
+  - title: "Operations Coordinator"
+    name: "Jan Gile"
+    photo: "/assets/images/bio-photo-2.webp"
+    contact:
+      - value: "(256) 353-2667 x 148"
+        link: "tel:+1-256-353-2667,,148"
+        style: "btn--inverse"
+      - value: "jgile@annunlord.com"
+        link: "mailto:jgile@annunlord.com"
+        style: "btn--inverse"
+  - title: "Music Director"
+    name: "Ashleigh Russell"
+    photo: "/assets/images/bio-photo-2.webp"
+    contact:
+      - value: "music@saintanndecatur.org"
+        link: "mailto:music@saintanndecatur.org"
+        style: "btn--inverse"
+  - title: "Facilities Manager"
+    name: "Alex Harvill"
+    photo: "/assets/images/bio-photo-2.webp"
+    contact:
+      - value: "(256) 353-2667"
+        link: "tel:+1-256-353-2667"
+        style: "btn--inverse"
+      - value: "facilitiesmgr@annunlord.com"
+        link: "mailto:facilitiesmgr@annunlord.com"
+        style: "btn--inverse"
+  - title: "Finance Manager"
+    name: "Nancy Carlisle"
+    photo: "/assets/images/bio-photo-2.webp"
+    contact:
+      - value: "(256) 353-2667 x 121"
+        link: "tel:+1-256-353-2667,,121"
+        style: "btn--inverse"
+      - value: "financemgr@annunlord.com"
+        link: "mailto:financemgr@annunlord.com"
+        style: "btn--inverse"
+  - title: "Financial Assistant"
+    name: "Carolina Chambers"
+    photo: "/assets/images/bio-photo-2.webp"
+    contact:
+      - value: "(256) 353-2667 x 103"
+        link: "tel:+1-256-353-2667,,103"
+        style: "btn--inverse"
+      - value: "bookkeeper@annunlord.com"
+        link: "mailto:bookkeeper@annunlord.com"
+        style: "btn--inverse"
+  - title: "Youth Minister"
+    name: "Alma Uriostegui"
+    photo: "/assets/images/bio-photo-2.webp"
+    contact:
+      - value: "youthminister@annunlord.com"
+        link: "mailto:youthminister@annunlord.com"
+        style: "btn--inverse"

@@ -1,0 +1,14 @@
+<div class="staff-entry">
+  <img src="{{ include.person.photo | relative_url }}" alt="{{ include.person.name }}">
+  <div class="staff-details">
+    {% if include.person.title %}
+      <h3>{{ include.person.title }}</h3>
+    {% endif %}
+    <p><strong>{{ include.person.name }}</strong></p>
+    
+    {% comment %} This loop now generates raw HTML <a> tags instead of Markdown {% endcomment %}
+    {% for item in include.person.contact %}
+      <a href="{{ item.link }}" class="btn {{ item.style }}">{{ item.value }}</a>
+    {% endfor %}
+  </div>
+</div>
