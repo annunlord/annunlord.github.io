@@ -1,0 +1,53 @@
+/* Center feature_row items on mobile */
+@media screen and (max-width: $small) {
+  .feature__wrapper {
+    justify-content: center;
+    padding-left: 1rem;   /* Adds space on the left */
+    padding-right: 1rem;  /* Adds space on the right */
+  }
+}
+
+/*
+// Enforce a 16:9 aspect ratio on all feature_row images
+*/
+.feature__item img {
+  width: 100%;             // Ensures the image fills the width of its column
+  aspect-ratio: 16 / 9;    // Sets the shape to a 16:9 rectangle
+  object-fit: cover;       // Makes the image cover the area without stretching/distorting
+  border-radius: 8px;      // Optional: Adds a subtle rounded corner for a modern look
+}
+
+/*
+// ==========================================================================
+// CORRECTED: Responsive Header Aspect Ratios for ALL Pages
+// ==========================================================================
+*/
+
+// --- Rule 1: Set the aspect ratio for BOTH header containers ---
+// This targets the container on `splash` pages AND `single` pages.
+.splash .page__hero--overlay,
+.page__hero {
+  // Mobile First (Default)
+  aspect-ratio: 16 / 9;
+  min-height: auto;
+  height: auto; // Ensure auto-height
+
+  // Tablet and up
+  @media screen and (min-width: $small) {
+    aspect-ratio: 3 / 1;
+  }
+
+  // Desktop and up
+  @media screen and (min-width: $large) {
+    aspect-ratio: 4 / 1;
+  }
+}
+
+// --- Rule 2: Force the images inside the headers to fill the new shape ---
+// This targets the image on `single` pages using the correct class you provided.
+// The `background-image` on splash pages is handled by the theme already.
+.page__hero-image {
+  width: 100%;
+  height: 100%;
+  object-fit: cover; // Fill the container without stretching
+}
