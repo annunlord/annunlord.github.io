@@ -1,22 +1,44 @@
 ---
+layout: single
 title: "Contact Us"
 excerpt: "How to get in touch"
-toc: true
+permalink: /information/contact_us/
 header:
-  overlay_image: /assets/images/blurred_bulletin.webp
-  teaser: /assets/images/blurred_bulletin.webp
+  image: /assets/images/blurred_bulletin.webp
+  alt: "The altar at Annunciation of the Lord"
 date: 2022-01-15
 last_modified_at: 2024-06-18
 ---
 
-# Contact Us
+<style>
+  .staff-entry { display: flex; align-items: center; gap: 1.5rem; padding: 1.5rem 0; border-bottom: 1px solid #eee; }
+  .staff-entry:last-of-type { border-bottom: none; }
+  .staff-entry img { width: 120px; height: 120px; border-radius: 50%; object-fit: cover; flex-shrink: 0; }
+  .staff-details h3 { margin-top: 0; margin-bottom: 0.25rem; font-size: 1em; color: #555; }
+  .staff-details strong { font-size: 1.2em; }
+  .staff-details p { margin-top: 0; margin-bottom: 1rem; }
+  @media screen and (max-width: 576px) { .staff-entry { flex-direction: column; text-align: center; } }
+</style>
 
-**Child and Victim Assistance**:
-To report an incident of sexual abuse or misconduct call
-[(205) 597-9058](tel:+1-205-597-9058){: .btn .btn--inverse}
-{: .notice--danger}
+## Clergy
 
-# Directory
+{% for person in site.data.staff.clergy %}
+  {% include staff_member.html person=person %}
+{% endfor %}
+
+---
+## Deacons
+
+{% for person in site.data.staff.deacons %}
+  {% include staff_member.html person=person %}
+{% endfor %}
+
+---
+## Parish Staff
+
+{% for person in site.data.staff.parish_staff %}
+  {% include staff_member.html person=person %}
+{% endfor %}
 
 ## Mailing Address
 
@@ -47,80 +69,6 @@ Fax Number: `(256) 353-8994`
 | Wednesday | 8:00 AM – 4:00 PM |
 | Thursday  | 8:00 AM – 4:00 PM |
 | Friday    | 8:00 AM – Noon    |
-
-## Parish Staff
-
-### PASTOR
-
-Father Tom Ackerman
-
-[(256) 353-2667 x 120](tel:+1-256-353-2667,,120){: .btn .btn--success}
-
-### Parochial Vicar
-
-Father Max Gallegos
-
-[(256) 353-2667 x 131](tel:+1-256-353-2667,,131){: .btn .btn--inverse}
-[padre@annunlord.com](mailto:padre@annunlord.com){: .btn .btn--inverse}
-
-### Secretary
-
-Laura Horton
-[(256) 353-2667 x 101](tel:+1-256-353-2667,,101){: .btn .btn--success}
-[parish@annunlord.com](mailto:parish@annunlord.com){: .btn .btn--success}
-
-### Coordinator of Hispanic Ministry
-
-Elvira Esparza
-[(256) 353-2667 x 107](tel:+1-256-353-2667,,107){: .btn .btn--inverse}
-[hispanicoffice@annunlord.com](mailto:hispanicoffice@annunlord.com){: .btn .btn--inverse}
-
-### Director of Religious Education
-
-Liz Schroer
-[(256) 353-2667 x 108](tel:+1-256-353-2667,,108){: .btn .btn--inverse}
-[DRE@annunlord.com](mailto:DRE@annunlord.com){: .btn .btn--inverse}
-
-### Operations Coordinator
-
-Jan Gile
-[(256) 353-2667 x 148](tel:+1-256-353-2667,,148){: .btn .btn--inverse}
-[jgile@annunlord.com](mailto:jgile@annunlord.com){: .btn .btn--inverse}
-
-### Music Director
-
-Ashleigh Russell
-[music@saintanndecatur.org](mailto:music@saintanndecatur.org){: .btn .btn--inverse}
-
-### Facilities Manager
-
-Alex Harvill
-[(256) 353-2667](tel:+1-256-353-2667){: .btn .btn--inverse}
-[facilitiesmgr@annunlord.com](mailto:facilitiesmgr@annunlord.com){: .btn .btn--inverse}
-
-### Finance Manager
-
-Nancy Carlisle
-[(256) 353-2667 x 121](tel:+1-256-353-2667,,121){: .btn .btn--inverse}
-[financemgr@annunlord.com](mailto:financemgr@annunlord.com){: .btn .btn--inverse}
-
-### Financial Assistant
-
-Carolina Chambers
-[(256) 353-2667 x 103](tel:+1-256-353-2667,,103){: .btn .btn--inverse}
-[bookkeeper@annunlord.com](mailto:bookkeeper@annunlord.com){: .btn .btn--inverse}
-
-### Youth Minister
-
-Alma Uriostegui
-[youthminister@annunlord.com](mailto:youthminister@annunlord.com){: .btn .btn--inverse}
-
-## Deacons
-
-- Deacon Patrick Lappert [(256) 221-8844](tel:+1-256-221-8844){: .btn .btn--inverse}
-- Deacon Lou Sciaroni [(256) 355-3363](tel:+1-256-355-3363){: .btn .btn--inverse}
-- Deacon Bob Catanach [(256) 604-6865](tel:+1-256-604-6865){: .btn .btn--inverse}
-- Deacon Javier Ramirez [(256) 345-1721](tel:+1-256-345-1721){: .btn .btn--inverse}
 
 ## St. Vincent DePaul
 
