@@ -28,20 +28,32 @@ jobs:
           source: ./
           destination: ./_site
 
+      # Use the general-purpose upload-artifact action
       - name: Upload artifact
-        uses: actions/upload-pages-artifact@v3
+        uses: actions/upload-artifact@v4
+        with:
+          # Name of the artifact to be downloaded in the next job
+          name: jekyll-site
+          # Path to the directory to upload
+          path: ./_site
 
   # Link checker job
   link-checker:
     runs-on: ubuntu-latest
     needs: build # This job runs only after the build job is successful
     steps:
+      # Use the general-purpose download-artifact action
       - name: Download artifact
-        uses: actions/download-pages-artifact@v3
+        uses: actions/download-artifact@v4
+        with:
+          # Must match the name given in the upload-artifact step
+          name: jekyll-site
 
       - name: Link Checker
         uses: lycheeverse/lychee-action@v1.9.0
         with:
-          args: "--verbose ./**/*.html" # Check all HTML files in the artifact
+          # The downloaded files will be in the root of the workspace,
+          # so this path will find all HTML files.
+          args: "--verbose ./**/*.html"
           # Optional: Add a GitHub token to avoid rate-limiting issues with the GitHub API
           # github_token: ${{secrets.GITHUB_TOKEN}}
