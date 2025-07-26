@@ -63,7 +63,7 @@ deacons:
 
 parish_staff:
   - title: "Secretary"
-    name: "Laura Horton"
+    name: ""
     photo: "/assets/images/bio-photo-2.webp"
     contact:
       - value: "(256) 353-2667 x 101"
