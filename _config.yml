@@ -58,7 +58,7 @@ reCaptcha:
   secret                 :
 atom_feed:
   path                   : # blank (default) uses feed.xml
-  hide                   : # true, false (default)
+  hide                   : true # true, false (default)
 search                   : true # true, false (default)
 search_full_content      : true # true, false (default)
 search_provider          : # lunr (default), algolia, google
@@ -114,17 +114,17 @@ author:
 footer:
   links:
     - label: "Facebook"
-      icon: "fab fa-fw fa-facebook-square"
+      icon: "fab fa-fw fa-facebook-square\" style=\"color:black" # Forcing the color to black for the facebook icon
       url: "https://www.facebook.com/120876511259646"
-    - label: "GitHub"
-      icon: "fab fa-fw fa-github"
-      url: "https://github.com/annunlord"
     - label: "Terms"
       icon: "fas fa-link"
       url: "/terms/#terms-and-conditions"
     - label: "Privacy Policy"
       icon: "fas fa-link"
       url: "/terms/#privacy-policy"
+    - label: "Report a problem with this website"
+      icon: "fas fa-fw fa-bug"
+      url: "https://github.com/annunlord/annunlord.github.io/issues/new?assignees=&labels=bug&template=bug_report.yml"
 
 
 # Reading Files
