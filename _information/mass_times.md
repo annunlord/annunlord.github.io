@@ -7,77 +7,45 @@ date: 2022-01-15
 last_modified_at: 2025-07-02
 ---
 
-<style>
-  .schedule-container { display: flex; flex-wrap: wrap; gap: 2rem; justify-content: center; margin-top: 2rem; }
-  .schedule-card { background: #f9f9f9; border: 1px solid #eee; border-radius: 8px; padding: 1.5rem; flex: 1 1 400px; box-shadow: 0 2px 4px rgba(0,0,0,0.05); }
-  .schedule-card h3 { font-size: 1.5em; margin-top: 0; border-bottom: 2px solid #ddd; padding-bottom: 0.5rem; display: flex; align-items: center; }
-  .schedule-card h3 .icon { font-size: 1.5em; margin-right: 0.75rem; color: #888; }
-  .schedule-time { display: flex; justify-content: space-between; align-items: center; padding: 0.85rem 0; border-bottom: 1px solid #e5e5e5; }
-  .schedule-time:last-of-type { border-bottom: none; }
-  .schedule-time .time { font-weight: bold; font-size: 1.1em; }
-  .schedule-time .language { font-style: italic; color: #555; background: #eaeaea; padding: 0.2rem 0.5rem; border-radius: 4px; font-size: 0.9em; }
-  .schedule-note { margin-top: 1rem; font-size: 0.9em; color: #666; text-align: center; background: #eef; padding: 0.75rem; border-radius: 4px; }
-  .schedule-item { font-size: 1.1em; padding: 0.5rem 0; }
-  .special-mass { text-align: center; padding: 1rem; }
-  .special-mass strong { display: block; font-size: 1.2em; }
-  .special-mass em { color: #555; }
-</style>
+# Weekend
+## Saturday/Sábado
 
-All are welcome to join us for the celebration of the Holy Mass. This schedule is effective as of August 2025.
+| Time/Hora | Language/Idioma |
+| --------- | --------------- |
+| 5:00 pm   | English         |
+| 7:00 pm   | Español         |
 
-<div class="schedule-container">
+## Sunday/Domingo
 
-  <div class="schedule-card">
-    <h3><span class="icon">✞</span>Weekend Schedule</h3>
-    {% for day in site.data.schedule.weekend %}
-      <h4 style="margin-top: {% if forloop.first == false %}2rem{% else %}1rem{% endif %};">{{ day.day }}</h4>
-      {% for item in day.times %}
-        <div class="schedule-time">
-          <span class="time">{{ item.time }}</span>
-          <span class="language">{{ item.language }}</span>
-        </div>
-      {% endfor %}
-    {% endfor %}
-  </div>
+| Time/Hora | Language/Idioma |
+| --------- | --------------- |
+| 7:30 am   | English         |
+| 9:00 am   | Español         |
+| 11:30 am  | English         |
+| 1:30 pm   | Español         |
 
-  <div class="schedule-card">
-    <h3><span class="icon">🗓️</span>Weekday Schedule</h3>
-    {% for day in site.data.schedule.weekday %}
-      <h4 style="margin-top: {% if forloop.first == false %}2rem{% else %}1rem{% endif %};">{{ day.day }}</h4>
-      {% for item in day.times %}
-        <div class="schedule-time">
-          <span class="time">{{ item.time }}</span>
-          <span class="language">{{ item.language }}</span>
-        </div>
-        {% if item.note %}
-          <div class="schedule-note">{{ item.note }}</div>
-        {% endif %}
-      {% endfor %}
-    {% endfor %}
-  </div>
+## Weekday Masses/Misas durante la Semana
 
-</div>
+| Day/Día                       | Time/Hora | Language/Idioma       |
+| ----------------------------- | --------- | --------------------- |
+| Monday/lunes                  | 9:00 am   | English               |
+| Monday/lunes                  | 6:00 pm   | English               |
+| Tuesdays/martes               | 9:00 am   | English               |
+| Tuesdays/martes               | 12:00 pm  | Español               |
+| Wednesday/miércoles           | 6:00 am   | English/Español       |
+| Wednesday/miércoles           | 9:00 am   | English               |
+| Wednesday/miércoles           | 6:00 pm   | Español               |
+| Thursday/jueves               | 9:00 am   | English               |
+| Friday/viernes                | 9:00 am   | English               |
+| Friday/viernes                | 6:00 pm*  | Español               |
 
-<div class="schedule-container">
+*El primer viernes del mes a las 7:00 P.M. / On the first Friday of the month at 7:00 PM (Bilingual - English/Español)
 
-  <div class="schedule-card">
-    <h3><span class="icon">✨</span>Special Masses & Devotions</h3>
-    {% for item in site.data.schedule.special_masses %}
-      <div class="special-mass schedule-time">
-        <div>
-          <strong>{{ item.title }}</strong>
-          <em>{{ item.subtitle }}</em>
-        </div>
-        <span class="language">{{ item.time }}</span>
-      </div>
-    {% endfor %}
-  </div>
+## Special Masses/Misas Especiales
 
-  <div class="schedule-card">
-    <h3><span class="icon">🙏</span>Sacrament of Reconciliation</h3>
-    {% for item in site.data.schedule.reconciliation %}
-      <p class="schedule-item">{{ item.line }}</p>
-    {% endfor %}
-  </div>
+- First Friday/Primer viernes: 7:00 PM [ Alliance of the Two Hearts Devotion / Alianza de la Devoción de los Dos Corazones ]
+- First Saturday/Primer sábado: 8:00 AM
 
-</div>
+## Reconciliation/Reconciliación
+
+Reconciliation is available for 30 minutes, beginning 45 minutes before each Mass, except for the 6:00 AM Wednesday Mass and all Sunday Masses.
