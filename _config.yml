@@ -113,9 +113,10 @@ author:
 # Site Footer
 footer:
   links:
-    - label: "Facebook"
-      icon: "fab fa-fw fa-facebook-square\" style=\"color:black" # Forcing the color to black for the facebook icon
-      url: "https://www.facebook.com/120876511259646"
+    # TODO: Uncomment when the facebook page is active
+    # - label: "Facebook"
+    #   icon: "fab fa-fw fa-facebook-square\" style=\"color:black" # Forcing the color to black for the facebook icon
+    #   url: "https://www.facebook.com/120876511259646"
     - label: "Terms"
       icon: "fas fa-link"
       url: "/terms/#terms-and-conditions"
