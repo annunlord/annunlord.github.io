@@ -54,7 +54,7 @@ jobs:
         with:
           # The downloaded files will be in the root of the workspace,
           # so this path will find all HTML files.
-          args: "--base . --verbose ./**/*.html"
+          args: "--base . --verbose './**/*.html' './*.html'"
           # Optional: Add a GitHub token to avoid rate-limiting issues with the GitHub API
           # github_token: ${{secrets.GITHUB_TOKEN}}
           debug: true
