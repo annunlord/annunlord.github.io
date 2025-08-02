@@ -4,8 +4,8 @@ layout: splash
 
 # Add a 'home' class to the body tag for our custom CSS
 body_class: home
-title: "Welcome to Annunciation of the Lord Catholic Church"
-excerpt: '"Be it done to me according to thy word."<br/>- Luke 1:38'
+title: "Annunciation of the Lord"
+excerpt: 'To know and love God and be Christ to one another.'
 
 # The main header section, now with three action buttons.
 header:
