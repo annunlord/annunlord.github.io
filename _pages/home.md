@@ -22,7 +22,7 @@ header:
 ---
 
 
-<div class="home-mass-times" style="text-align: center; padding: 2rem 1rem; background: #f9f9f9;">
+<div class="home-mass-times" style="text-align: center; padding: 2rem 1rem;">
   <h2 style="font-size: 1.5em; margin-top: 0;">Join Us for Mass This Weekend</h2>
   <p class="lead" style="margin-bottom: 2rem;">All are welcome in the house of the Lord.</p>
 
