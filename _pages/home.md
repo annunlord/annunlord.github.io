@@ -50,6 +50,6 @@ header:
   </div>
 
   <p style="margin-top: 2rem;">
-    <a href="/broken_link/mass_times/" class="btn btn--primary">View Full Schedule & Confession Times</a>
+    <a href="/information/mass_times/" class="btn btn--primary">View Full Schedule & Confession Times</a>
   </p>
 </div>
