@@ -57,3 +57,8 @@ jobs:
           args: "--base jekyll-site --verbose ./**/*.html"
           # Optional: Add a GitHub token to avoid rate-limiting issues with the GitHub API
           # github_token: ${{secrets.GITHUB_TOKEN}}
+      - name: List files in site
+        run: |
+          echo "Files in the site directory:"
+          ls -R jekyll-site
+          echo "Link checking completed."
