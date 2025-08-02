@@ -9,18 +9,18 @@ last_modified_at: 2025-07-02
 
 <style>
   .schedule-container { display: flex; flex-wrap: wrap; gap: 2rem; justify-content: center; margin-top: 2rem; }
-  .schedule-card { background: #f9f9f9; border: 1px solid $border-color; border-radius: 8px; padding: 1.5rem; flex: 1 1 400px; box-shadow: 0 2px 4px rgba(0,0,0,0.05); }
-  .schedule-card h3 { font-size: 1.125em; margin-top: 0; border-bottom: 2px solid $border-color; padding-bottom: 0.5rem; display: flex; align-items: center; }
-  .schedule-card h3 .icon { font-size: 1.125em; margin-right: 0.75rem; color: $muted-text-color; }
-  .schedule-time { display: flex; justify-content: space-between; align-items: center; padding: 0.85rem 0; border-bottom: 1px solid $border-color; }
+  .schedule-card { background: #f9f9f9; border: 1px solid #eee; border-radius: 8px; padding: 1.5rem; flex: 1 1 400px; box-shadow: 0 2px 4px rgba(0,0,0,0.05); }
+  .schedule-card h3 { font-size: 1.125em; margin-top: 0; border-bottom: 2px solid #ddd; padding-bottom: 0.5rem; display: flex; align-items: center; }
+  .schedule-card h3 .icon { font-size: 1.125em; margin-right: 0.75rem; color: #888; }
+  .schedule-time { display: flex; justify-content: space-between; align-items: center; padding: 0.85rem 0; border-bottom: 1px solid #e5e5e5; }
   .schedule-time:last-of-type { border-bottom: none; }
   .schedule-time .time { font-weight: bold; font-size: 1em; }
-  .schedule-time .language { font-style: italic; color: $muted-text-color; background: #eaeaea; padding: 0.2rem 0.5rem; border-radius: 4px; font-size: 0.9em; }
-  .schedule-note { margin-top: 1rem; font-size: 0.9em; color: $muted-text-color; text-align: center; background: #eef; padding: 0.75rem; border-radius: 4px; }
+  .schedule-time .language { font-style: italic; color: #555; background: #eaeaea; padding: 0.2rem 0.5rem; border-radius: 4px; font-size: 0.9em; }
+  .schedule-note { margin-top: 1rem; font-size: 0.9em; color: #666; text-align: center; background: #eef; padding: 0.75rem; border-radius: 4px; }
   .schedule-item { font-size: 1em; padding: 0.5rem 0; }
   .special-mass { text-align: center; padding: 1rem; }
   .special-mass strong { display: block; font-size: 1.125em; }
-  .special-mass em { color: $text-color; }
+  .special-mass em { color: #555; }
 </style>
 
 All are welcome to join us for the celebration of the Holy Mass. This schedule is effective as of August 2025.

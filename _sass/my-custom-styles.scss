@@ -102,16 +102,16 @@
 // --- Hover State (Outlined, Gold Text) ---
 .page__hero-actions .btn:hover {
   background-color: transparent !important;
-  border: 1px solid $accent-color !important;
+  border: 1px solid #ac9023 !important;
   color: #fff !important; /* Use white for contrast against the background */
   transition: all 0.2s ease-in-out; /* Adds a smooth hover effect */
 }
 
 // --- Default State (Solid Gold, White Text) ---
 .page__hero-actions .btn {
-  background-color: $accent-color !important;
+  background-color: #ac9023 !important;
   color: #fff !important; /* Use white for the best contrast on the gold background */
-  border: 1px solid $accent-color !important; /* Remove border on hover */
+  border: 1px solid #ac9023 !important; /* Remove border on hover */
 }
 
 /*
