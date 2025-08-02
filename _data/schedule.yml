@@ -1,0 +1,66 @@
+# This is the master schedule file for the entire website.
+# To update any Mass or Confession times, simply edit the data below.
+
+weekend:
+  - day: "Saturday"
+    times:
+      - time: "5:00 PM"
+        language: "English"
+      - time: "7:00 PM"
+        language: "Spanish"
+  - day: "Sunday"
+    times:
+      - time: "7:30 AM"
+        language: "English"
+      - time: "9:00 AM"
+        language: "Spanish"
+      - time: "11:30 AM"
+        language: "English"
+      - time: "1:30 PM"
+        language: "Spanish"
+
+weekday:
+  - day: "Monday"
+    times:
+      - time: "9:00 AM"
+        language: "English"
+      - time: "6:00 PM"
+        language: "English"
+  - day: "Tuesday"
+    times:
+      - time: "9:00 AM"
+        language: "English"
+      - time: "12:00 PM"
+        language: "Spanish"
+  - day: "Wednesday"
+    times:
+      - time: "6:00 AM"
+        language: "Bilingual"
+      - time: "9:00 AM"
+        language: "English"
+      - time: "6:00 PM"
+        language: "Spanish"
+  - day: "Thursday"
+    times:
+      - time: "9:00 AM"
+        language: "English"
+  - day: "Friday"
+    times:
+      - time: "9:00 AM"
+        language: "English"
+      - time: "6:00 PM"
+        language: "Spanish"
+        note: "*Note: The Friday 6:00 PM Mass is replaced by the First Friday devotion on the first Friday of the month."
+
+special_masses:
+  - title: "First Friday Devotion"
+    subtitle: "Alliance of the Two Hearts"
+    time: "7:00 PM (Bilingual)"
+  - title: "First Saturday Devotion"
+    time: "8:00 AM (English)"
+
+reconciliation:
+  - line: "Reconciliation is available for 30 minutes, beginning 45 minutes before each Mass."
+  - line: "<strong>Exceptions:</strong> No regularly scheduled confessions before the 6:00 AM Wednesday Mass or any Sunday Mass."
+  - line: "Also available by appointment by calling the parish office."
+
