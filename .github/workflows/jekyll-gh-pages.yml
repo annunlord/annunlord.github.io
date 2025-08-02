@@ -52,6 +52,7 @@ jobs:
       - name: Create .lycheeignore file
         run: |
           echo "https://www.bhmdiocese.org" >> .lycheeignore
+          echo "http://eepurl.com/h-czoP" >> .lycheeignore # Ignore the MailChimp Link
       - name: Link Checker
         uses: lycheeverse/lychee-action@v1.10.0
         with:
