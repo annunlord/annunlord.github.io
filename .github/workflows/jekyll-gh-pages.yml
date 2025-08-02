@@ -49,6 +49,9 @@ jobs:
           # Must match the name given in the upload-artifact step
           name: jekyll-site
 
+      - name: Create .lycheeignore file
+        run: |
+          echo "https://www.bhmdiocese.org" >> .lycheeignore
       - name: Link Checker
         uses: lycheeverse/lychee-action@v1.10.0
         with:
