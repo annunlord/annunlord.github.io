@@ -51,3 +51,65 @@
   height: 100%;
   object-fit: cover; // Fill the container without stretching
 }
+
+
+/*
+// ==========================================================================
+// Home Page Header Button Layout
+// This creates a centered, wrapping, responsive row of buttons.
+// ==========================================================================
+*/
+
+// --- 1. Style the CONTAINER that holds the buttons ---
+.page__hero-actions {
+  display: flex;
+  flex-wrap: wrap;
+  justify-content: space-evenly; /* Evenly spaces the buttons */
+  align-items: center;
+  
+  /* --- NEW: Constrain the container width and center it on the page --- */
+  width: 80%;
+  max-width: 900px; /* Optional: prevents it from getting too wide on huge screens */
+  margin-left: auto;
+  margin-right: auto;
+  
+  margin-top: 1.5rem;
+}
+
+// --- 2. Style the BUTTONS themselves to behave predictably ---
+.page__hero-actions .btn {
+  margin: 0; /* Reset any default margins from the theme */
+}
+
+// --- 3. On PHONES, make the buttons stack into a single column ---
+@media screen and (max-width: $small) {
+  .page__hero-actions {
+    width: 100%; /* On mobile, let the container be full width again */
+  }
+  .page__hero-actions .btn {
+    width: 100%;
+    max-width: 350px;
+    margin-bottom: 2rem;
+  }
+}
+
+/*
+// ==========================================================================
+// Custom Styling for Home Page Header Buttons
+// ==========================================================================
+*/
+
+// --- Hover State (Outlined, Gold Text) ---
+.page__hero-actions .btn:hover {
+  background-color: transparent !important;
+  border: 1px solid #ac9023 !important;
+  color: #ac9023 !important;
+  transition: all 0.2s ease-in-out; /* Adds a smooth hover effect */
+}
+
+// --- Default State (Solid Gold, White Text) ---
+.page__hero-actions .btn {
+  background-color: #ac9023 !important;
+  color: #fff !important; /* Use white for the best contrast on the gold background */
+  border: 1px solid #ac9023 !important; /* Remove border on hover */
+}
