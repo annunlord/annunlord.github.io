@@ -87,7 +87,7 @@ United States
 </address>
 
 [(205) 838-8322](tel:+1-205-838-8322){: .btn .btn--inverse}
-[bhmdiocese.org](https://www.bhmdiocese.org){: .btn .btn--inverse}
+[www.bhmdiocese.org](https://www.bhmdiocese.org){: .btn .btn--inverse}
 
 ## United States Conference of Catholic Bishops
 
