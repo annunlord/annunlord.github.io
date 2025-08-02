@@ -56,14 +56,8 @@ jobs:
       - name: Link Checker
         uses: lycheeverse/lychee-action@v1.10.0
         with:
-          # The downloaded files will be in the root of the workspace,
-          # so this path will find all HTML files.
           args: "--base . --verbose './**/*.html' './*.html'"
-          # Optional: Add a GitHub token to avoid rate-limiting issues with the GitHub API
-          # github_token: ${{secrets.GITHUB_TOKEN}}
-          debug: true
+          github_token: ${{secrets.GITHUB_TOKEN}}
           fail: true
           failIfEmpty: true
-          jobSummary: true
           format: markdown
-          token: ${{ secrets.GITHUB_TOKEN }}
