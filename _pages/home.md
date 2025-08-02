@@ -4,13 +4,14 @@ layout: splash
 
 # Add a 'home' class to the body tag for our custom CSS
 body_class: home
-title: "The Word Became Flesh"
+title: "Annunciation of the Lord"
 excerpt: "Let it be done to me according to thy word"
 
 # The main header section, now with three action buttons.
 header:
   overlay_filter: 0.1 # Slightly darker for better text contrast
   overlay_image: /assets/images/20200302_204320-cropped-blur-dark2.webp
+  title: "The Word Became Flesh"
   actions:
     - label: "Mass Times"
       url: "/information/mass_times/"
