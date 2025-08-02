@@ -54,6 +54,6 @@ jobs:
         with:
           # The downloaded files will be in the root of the workspace,
           # so this path will find all HTML files.
-          args: "--verbose ./**/*.html"
+          args: "--base jekyll-site --verbose ./**/*.html"
           # Optional: Add a GitHub token to avoid rate-limiting issues with the GitHub API
           # github_token: ${{secrets.GITHUB_TOKEN}}
