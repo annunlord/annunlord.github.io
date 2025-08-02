@@ -49,11 +49,14 @@ jobs:
           # Must match the name given in the upload-artifact step
           name: jekyll-site
 
+      - name: Create .lycheeignore file
+        run: |
+          echo "https://www.bhmdiocese.org" >> .lycheeignore
+          echo "http://eepurl.com/h-czoP" >> .lycheeignore # Ignore the MailChimp Link
       - name: Link Checker
-        uses: lycheeverse/lychee-action@v1.9.0
+        uses: lycheeverse/lychee-action@v1.10.0
         with:
-          # The downloaded files will be in the root of the workspace,
-          # so this path will find all HTML files.
-          args: "--verbose ./**/*.html"
-          # Optional: Add a GitHub token to avoid rate-limiting issues with the GitHub API
-          # github_token: ${{secrets.GITHUB_TOKEN}}
+          args: "--base . --verbose './**/*.html' './*.html'"
+          token: ${{secrets.GITHUB_TOKEN}}
+          fail: true
+          format: markdown
