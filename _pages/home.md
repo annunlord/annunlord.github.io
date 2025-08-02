@@ -4,14 +4,13 @@ layout: splash
 
 # Add a 'home' class to the body tag for our custom CSS
 body_class: home
-title: "Annunciation of the Lord"
-excerpt: 'To know and love God and be Christ to one another.'
+title: "The Word Became Flesh"
+excerpt: "Let it be done to me according to thy word"
 
 # The main header section, now with three action buttons.
 header:
   overlay_filter: 0.1 # Slightly darker for better text contrast
   overlay_image: /assets/images/20200302_204320-cropped-blur-dark2.webp
-  title: "Welcome to Annunciation of the Lord"
   actions:
     - label: "Mass Times"
       url: "/information/mass_times/"
@@ -24,7 +23,6 @@ header:
 
 <div class="home-mass-times" style="text-align: center; padding: 2rem 1rem;">
   <h2 style="font-size: 1.5em; margin-top: 0;">Join Us for Mass This Weekend</h2>
-  <p class="lead" style="margin-bottom: 2rem;">All are welcome in the house of the Lord.</p>
 
   <div style="display: flex; flex-wrap: wrap; justify-content: center; gap: 2rem; max-width: 800px; margin: 0 auto; text-align: left;">
 
