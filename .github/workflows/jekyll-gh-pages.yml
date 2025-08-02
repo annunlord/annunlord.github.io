@@ -57,6 +57,13 @@ jobs:
           args: "--base . --verbose ./**/*.html"
           # Optional: Add a GitHub token to avoid rate-limiting issues with the GitHub API
           # github_token: ${{secrets.GITHUB_TOKEN}}
+          debug: true
+          fail: true
+          failIfEmpty: true
+          jobSummary: true
+          format: markdown
+          token: ${{ secrets.GITHUB_TOKEN }}
+
       - name: List files in site
         run: |
           echo "Files in the site directory:"
