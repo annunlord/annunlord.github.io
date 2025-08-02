@@ -14,7 +14,7 @@ last_modified_at: 2024-06-18
   .staff-entry { display: flex; align-items: center; gap: 1.5rem; padding: 1.5rem 0; border-bottom: 1px solid #eee; }
   .staff-entry:last-of-type { border-bottom: none; }
   .staff-entry img { width: 120px; height: 120px; border-radius: 50%; object-fit: cover; flex-shrink: 0; }
-  .staff-details h3 { margin-top: 0; margin-bottom: 0.25rem; font-size: 1em; color: #555; }
+  .staff-details h3 { margin-top: 0; margin-bottom: 0.25rem; font-size: 1em; color: $muted-text-color; }
   .staff-details strong { font-size: 1.2em; }
   .staff-details p { margin-top: 0; margin-bottom: 1rem; }
   @media screen and (max-width: 576px) { .staff-entry { flex-direction: column; text-align: center; } }
