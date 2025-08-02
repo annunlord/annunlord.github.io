@@ -63,9 +63,3 @@ jobs:
           jobSummary: true
           format: markdown
           token: ${{ secrets.GITHUB_TOKEN }}
-
-      - name: List files in site
-        run: |
-          echo "Files in the site directory:"
-          ls -R .
-          echo "Link checking completed."
