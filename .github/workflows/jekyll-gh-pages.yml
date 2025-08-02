@@ -60,5 +60,5 @@ jobs:
       - name: List files in site
         run: |
           echo "Files in the site directory:"
-          ls -R jekyll-site
+          ls -R .
           echo "Link checking completed."
