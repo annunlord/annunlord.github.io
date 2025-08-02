@@ -113,3 +113,23 @@
   color: #fff !important; /* Use white for the best contrast on the gold background */
   border: 1px solid #ac9023 !important; /* Remove border on hover */
 }
+
+/*
+// ==========================================================================
+// General Layout Tweaks
+// ==========================================================================
+*/
+
+// Center the title on all splash page headers
+.page__hero--overlay .page__title {
+  text-align: center;
+}
+
+// Center the lead/excerpt text on all splash page headers
+.page__hero--overlay .page__lead {
+  text-align: center !important; /* Force the text to center */
+  margin-left: auto;             /* Center the text block itself */
+  margin-right: auto;            /* Center the text block itself */
+  // Make the text italic for emphasis
+  font-style: italic;
+}
