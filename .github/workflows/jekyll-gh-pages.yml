@@ -50,7 +50,7 @@ jobs:
           name: jekyll-site
 
       - name: Link Checker
-        uses: lycheeverse/lychee-action@v2.4.1
+        uses: lycheeverse/lychee-action@v2
         with:
           # The downloaded files will be in the root of the workspace,
           # so this path will find all HTML files.
