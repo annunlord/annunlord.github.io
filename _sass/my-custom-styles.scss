@@ -103,7 +103,7 @@
 .page__hero-actions .btn:hover {
   background-color: transparent !important;
   border: 1px solid #ac9023 !important;
-  color: #ac9023 !important;
+  color: #fff !important; /* Use white for contrast against the background */
   transition: all 0.2s ease-in-out; /* Adds a smooth hover effect */
 }
 

@@ -9,7 +9,7 @@ excerpt: '"Be it done to me according to thy word."<br/>- Luke 1:38'
 
 # The main header section, now with three action buttons.
 header:
-  overlay_filter: 0.6 # Slightly darker for better text contrast
+  overlay_filter: 0.1 # Slightly darker for better text contrast
   overlay_image: /assets/images/20200302_204320-cropped-blur-dark2.webp
   title: "Welcome to Annunciation of the Lord"
   actions:
