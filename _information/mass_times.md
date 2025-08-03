@@ -23,7 +23,7 @@ last_modified_at: 2025-07-02
   .special-mass em { color: $text-color; }
 </style>
 
-All are welcome to join us for the celebration of the Holy Mass. This schedule is effective as of August 2025.
+All are welcome to join us for the celebration of the Holy Mass. This schedule is effective as of August 4th, 2025.
 
 <div class="schedule-container">
 
