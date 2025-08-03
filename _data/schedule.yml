@@ -56,7 +56,7 @@ weekday:
         language: "English"
       - time: "7:00 PM"
         language: "Spanish"
-        note: "*Note: The Friday 6:00 PM Mass is replaced by the First Friday devotion on the first Friday of the month."
+        note: "*Note: The Friday 7:00 PM Mass is replaced by the First Friday devotion on the first Friday of the month."
 
 special_masses:
   - title: "First Friday Devotion"
