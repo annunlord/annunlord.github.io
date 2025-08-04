@@ -74,9 +74,14 @@ All are welcome to join us for the celebration of the Holy Mass. This schedule i
   </div>
 
   <div class="schedule-card">
-    <h3><span class="icon">🙏</span>Sacrament of Reconciliation</h3>
-    {% for item in site.data.schedule.reconciliation %}
-      <p class="schedule-item">{{ item.line }}</p>
+    <h3 id="reconciliation"><span class="icon">🙏</span>Sacrament of Reconciliation</h3>
+    {% for day in site.data.schedule.reconciliation %}
+      <h4 style="margin-top: {% if forloop.first == false %}1.5rem{% else %}1rem{% endif %};">{{ day.day }}</h4>
+      {% for item in day.times %}
+        <div class="schedule-time">
+          <span class="time">{{ item.time }}</span>
+        </div>
+      {% endfor %}
     {% endfor %}
   </div>
 
