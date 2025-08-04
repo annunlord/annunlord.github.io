@@ -18,7 +18,7 @@ header:
     - label: "Latest Bulletin"
       url: "/information/bulletins/"
     - label: "Reconciliation"
-      url: "/information/mass_times/"
+      url: "/information/mass_times/#reconciliation"
 ---
 
 
