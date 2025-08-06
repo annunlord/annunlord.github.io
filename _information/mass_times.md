@@ -44,7 +44,7 @@ All are welcome to join us for the celebration of the Holy Mass. This schedule i
     today.setHours(0, 0, 0, 0);
 
     const futureLimit = new Date(today);
-    futureLimit.setDate(today.getDate() + 30);
+    futureLimit.setDate(today.getDate() + 14);
 
     const upcomingHolyDays = holyDaysData.filter(holyday => {
       const holydayDate = new Date(holyday.date + 'T00:00:00');
