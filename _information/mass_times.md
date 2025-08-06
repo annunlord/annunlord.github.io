@@ -25,6 +25,78 @@ last_modified_at: 2025-07-02
 
 All are welcome to join us for the celebration of the Holy Mass. This schedule is effective as of August 4th, 2025.
 
+<div class="schedule-card" id="holyday-schedule-card" style="display: none;">
+  <h3><span class="icon">🌟</span><span id="holyday-title-text">Upcoming Holy Days of Obligation</span></h3>
+  <div id="holyday-container" style="padding: 0 1rem 1rem 1rem;"></div>
+</div>
+
+<script>
+  const holyDaysData = {{ site.data.holydays | jsonify }};
+</script>
+
+<script>
+  document.addEventListener('DOMContentLoaded', function() {
+    const card = document.getElementById('holyday-schedule-card');
+    const container = document.getElementById('holyday-container');
+    const titleText = document.getElementById('holyday-title-text'); // Get the title element
+    
+    const today = new Date();
+    today.setHours(0, 0, 0, 0);
+
+    const futureLimit = new Date(today);
+    futureLimit.setDate(today.getDate() + 30);
+
+    const upcomingHolyDays = holyDaysData.filter(holyday => {
+      const holydayDate = new Date(holyday.date + 'T00:00:00');
+      return holydayDate >= today && holydayDate <= futureLimit;
+    });
+
+    const count = upcomingHolyDays.length;
+
+    // Only proceed if we found at least one holy day
+    if (count > 0) {
+      // --- NEW: LOGIC TO CHANGE THE TITLE ---
+      // If there's only one event, make the title singular.
+      if (count === 1) {
+        titleText.textContent = 'Upcoming Holy Day of Obligation';
+      }
+      // The plural title is already the default, so no 'else' is needed.
+      // --- END NEW LOGIC ---
+
+      let htmlContent = '';
+      upcomingHolyDays.forEach((holyday, holydayIndex) => {
+        // This 'if' statement adds a separator line between holy days if multiple are shown
+        if (holydayIndex > 0) {
+          htmlContent += `<hr style="margin: 2rem 0;">`;
+        }
+
+        htmlContent += `<div style="text-align: center; font-weight: bold; font-size: 1.1em; margin-bottom: 1rem;">${holyday.name}</div>`;
+
+        holyday.schedule.forEach((item, itemIndex) => {
+          const h4Style = `margin-top: ${itemIndex === 0 ? '0.5rem' : '1.5rem'}; margin-bottom: 0.5rem;`;
+          htmlContent += `<h4 style="${h4Style}">${item.type} (${item.note})</h4>`;
+
+          if (item.times && item.times.length > 0) {
+            item.times.forEach(t => {
+              htmlContent += `
+                <div class="schedule-time">
+                  <span class="time">${t.time}</span>
+                  <span class="language">${t.language}</span>
+                </div>
+              `;
+            });
+          } else if (item.note_alt) {
+            htmlContent += `<div class="schedule-time"><span class="time">${item.note_alt}</span></div>`;
+          }
+        });
+      });
+
+      container.innerHTML = htmlContent;
+      card.style.display = 'block';
+    }
+  });
+</script>
+
 <div class="schedule-container">
 
   <div class="schedule-card">
