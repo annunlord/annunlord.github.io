@@ -65,6 +65,87 @@
   date: "2025-12-25"
   schedule:
     - type: "Christmas Masses"
+      note: "Thursday, December 25th"
+      times:
+        - time: "12:00 PM"
+          language: "English"
+        - time: "7:00 PM"
+          language: "Bilingual"
+
+- name: "Solemnity of Mary, the Holy Mother of God"
+  date: "2026-01-01"
+  schedule:
+    - type: "Vigil Mass"
+      note: "Wednesday, December 31st"
+      times:
+        - time: "5:00 PM"
+          language: "English"
+    - type: "Holy Day Mass"
+      note: "Thursday, January 1st"
+      times:
+        - time: "9:00 AM"
+          language: "Bilingual"
+
+- name: "Solemnity of the Ascension of the Lord"
+  date: "2026-05-17"
+  schedule:
+    - type: "Celebration"
+      note: "Transferred to Sunday"
+      note_alt: "In our diocese, the Ascension is celebrated on the Seventh Sunday of Easter (May 17th)."
+      times: []
+
+- name: "Solemnity of the Assumption of the Blessed Virgin Mary"
+  date: "2026-08-15"
+  schedule:
+    - type: "Mass for the Solemnity"
+      note: "Obligation Abrogated (Lifted)"
+      note_alt: "Because this solemnity falls on a Saturday, the obligation to attend Mass is lifted."
+      times:
+        - time: "8:00 AM"
+          language: "English"
+
+- name: "Solemnity of All Saints"
+  date: "2026-11-01"
+  schedule:
+    - type: "Celebration"
+      note: "Celebrated on Sunday"
+      note_alt: "Since this solemnity falls on a Sunday, it is observed during the regular Sunday Mass schedule."
+      times: []
+
+- name: "Solemnity of the Immaculate Conception of the Blessed Virgin Mary"
+  date: "2026-12-08"
+  schedule:
+    - type: "Vigil Mass"
+      note: "Monday, December 7th"
+      times:
+        - time: "7:00 PM"
+          language: "Bilingual"
+    - type: "Holy Day Mass"
+      note: "Tuesday, December 8th"
+      times:
+        - time: "7:00 AM"
+          language: "English"
+        - time: "12:00 PM"
+          language: "English"
+
+- name: "Solemnity of the Nativity of the Lord (Christmas)"
+  date: "2026-12-25"
+  schedule:
+    - type: "Christmas Masses"
       note: "See Bulletin"
       note_alt: "Please see the bulletin for the full Christmas Eve and Christmas Day Mass schedule."
       times: []
+
+- name: "Solemnity of Mary, the Holy Mother of God"
+  date: "2027-01-01"
+  schedule:
+    - type: "Vigil Mass"
+      note: "Thursday, December 31st"
+      times:
+        - time: "5:00 PM"
+          language: "English"
+    - type: "Holy Day Mass"
+      note: "Friday, January 1st"
+      times:
+        - time: "9:00 AM"
+          language: "Bilingual"
