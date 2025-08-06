@@ -30,7 +30,7 @@
       note: "Thursday, August 14th"
       times:
         - time: "7:00 PM"
-          language: "Bilingual"
+          language: "English"
     - type: "Holy Day Mass"
       note: "Friday, August 15th"
       times:
@@ -38,6 +38,11 @@
           language: "English"
         - time: "12:00 PM"
           language: "English"
+        - time: "6:30 PM*"
+          language: "Bilingual"
+          note: "* The 6:30 PM Mass will be celebrated at Resurrection Catholic Chapel in Moulton."
+        - time: "7:00 PM"
+          language: "Spanish"
 
 - name: "Solemnity of All Saints"
   date: "2025-11-01"

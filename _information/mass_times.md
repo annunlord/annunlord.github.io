@@ -38,8 +38,8 @@ All are welcome to join us for the celebration of the Holy Mass. This schedule i
   document.addEventListener('DOMContentLoaded', function() {
     const card = document.getElementById('holyday-schedule-card');
     const container = document.getElementById('holyday-container');
-    const titleText = document.getElementById('holyday-title-text'); // Get the title element
-    
+    const titleText = document.getElementById('holyday-title-text');
+
     const today = new Date();
     today.setHours(0, 0, 0, 0);
 
@@ -53,19 +53,13 @@ All are welcome to join us for the celebration of the Holy Mass. This schedule i
 
     const count = upcomingHolyDays.length;
 
-    // Only proceed if we found at least one holy day
     if (count > 0) {
-      // --- NEW: LOGIC TO CHANGE THE TITLE ---
-      // If there's only one event, make the title singular.
       if (count === 1) {
         titleText.textContent = 'Upcoming Holy Day of Obligation';
       }
-      // The plural title is already the default, so no 'else' is needed.
-      // --- END NEW LOGIC ---
 
       let htmlContent = '';
       upcomingHolyDays.forEach((holyday, holydayIndex) => {
-        // This 'if' statement adds a separator line between holy days if multiple are shown
         if (holydayIndex > 0) {
           htmlContent += `<hr style="margin: 2rem 0;">`;
         }
@@ -84,6 +78,9 @@ All are welcome to join us for the celebration of the Holy Mass. This schedule i
                   <span class="language">${t.language}</span>
                 </div>
               `;
+              if (t.note) {
+                htmlContent += `<div class="schedule-note">${t.note}</div>`;
+              }
             });
           } else if (item.note_alt) {
             htmlContent += `<div class="schedule-time"><span class="time">${item.note_alt}</span></div>`;
