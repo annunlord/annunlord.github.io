@@ -45,7 +45,7 @@ weekday:
   - day: "Thursday"
     times:
       - time: "7:00 AM"
-        language: "English"
+        language: "Latin"
       - time: "12:00 PM"
         language: "Latin"
   - day: "Friday"
