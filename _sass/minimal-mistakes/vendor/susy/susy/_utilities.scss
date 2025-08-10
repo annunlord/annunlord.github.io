@@ -159,7 +159,7 @@ $_susy-error-output-override: false !default;
   @each $item in $list {
     @if (meta.type-of($item) == 'list') {
       $item: _susy-flatten($item);
-      $flat: join($flat, $item);
+      $flat: list.join($flat, $item);
     } @else {
       $flat:list.append($flat, $item);
     }
