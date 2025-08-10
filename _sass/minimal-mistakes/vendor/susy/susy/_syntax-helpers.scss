@@ -43,7 +43,7 @@
 ///     $context: susy-compile($span, $config);
 ///     width: su-call('su-span', $context);
 ///
-///     @if index($span, 'last') {
+///     @if list.index($span, 'last') {
 ///       float: right;
 ///     } @else {
 ///       float: left;
@@ -51,7 +51,10 @@
 ///     }
 ///   }
 
-
+@use 'sass:list';
+@use 'sass:map';
+@use 'sass:math';
+@use 'sass:meta';
 
 // Compile
 // -------
@@ -110,14 +113,14 @@
   $normal-config: susy-normalize($config);
 
   // Parse and normalize shorthand
-  @if (type-of($short) != 'map') and (length($short) > 0) {
+  @if (meta.type-of($short) != 'map') and (list.length($short) > 0) {
     $short: susy-parse($short, $context-only);
   }
 
   $normal-short: susy-normalize($short, $normal-config);
 
   // Merge and return
-  @return map-merge($normal-config, $normal-short);
+  @return map.merge($normal-config, $normal-short);
 }
 
 
@@ -170,7 +173,7 @@
     'su-slice': ('span', 'columns', 'location'),
   );
 
-  $args: map-get($grid-function-args, $name);
+  $args: map.get($grid-function-args, $name);
 
   @if not $args {
     $options: 'Try one of these: #{map-keys($grid-function-args)}';
@@ -179,13 +182,13 @@
       'su-call');
   }
 
-  $call: if(function-exists('get-function'), get-function($name), $name);
+  $call: if(meta.function-exists('get-function'), meta.get-function($name), $name);
   $output: ();
 
   @each $arg in $args {
-    $value: map-get($config, $arg);
-    $output: if($value, map-merge($output, ($arg: $value)), $output);
+    $value: map.get($config, $arg);
+    $output: if($value, map.merge($output, ($arg: $value)), $output);
   }
 
-  @return call($call, $output...);
+  @return meta.call($call, $output...);
 }

@@ -46,7 +46,10 @@
 /// @see susy-settings
 /// @see susy-get
 
-
+@use 'sass:list';
+@use 'sass:map';
+@use 'sass:math';
+@use 'sass:meta';
 
 // Susy
 // ----
@@ -219,7 +222,7 @@ $susy: () !default;
   $return: ();
 
   @for $i from 1 through $count {
-    $return: join($return, $value);
+    $return: list.join($return, $value);
   }
 
   @return $return;
@@ -286,10 +289,10 @@ $_susy-defaults: (
 @function susy-settings(
   $overrides...
 ) {
-  $settings: map-merge($_susy-defaults, $susy);
+  $settings: map.merge($_susy-defaults, $susy);
 
   @each $config in $overrides {
-    $settings: map-merge($settings, $config);
+    $settings: map.merge($settings, $config);
   }
 
   @return $settings;
@@ -319,11 +322,11 @@ $_susy-defaults: (
 ) {
   $settings: susy-settings();
 
-  @if not map-has-key($settings, $key) {
+  @if not map.has-key($settings, $key) {
     @return _susy-error(
       'There is no Susy setting called `#{$key}`',
       'susy-get');
   }
 
-  @return map-get($settings, $key);
+  @return map.get($settings, $key);
 }
