@@ -30,7 +30,7 @@ document.addEventListener('DOMContentLoaded', function() {
     const upcomingHolyDay = upcomingHolyDays[0];
     const holydayDate = new Date(upcomingHolyDay.date.split('-')[0], upcomingHolyDay.date.split('-')[1] - 1, upcomingHolyDay.date.split('-')[2]);
     const formattedDate = holydayDate.toLocaleDateString('en-US', { weekday: 'long', month: 'long', day: 'numeric' });
-    bannerContent.innerHTML = `<p style="margin-bottom: 0;"><strong>Upcoming Holy Day:</strong> The ${upcomingHolyDay.name} is on ${formattedDate}. <a href="/information/mass_times/#holyday-schedule-card" class="btn btn--primary btn--small" style="margin-left: 1rem; vertical-align: middle;">View Mass Times</a></p>`;
+    bannerContent.innerHTML = `<p style="margin-bottom: 0; font-size: 1.2em;"><strong>Upcoming Holy Day:</strong> The ${upcomingHolyDay.name} is on ${formattedDate}. <a href="/information/mass_times/#holyday-schedule-card" class="btn btn--primary" style="margin-left: 1rem; vertical-align: middle;">View Mass Times</a></p>`;
     bannerEl.style.display = 'block';
   }
 
