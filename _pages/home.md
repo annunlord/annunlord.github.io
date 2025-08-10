@@ -21,6 +21,10 @@ header:
       url: "/information/mass_times/#reconciliation"
 ---
 
+<div id="holyday-banner-alert" class="notice--info" style="display: none; text-align: center; padding: 0.5rem 1rem;">
+  <div id="holyday-banner-content">
+    </div>
+</div>
 
 <div class="home-mass-times" style="text-align: center; padding: 2rem 1rem;">
   <h2 style="font-size: 1.5em; margin-top: 0;">Join Us for Mass This Weekend</h2>
@@ -53,3 +57,8 @@ header:
     <a href="/information/mass_times/" class="btn btn--primary">View Full Schedule & Confession Times</a>
   </p>
 </div>
+
+<script>
+const holyDaysData = {{ site.data.holydays | jsonify }};
+{% include holyday-check.html %}
+</script>
