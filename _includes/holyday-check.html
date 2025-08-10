@@ -1,0 +1,63 @@
+// _includes/holyday-check.html
+
+document.addEventListener('DOMContentLoaded', function() {
+  const bannerEl = document.getElementById('holyday-banner-alert');
+  const scheduleCardEl = document.getElementById('holyday-schedule-card');
+  
+  if (!bannerEl && !scheduleCardEl) {
+    return;
+  }
+
+  const today = new Date();
+  today.setHours(0, 0, 0, 0);
+  const futureLimit = new Date(today);
+  futureLimit.setDate(today.getDate() + 14);
+
+  const upcomingHolyDays = holyDaysData.filter(holyday => {
+    if (!holyday.date) return false;
+    const parts = holyday.date.split('-');
+    const holydayDate = new Date(parts[0], parts[1] - 1, parts[2]);
+    return holydayDate >= today && holydayDate <= futureLimit;
+  });
+
+  if (upcomingHolyDays.length === 0) {
+    return;
+  }
+  
+  // --- Populate Home Page Banner ---
+  if (bannerEl) {
+    const bannerContent = document.getElementById('holyday-banner-content');
+    const upcomingHolyDay = upcomingHolyDays[0];
+    const holydayDate = new Date(upcomingHolyDay.date.split('-')[0], upcomingHolyDay.date.split('-')[1] - 1, upcomingHolyDay.date.split('-')[2]);
+    const formattedDate = holydayDate.toLocaleDateString('en-US', { weekday: 'long', month: 'long', day: 'numeric' });
+    bannerContent.innerHTML = `<p style="margin-bottom: 0; font-size: 1.2em;"><strong>Upcoming Holy Day:</strong> The ${upcomingHolyDay.name} is on ${formattedDate}. <a href="/information/mass_times/#holyday-schedule-card" class="btn btn--primary" style="margin-left: 1rem; vertical-align: middle;">View Mass Times</a></p>`;
+    bannerEl.style.display = 'block';
+  }
+
+  // --- Populate Mass Times Schedule Card ---
+  if (scheduleCardEl) {
+    const container = document.getElementById('holyday-container');
+    const titleText = document.getElementById('holyday-title-text');
+    if (upcomingHolyDays.length === 1) {
+        titleText.textContent = 'Upcoming Holy Day of Obligation';
+    }
+    let htmlContent = '';
+    upcomingHolyDays.forEach((holyday, index) => {
+        if (index > 0) htmlContent += `<hr style="margin: 2rem 0;">`;
+        htmlContent += `<div style="text-align: center; font-weight: bold; font-size: 1.1em; margin-bottom: 1rem;">${holyday.name}</div>`;
+        holyday.schedule.forEach((item, itemIndex) => {
+            htmlContent += `<h4 style="margin-top: ${itemIndex === 0 ? '0.5rem' : '1.5rem'}; margin-bottom: 0.5rem;">${item.type} (${item.note})</h4>`;
+            if (item.times && item.times.length > 0) {
+                item.times.forEach(t => {
+                    htmlContent += `<div class="schedule-time"><span class="time">${t.time}</span><span class="language">${t.language}</span></div>`;
+                    if (t.note) htmlContent += `<div class="schedule-note">${t.note}</div>`;
+                });
+            } else if (item.note_alt) {
+                htmlContent += `<div class="schedule-time"><span class="time">${item.note_alt}</span></div>`;
+            }
+        });
+    });
+    container.innerHTML = htmlContent;
+    scheduleCardEl.style.display = 'block';
+  }
+});
