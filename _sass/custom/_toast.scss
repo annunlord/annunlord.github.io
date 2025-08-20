@@ -1,0 +1,58 @@
+// _sass/custom/_toast.scss
+
+.toast {
+  visibility: hidden; /* Hidden by default */
+  opacity: 0;
+  position: fixed; /* Stay in place even when scrolling */
+  z-index: 1000; /* Appear on top of other content */
+  bottom: 25px; /* Position from the bottom */
+  right: 25px; /* Position from the right */
+  
+  width: 90%;
+  max-width: 350px; /* Set a max width for the notification */
+  
+  background-color: #fff;
+  color: #333;
+  border-radius: 8px;
+  box-shadow: 0 4px 12px rgba(0,0,0,0.15);
+  transition: visibility 0.5s, opacity 0.5s linear;
+}
+
+/* Style for when the toast is shown */
+.toast.show {
+  visibility: visible;
+  opacity: 1;
+}
+
+.toast-content {
+  padding: 15px 20px;
+  position: relative;
+}
+
+.toast-content h4 {
+  margin-top: 0;
+  margin-bottom: 10px;
+}
+
+.toast-content p {
+  margin-bottom: 0;
+  font-size: 0.9em;
+}
+
+/* The Close Button */
+.toast-close-button {
+  color: #aaa;
+  font-size: 24px;
+  font-weight: bold;
+  position: absolute;
+  top: 5px;
+  right: 10px;
+  line-height: 1;
+}
+
+.toast-close-button:hover,
+.toast-close-button:focus {
+  color: black;
+  text-decoration: none;
+  cursor: pointer;
+}
