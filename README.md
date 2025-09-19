@@ -32,6 +32,6 @@ Distributed under the MIT License. See `LICENSE` for more information.
 
 ## Contact
 
-Fr. Tom Ackerman - pastor@annunlord.com
+For any inquiries, please refer to the [contact information page](https://annunlord.com/information/contact_us/) on our website.
 
 Project Link: [https://github.com/annunlord/annunlord.github.io](https://github.com/annunlord/annunlord.github.io)
