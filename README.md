@@ -1,28 +1,37 @@
 # Annunlord.com
 
-This is the website for Annunciation of the Lord Catholic Church in Decatur, AL
+This repository contains the source code for the official website of [Annunciation of the Lord Catholic Church](https://annunlord.com) in Decatur, AL.
+
+## About The Project
+
+This website is the online presence for the Annunciation of the Lord Catholic Church. It provides information about the parish, mass times, events, and other resources for parishioners and visitors.
+
+The site is built using [Jekyll](https://jekyllrb.com/) and is based on the [Minimal Mistakes](https://github.com/mmistakes/minimal-mistakes) theme. It is hosted on GitHub Pages.
+
+### Built With
+
+*   [Jekyll](https://jekyllrb.com/)
+*   [Minimal Mistakes Theme](https://mmistakes.github.io/minimal-mistakes/)
+*   [GitHub Pages](https://pages.github.com/)
+
+## Getting Started
+
+To get a local copy up and running for development or testing purposes, please refer to the [Development section in our Contributing Guide](CONTRIBUTING.md#development).
 
 ## Contributing
 
-If you have an idea, concern, or other input, please make use of the "issues" tab on this repository. You'll need to create a GitHub account but I will get a notification and be able to track the ticket this way.
+Contributions are what make the open source community such an amazing place to learn, inspire, and create. Any contributions you make are **greatly appreciated**.
 
-## Development
+If you have a suggestion that would make this better, please fork the repo and create a pull request. You can also simply open an issue with the tag "enhancement".
 
-### Build Dependencies
+Please make sure to read our [Contributing Guide](CONTRIBUTING.md) for more details on our code of conduct, and the process for submitting pull requests to us.
 
-- [Docker Desktop](https://www.docker.com/products/docker-desktop/)
-- [git](https://git-scm.com/downloads)
-- [Visual Studio Code](https://code.visualstudio.com/Download)
-  - [Dev Container Extension](https://code.visualstudio.com/docs/devcontainers/tutorial)
+## License
 
-### Development Steps
+Distributed under the MIT License. See `LICENSE` for more information.
 
-1. Clone the repository `git clone https://github.com/annunlord/annunlord.github.io.git`
-2. Open the folder with VS Code
-3. When prompted in the lower right, click `Reopen in Container` or the like
-4. Once the background task completes, you'll be ready to start
-5. Press `ctrl+shift+P` which will open the Command pallet
-6. Type `Tasks: Run Tasks` then hit `Enter`
-7. Select the `Start jekyll` task to launch the website
-8. Open [http://localhost:4000](http://localhost:4000) to view the website as you've built it
+## Contact
 
+Fr. Tom Ackerman - pastor@annunlord.com
+
+Project Link: [https://github.com/annunlord/annunlord.github.io](https://github.com/annunlord/annunlord.github.io)
