@@ -16,7 +16,7 @@ feature_row:
     excerpt: '<div class="feature_icon"><i class="fas fa-lock fa-4x"></i></div>It’s a safe and secure way to donate to the church.'
 ---
 
-<div style="text-align: center;" markdown="1">
+<div style="text-align: center; margin-bottom: 2rem;" markdown="1">
 [Donate Now](https://giving.parishsoft.com/App/Giving/annunlord){: .btn .btn--primary .btn--large}
 </div>
 
