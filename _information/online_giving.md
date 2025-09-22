@@ -3,9 +3,11 @@ title: "Online Giving"
 permalink: /information/online_giving/
 ---
 
-## The Top Six Reasons Why Parishioners Use Parishsoft Online Giving
-
+<div style="text-align: center;">
 [Donate Now](https://giving.parishsoft.com/App/Giving/annunlord){: .btn .btn--primary .btn--large}
+</div>
+
+## The Top Six Reasons Why Parishioners Use Parishsoft Online Giving
 
 1.  **It’s Easy to Use**-just choose the fund you want to donate to and enter the amount.
 2.  **It’s Easy to Find**–click on the [“Donate” Button](https://giving.parishsoft.com/App/Giving/annunlord) located at the top of the Church Website and it will take you to the giving portal.
