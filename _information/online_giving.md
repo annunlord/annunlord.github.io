@@ -3,7 +3,7 @@ title: "Online Giving"
 permalink: /information/online_giving/
 ---
 
-<div style="text-align: center;">
+<div style="text-align: center;" markdown="1">
 [Donate Now](https://giving.parishsoft.com/App/Giving/annunlord){: .btn .btn--primary .btn--large}
 </div>
 
