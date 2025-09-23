@@ -60,3 +60,41 @@ jobs:
           token: ${{secrets.GITHUB_TOKEN}}
           fail: true
           format: markdown
+
+  visual-regression-tests:
+    runs-on: ubuntu-latest
+    needs: build
+    steps:
+      - name: Checkout
+        uses: actions/checkout@v4
+      - name: Download artifact
+        uses: actions/download-artifact@v4
+        with:
+          name: jekyll-site
+          path: ./_site
+      - name: Setup Node
+        uses: actions/setup-node@v4
+        with:
+          node-version: '20'
+      - name: Install dependencies
+        run: npm install
+      - name: Install Playwright Browsers
+        run: npx playwright install --with-deps
+      - name: Start server
+        run: |
+          cd _site
+          python3 -m http.server 8000 &
+          cd ..
+      - name: Run Playwright tests
+        run: npx playwright test --update-snapshots || true
+      - name: Upload snapshots
+        uses: actions/upload-artifact@v4
+        with:
+          name: snapshots
+          path: tests/visual.spec.js-snapshots
+      - uses: actions/upload-artifact@v4
+        if: always()
+        with:
+          name: playwright-report
+          path: playwright-report/
+          retention-days: 30
