@@ -1,24 +1,12 @@
-# Use the official Ruby image as a base image
-FROM ruby:3.2
-
-# Set the working directory in the container
+# Stage 1: Build the Jekyll site
+FROM jekyll/builder as builder
 WORKDIR /usr/src/app
-
-# Install dependencies
-RUN apt-get update -qq && apt-get install -y build-essential
-
-# Copy the Gemfile and Gemfile.lock into the container
-COPY Gemfile Gemfile.lock ./
-COPY minimal-mistakes-jekyll.gemspec ./
-
-# Install gems
-RUN bundle install
-
-# Copy the rest of the application's code into the container
 COPY . .
+RUN bundle install
+RUN jekyll build
 
-# Expose the port Jekyll will run on
-EXPOSE 4000
-
-# Command to run the Jekyll server
-CMD ["bundle", "exec", "jekyll", "serve", "--host", "0.0.0.0"]
+# Stage 2: Serve the built site with Nginx
+FROM nginx:alpine
+COPY --from=builder /usr/src/app/_site /usr/share/nginx/html
+EXPOSE 80
+CMD ["nginx", "-g", "daemon off;"]

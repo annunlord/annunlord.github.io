@@ -2,5 +2,8 @@
 set -e
 
 echo "Running linter..."
-echo "No linter configured."
+echo "Running spell check..."
+bundle exec rake spell_check
+echo "Running link check..."
+bundle exec rake test
 echo "Linter check complete."
