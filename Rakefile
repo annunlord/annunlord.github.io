@@ -1,76 +1,22 @@
-require "bundler/gem_tasks"
-require "jekyll"
-require "listen"
+# frozen_string_literal: true
 
-def listen_ignore_paths(base, options)
-  [
-    /_config\.ya?ml/,
-    /_site/,
-    /\.jekyll-metadata/
-  ]
-end
+require "html-proofer"
 
-def listen_handler(base, options)
-  site = Jekyll::Site.new(options)
-  Jekyll::Command.process_site(site)
-  proc do |modified, added, removed|
-    t = Time.now
-    c = modified + added + removed
-    n = c.length
-    relative_paths = c.map{ |p| Pathname.new(p).relative_path_from(base).to_s }
-    print Jekyll.logger.message("Regenerating:", "#{relative_paths.join(", ")} changed... ")
-    begin
-      Jekyll::Command.process_site(site)
-      puts "regenerated in #{Time.now - t} seconds."
-    rescue => e
-      puts "error:"
-      Jekyll.logger.warn "Error:", e.message
-      Jekyll.logger.warn "Error:", "Run jekyll build --trace for more information."
-    end
-  end
-end
-
-task :preview do
-  base = Pathname.new('.').expand_path
+task :test do
   options = {
-    "source"        => base.join('test').to_s,
-    "destination"   => base.join('test/_site').to_s,
-    "force_polling" => false,
-    "serving"       => true,
-    "theme"         => "minimal-mistakes-jekyll"
+    assume_extension: true,
+    check_html: true,
+    empty_alt_ignore: true,
+    timeframe: "1d",
+    url_ignore: [
+      "https://www.google.com/maps/place/St.+Anne's+Catholic+Church/@42.5966642,-83.7845184,17z/data=!3m1!4b1!4m5!3m4!1s0x8823541d66480a55:0x1b3c1685a735d14a!8m2!3d42.5966603!4d-83.7823297",
+      "https://github.com/GDesk/co.gdesk.Setup",
+      "https://www.bhmdiocese.org"
+    ]
   }
-
-  options = Jekyll.configuration(options)
-
-  ENV["LISTEN_GEM_DEBUGGING"] = "1"
-  listener = Listen.to(
-    base.join("_data"),
-    base.join("_includes"),
-    base.join("_layouts"),
-    base.join("_sass"),
-    base.join("assets"),
-    options["source"],
-    :ignore => listen_ignore_paths(base, options),
-    :force_polling => options['force_polling'],
-    &(listen_handler(base, options))
-  )
-
-  begin
-    listener.start
-    Jekyll.logger.info "Auto-regeneration:", "enabled for '#{options["source"]}'"
-
-    unless options['serving']
-      trap("INT") do
-        listener.stop
-        puts "     Halting auto-regeneration."
-        exit 0
-      end
-
-      loop { sleep 1000 }
-    end
-  rescue ThreadError
-    # You pressed Ctrl-C, oh my!
-  end
-
-  Jekyll::Commands::Serve.process(options)
+  puts "Building site"
+  system "bundle exec jekyll build"
+  puts "Checking links in ./_site"
+  HTMLProofer.check_directory("./_site", options).run
+  puts "No link issues found"
 end
