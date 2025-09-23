@@ -65,14 +65,8 @@ jobs:
     runs-on: ubuntu-latest
     needs: build
 
-    services:
-      web-server:
-        build: ./.github/nginx
-        volumes:
-          - ./_site:/usr/share/nginx/html
-
+    # All steps will run inside this Playwright container
     container:
-      # 1. Updated the Playwright version to v1.55.0
       image: mcr.microsoft.com/playwright:v1.55.0
 
     steps:
@@ -85,18 +79,40 @@ jobs:
           name: jekyll-site
           path: ./_site
 
+      - name: Build custom nginx server image
+        # This builds the image using the Dockerfile from our previous attempt
+        run: docker build -t custom-nginx ./.github/nginx
+
+      - name: Start custom nginx server
+        # This runs our new image in the background
+        run: |
+          docker run -d --name web-server --network host \
+            -v "$(pwd)/_site":/usr/share/nginx/html \
+            custom-nginx
+
+      - name: Wait for server to be ready
+        # This step prevents tests from running before the server is fully started
+        run: |
+          echo "Waiting for server to start..."
+          timeout=20
+          while ! curl -s --head http://localhost:80 | grep "200 OK" > /dev/null; do
+            if [ $timeout -le 0 ]; then
+              echo "Timeout waiting for server."
+              exit 1
+            fi
+            sleep 1
+            timeout=$((timeout-1))
+          done
+          echo "Server is up!"
+
       - name: Install dependencies
         run: npm install
 
       - name: Run Playwright tests
-        # 2. Removed "|| true" so the job will fail if tests fail.
-        # The '--update-snapshots' flag should typically be removed for CI checks
-        # and only used locally when intentionally updating the baseline.
-        # For CI, you might just run 'npx playwright test'.
         run: npx playwright test
         env:
-          PLAYWRIGHT_BASE_URL: http://web-server
-          # This fixes the Firefox permission issue
+          # Since the server and test runner share the host network, we use localhost
+          PLAYWRIGHT_BASE_URL: http://localhost:80
           HOME: /root
 
       - name: Upload snapshots on failure
