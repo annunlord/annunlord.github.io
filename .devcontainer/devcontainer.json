@@ -25,7 +25,7 @@
 	// Use 'forwardPorts' to make a list of ports inside the container available locally.
 	"forwardPorts": [4000, 9323],
 
-	"postCreateCommand": "bundle install"
+	"postCreateCommand": "npm install && bundle install"
 
 	// Uncomment to connect as root instead. More info: https://aka.ms/dev-containers-non-root.
 	// "remoteUser": "root"
