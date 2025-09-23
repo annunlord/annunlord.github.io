@@ -70,6 +70,7 @@ jobs:
         image: nginx:alpine
         volumes:
           - ./_site:/usr/share/nginx/html
+          - ./.github/nginx/nginx.conf:/etc/nginx/nginx.conf:ro
 
     container:
       # 1. Updated the Playwright version to v1.55.0
