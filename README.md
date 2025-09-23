@@ -18,6 +18,23 @@ The site is built using [Jekyll](https://jekyllrb.com/) and is based on the [Min
 
 To get a local copy up and running for development or testing purposes, please refer to the [Development section in our Contributing Guide](CONTRIBUTING.md#development).
 
+## Testing
+
+This project uses Playwright for end-to-end testing.
+
+To run the tests locally:
+
+1.  Install the dependencies:
+    ```bash
+    npm install
+    ```
+2.  Run the tests:
+    ```bash
+    npm run test:e2e
+    ```
+    This will first build the Jekyll site and then run the Playwright tests.
+    You will need to have Ruby and Bundler installed to build the site.
+
 ## Contributing
 
 Contributions are what make the open source community such an amazing place to learn, inspire, and create. Any contributions you make are **greatly appreciated**.
