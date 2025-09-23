@@ -74,3 +74,19 @@ task :preview do
 
   Jekyll::Commands::Serve.process(options)
 end
+
+require 'html-proofer'
+
+task :test do
+  sh "bundle exec jekyll build"
+  options = {
+    :ignore_urls => ["https://www.bhmdiocese.org"]
+  }
+  HTMLProofer.check_directory("./_site", options).run
+end
+
+task :spell_check do
+  sh "bundle exec jekyll build"
+  # Add spell check command here
+  puts "Spell check not implemented yet."
+end
