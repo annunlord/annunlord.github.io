@@ -64,36 +64,51 @@ jobs:
   visual-regression-tests:
     runs-on: ubuntu-latest
     needs: build
+
+    # Define background services needed for the job
+    services:
+      # Label for the service, which also becomes its hostname
+      web-server:
+        # Use a lightweight Nginx image to serve the static files
+        image: nginx:alpine
+        # Mount the downloaded site artifact into Nginx's web root directory
+        volumes:
+          - ./_site:/usr/share/nginx/html
+        # Nginx serves on port 80 by default
+
+    # Define the main container for running job steps
+    container:
+      image: mcr.microsoft.com/playwright:v1.44.0
+
     steps:
-      - name: Checkout
+      - name: Checkout repository code
         uses: actions/checkout@v4
-      - name: Download artifact
+
+      - name: Download site artifact
         uses: actions/download-artifact@v4
         with:
           name: jekyll-site
           path: ./_site
-      - name: Setup Node
-        uses: actions/setup-node@v4
-        with:
-          node-version: '20'
+
       - name: Install dependencies
         run: npm install
-      - name: Install Playwright Browsers
-        run: npx playwright install --with-deps
-      - name: Start server
-        run: |
-          cd _site
-          python3 -m http.server 8000 &
-          cd ..
+
       - name: Run Playwright tests
         run: npx playwright test --update-snapshots || true
+        env:
+          # Pass the server URL to Playwright using the service label as the hostname.
+          # Your test script should be configured to use this environment variable.
+          PLAYWRIGHT_BASE_URL: http://web-server
+
       - name: Upload snapshots
         uses: actions/upload-artifact@v4
         with:
           name: snapshots
           path: tests/visual.spec.js-snapshots
-      - uses: actions/upload-artifact@v4
+
+      - name: Upload Playwright report
         if: always()
+        uses: actions/upload-artifact@v4
         with:
           name: playwright-report
           path: playwright-report/
