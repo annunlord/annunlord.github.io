@@ -96,6 +96,8 @@ jobs:
         run: npx playwright test
         env:
           PLAYWRIGHT_BASE_URL: http://web-server
+          # This fixes the Firefox permission issue
+          HOME: /root
 
       - name: Upload snapshots on failure
         if: failure() # This step now runs only when tests fail
