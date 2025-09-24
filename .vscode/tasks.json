@@ -28,17 +28,15 @@
             "problemMatcher": []
         },
         {
-            "label": "Run Playwright tests",
             "type": "npm",
-            "script": "test",
-            "group": {
-                "kind": "test",
-                "isDefault": true
-            },
-            "problemMatcher": []
+            "script": "test:visual",
+            "problemMatcher": [],
+            "label": "Playwright - Test",
+            "detail": "playwright test"
         },
         {
-            "label": "Baseline Playwright tests",
+            "label": "Playwright - Baseline",
+            "detail": "playwright test -u",
             "type": "shell",
             "command": "npx playwright test -u",
             "group": "test",
