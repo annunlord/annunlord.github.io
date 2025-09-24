@@ -26,6 +26,21 @@
             ],
             "type": "shell",
             "problemMatcher": []
+        },
+        {
+            "type": "npm",
+            "script": "test:visual",
+            "problemMatcher": [],
+            "label": "Playwright - Test",
+            "detail": "playwright test"
+        },
+        {
+            "label": "Playwright - Baseline",
+            "detail": "playwright test -u",
+            "type": "shell",
+            "command": "npx playwright test -u",
+            "group": "test",
+            "problemMatcher": []
         }
     ]
 }
