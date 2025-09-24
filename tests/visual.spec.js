@@ -1,7 +1,27 @@
 const { test, expect } = require('@playwright/test');
 
-test('visual regression test for home page', async ({ page }) => {
-  await page.goto('/');
-  await page.waitForTimeout(1100); // Animation delay is 0.25s and animation is 0.3s. So, 1100ms is double the expected time
-  await expect(page).toHaveScreenshot();
-});
+const pages = [
+  '/',
+  '/information/',
+  '/information/adoration/',
+  '/information/bulletins/',
+  '/information/contact_us/',
+  '/information/directions/',
+  '/information/email_list/',
+  '/information/links/',
+  '/information/liturgical_minister_schedule/',
+  '/information/mass_times/',
+  '/information/parish_history/',
+  '/information/policies/',
+  '/terms/',
+  '/404'
+];
+
+for (const pageUrl of pages) {
+  test(`visual regression test for ${pageUrl}`, async ({ page }) => {
+    await page.goto(pageUrl);
+    await page.waitForTimeout(1100); // Animation Delay at 2 times the slowest animation
+    await page.waitForLoadState("networkidle"); // Be sure that the network is idle
+    await expect(page).toHaveScreenshot({ fullPage: true });
+  });
+}
