@@ -15,6 +15,10 @@ last_modified_at: 2023-09-23
 
 [St. Ann Facebook Page](https://m.facebook.com/159565961055772/){: .btn .btn--info}
 
+# Online Giving
+
+[Why Give Online?](/information/online_giving/){: .btn .btn--info}
+
 # Diocesan Links
 
 [One Voice](https://onevoicebhm.org/){: .btn .btn--info}
