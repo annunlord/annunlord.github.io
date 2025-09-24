@@ -20,8 +20,8 @@ const pages = [
 for (const pageUrl of pages) {
   test(`visual regression test for ${pageUrl}`, async ({ page }) => {
     await page.goto(pageUrl);
-    await page.waitForTimeout(1100); // Animation Delay at 2 times the slowest animation
     await page.waitForLoadState("networkidle"); // Be sure that the network is idle
+    await page.waitForTimeout(1100); // Animation Delay at 2 times the slowest animation
     await expect(page).toHaveScreenshot({ fullPage: true });
   });
 }
