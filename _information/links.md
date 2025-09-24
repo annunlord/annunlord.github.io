@@ -29,11 +29,11 @@ last_modified_at: 2023-09-23
 
 [Resurrection Chapel in Moulton, AL](https://www.moultoncatholics.org){: .btn .btn--info}
 
-[St. Bernard Abbey in Cullman, AL](http://www.stbernardabbey.com/){: .btn .btn--info}
+[St. Bernard Abbey in Cullman, AL](https://www.stbernardabbey.com/){: .btn .btn--info}
 
-[Ave Maria Grotto in Cullman, AL](http://www.avemariagrotto.com/){: .btn .btn--info}
+[Ave Maria Grotto in Cullman, AL](https://www.avemariagrotto.com/){: .btn .btn--info}
 
-[Benedictine Sisters of Sacred Heart Monastery in Cullman, AL](http://www.shmon.org/oblates.html){: .btn .btn--info}
+[Benedictine Sisters of Sacred Heart Monastery in Cullman, AL](https://www.shmon.org/oblates.html){: .btn .btn--info}
 
 # Local Catholic Schools
 

@@ -60,3 +60,52 @@ jobs:
           token: ${{secrets.GITHUB_TOKEN}}
           fail: true
           format: markdown
+
+  visual-regression-tests:
+    runs-on: ubuntu-latest
+    needs: build
+
+    container:
+      image: mcr.microsoft.com/playwright:v1.55.1
+
+    steps:
+      - name: Checkout repository code
+        uses: actions/checkout@v4
+
+      - name: Download site artifact
+        uses: actions/download-artifact@v4
+        with:
+          name: jekyll-site
+          path: ./_site
+
+      - name: Install dependencies
+        run: npm install
+
+      - name: Start Server & Run Tests
+        run: |
+          # Start the static web server in the background
+          npx http-server ./_site -p 8080 &
+
+          # Wait a few seconds for the server to be ready
+          sleep 5
+
+          # Run the Playwright tests
+          npx playwright test
+        env:
+          PLAYWRIGHT_BASE_URL: http://localhost:8080
+          HOME: /root
+
+      - name: Upload snapshots on failure
+        if: failure()
+        uses: actions/upload-artifact@v4
+        with:
+          name: snapshots-diff
+          path: tests/visual.spec.js-snapshots
+
+      - name: Upload Playwright report
+        if: always()
+        uses: actions/upload-artifact@v4
+        with:
+          name: playwright-report
+          path: playwright-report/
+          retention-days: 30

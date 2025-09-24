@@ -27,3 +27,8 @@ codekit-config.json
 .sass-cache
 _asset_bundler_cache
 _site
+jekyll_output.log
+
+# Playwright generated files
+playwright-report
+test-results
