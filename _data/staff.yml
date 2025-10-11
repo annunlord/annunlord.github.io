@@ -41,7 +41,7 @@ deacons:
         style: "btn--inverse"
   - title: "Deacon"
     name: "Deacon Lou Sciaroni"
-    photo: "/assets/images/bio-photo-2.webp"
+    photo: "/assets/images/DcnSciaroni.webp"
     contact:
       - value: "(256) 355-3363"
         link: "tel:+1-256-355-3363"
