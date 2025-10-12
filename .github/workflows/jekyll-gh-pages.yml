@@ -27,8 +27,7 @@ jobs:
         with:
           source: ./
           destination: ./_site
-        env:
-          JEKYLL_ENV: development
+          future: true
 
       # Use the general-purpose upload-artifact action
       - name: Upload artifact
