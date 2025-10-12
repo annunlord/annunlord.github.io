@@ -56,7 +56,7 @@ jobs:
       - name: Link Checker
         uses: lycheeverse/lychee-action@v1.10.0
         with:
-          args: "--remap \"^https://annunlord.com/ ./\" --base . --verbose './**/*.html' './*.html'"
+          args: "--remap \"^https://annunlord.com/ file://${{ github.workspace }}/\" --base . --verbose './**/*.html' './*.html'"
           token: ${{secrets.GITHUB_TOKEN}}
           fail: true
           format: markdown
