@@ -19,15 +19,11 @@ jobs:
       - name: Checkout
         uses: actions/checkout@v4
 
-      - name: Setup Pages
-        uses: actions/configure-pages@v4
-
       - name: Build with Jekyll
-        uses: actions/jekyll-build-pages@v1
-        with:
-          source: ./
-          destination: ./_site
-          future: true
+        run: |
+          gem install bundler
+          bundle install
+          bundle exec jekyll build --url ''
 
       # Use the general-purpose upload-artifact action
       - name: Upload artifact
