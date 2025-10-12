@@ -268,11 +268,6 @@ defaults:
       comments: # true
       share: false
       related: true
-  # Development
-  - scope:
-      path: ""
-    values:
-      url: ""
   # _pages
   - scope:
       path: ""
