@@ -19,11 +19,14 @@ jobs:
       - name: Checkout
         uses: actions/checkout@v4
 
+      - name: Setup Pages
+        uses: actions/configure-pages@v4
+
       - name: Build with Jekyll
-        run: |
-          gem install bundler
-          bundle install
-          bundle exec jekyll build --url ''
+        uses: actions/jekyll-build-pages@v1
+        with:
+          source: ./
+          destination: ./_site
 
       # Use the general-purpose upload-artifact action
       - name: Upload artifact
@@ -53,7 +56,7 @@ jobs:
       - name: Link Checker
         uses: lycheeverse/lychee-action@v1.10.0
         with:
-          args: "--base . --verbose './**/*.html' './*.html'"
+          args: "--remap \"^https://annunlord.com|./\" --base . --verbose './**/*.html' './*.html'"
           token: ${{secrets.GITHUB_TOKEN}}
           fail: true
           format: markdown
