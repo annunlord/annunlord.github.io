@@ -14,6 +14,8 @@ feature_row:
     excerpt: '<div class="feature_icon"><i class="fas fa-calendar-alt fa-4x"></i></div>You can make a one-time gift or make the gift recurring on a weekly, monthly, quarterly or yearly basis.'
   - title: "Safe and Secure"
     excerpt: '<div class="feature_icon"><i class="fas fa-lock fa-4x"></i></div>It’s a safe and secure way to donate to the church.'
+date: 2025-10-11
+last_modified_at: 2025-10-11
 ---
 
 <div class="donate-button-container-top" style="text-align: center;" markdown="1">
