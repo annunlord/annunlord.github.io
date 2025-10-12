@@ -27,7 +27,8 @@ jobs:
         with:
           source: ./
           destination: ./_site
-          config_file: _config.yml,_config_development.yml
+        env:
+          JEKYLL_ENV: development
 
       # Use the general-purpose upload-artifact action
       - name: Upload artifact
