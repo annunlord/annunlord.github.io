@@ -11,6 +11,7 @@ const pages = [
   '/information/links/',
   // '/information/liturgical_minister_schedule/',
   '/information/mass_times/',
+  '/information/online_giving/',
   '/information/parish_history/',
   '/information/policies/',
   '/terms/',
