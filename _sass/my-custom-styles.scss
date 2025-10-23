@@ -1,3 +1,33 @@
+/*
+// ==========================================================================
+// Typography
+// ==========================================================================
+*/
+
+@import url('https://fonts.googleapis.com/css2?family=Merriweather:wght@700&family=Source+Sans+Pro:wght@400;600&display=swap');
+
+body {
+  font-family: 'Source Sans Pro', sans-serif;
+}
+
+h1, h2, h3, h4, h5, h6 {
+  font-family: 'Merriweather', serif;
+}
+
+/*
+// ==========================================================================
+// Navigation
+// ==========================================================================
+*/
+
+.masthead {
+  position: -webkit-sticky; /* For Safari */
+  position: sticky;
+  top: 0;
+  z-index: 10;
+  box-shadow: 0 2px 4px rgba(0,0,0,0.1);
+}
+
 /* Center feature_row items on mobile */
 @media screen and (max-width: $small) {
   .feature__wrapper {
@@ -132,4 +162,19 @@
   margin-right: auto;            /* Center the text block itself */
   // Make the text italic for emphasis
   font-style: italic;
+}
+
+/*
+// ==========================================================================
+// Button Styles
+// ==========================================================================
+*/
+
+.btn {
+  border-radius: 8px !important;
+  transition: all 0.2s ease-in-out !important;
+}
+
+.btn:hover {
+  filter: brightness(110%);
 }
