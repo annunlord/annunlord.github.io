@@ -1,19 +1,4 @@
 # _data/holydays.yml
-# Complete list for 2025 Holy Days of Obligation in the USA.
-
-- name: "Solemnity of Mary, the Holy Mother of God"
-  date: "2025-01-01"
-  schedule:
-    - type: "Vigil Mass"
-      note: "Tuesday, December 31st"
-      times:
-        - time: "5:00 PM"
-          language: "English"
-    - type: "Holy Day Mass"
-      note: "Wednesday, January 1st"
-      times:
-        - time: "9:00 AM"
-          language: "Bilingual"
 
 - name: "Solemnity of the Ascension of the Lord"
   date: "2025-05-18" # Actual date is Thursday, May 15, but it's transferred
@@ -136,21 +121,37 @@
 - name: "Solemnity of the Nativity of the Lord (Christmas)"
   date: "2026-12-25"
   schedule:
+    - type: "Vigil Mass"
+      note: "Wednesday, December 24th"
+      times:
+        - time: "5:00 PM"
+          language: "English"
+        - time: "7:00 PM"
+          language: "Spanish"
+        - time: "9:00 PM"
+          language: "English"
+        - time: "11:00 PM"
+          language: "Latin"
     - type: "Christmas Masses"
-      note: "See Bulletin"
-      note_alt: "Please see the bulletin for the full Christmas Eve and Christmas Day Mass schedule."
-      times: []
+      note: "Thursday, December 25th"
+      times:
+        - time: "9:00 AM"
+          language: "English"
+        - time: "11:00 AM"
+          language: "Spanish"
 
 - name: "Solemnity of Mary, the Holy Mother of God"
   date: "2027-01-01"
   schedule:
     - type: "Vigil Mass"
-      note: "Thursday, December 31st"
+      note: "Wednesday, December 31st"
       times:
-        - time: "5:00 PM"
+        - time: "6:00 PM"
           language: "English"
     - type: "Holy Day Mass"
-      note: "Friday, January 1st"
+      note: "Thursday, January 1st"
       times:
-        - time: "9:00 AM"
-          language: "Bilingual"
+        - time: "9:30 AM"
+          language: "English"
+        - time: "11:00 AM"
+          language: "Spanish"
