@@ -63,7 +63,7 @@
       times:
         - time: "12:00 PM"
           language: "English"
-        - time: "7:00 PM"
+        - time: "6:00 PM"
           language: "Bilingual"
 
 - name: "Solemnity of the Nativity of the Lord (Christmas)"
