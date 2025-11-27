@@ -54,13 +54,24 @@
 - name: "Solemnity of the Nativity of the Lord (Christmas)"
   date: "2025-12-25"
   schedule:
-    - type: "Christmas Masses"
-      note: "Thursday, December 25th"
+    - type: "Vigil Mass"
+      note: "Wednesday, December 24th"
       times:
-        - time: "12:00 PM"
+        - time: "5:00 PM"
           language: "English"
         - time: "7:00 PM"
-          language: "Bilingual"
+          language: "Spanish"
+        - time: "9:00 PM"
+          language: "English"
+        - time: "11:00 PM"
+          language: "Latin"
+    - type: "Christmas Mass"
+      note: "Thursday, December 25th"
+      times:
+        - time: "9:00 AM"
+          language: "English"
+        - time: "11:00 AM"
+          language: "Spanish"
 
 - name: "Solemnity of Mary, the Holy Mother of God"
   date: "2026-01-01"
@@ -68,13 +79,15 @@
     - type: "Vigil Mass"
       note: "Wednesday, December 31st"
       times:
-        - time: "5:00 PM"
+        - time: "6:00 PM"
           language: "English"
     - type: "Holy Day Mass"
       note: "Thursday, January 1st"
       times:
-        - time: "9:00 AM"
-          language: "Bilingual"
+        - time: "9:30 AM"
+          language: "English"
+        - time: "11:00 AM"
+          language: "Spanish"
 
 - name: "Solemnity of the Ascension of the Lord"
   date: "2026-05-17"
