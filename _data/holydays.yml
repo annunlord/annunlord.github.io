@@ -58,12 +58,11 @@
   date: "2025-12-08"
   schedule:
     - type: "Mass for the Solemnity"
-      note: "Obligation Abrogated (Lifted)"
-      note_alt: "Because this solemnity falls on a Monday, the obligation to attend Mass is lifted."
+      note: "Monday, December 8th"
       times:
         - time: "12:00 PM"
           language: "English"
-        - time: "7:00 PM"
+        - time: "6:00 PM"
           language: "Bilingual"
 
 - name: "Solemnity of the Nativity of the Lord (Christmas)"
